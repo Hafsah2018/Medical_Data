@@ -1,0 +1,9 @@
+#py2neo
+
+query = "\
+MATCH (d:Drug)-[:ACTS_ON]->(di:Disease) \
+WHERE di.name in ['Depression', 'Migraine'] \
+RETURN d  \
+"
+results = graph.run(query)
+df = results.to_data_frame()
