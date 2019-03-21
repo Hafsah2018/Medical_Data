@@ -1,4 +1,4 @@
-targetID;kegg_pathwayID;kegg_pathwayName
+targetID;pathwayID;pathwayName
 TTDC00005;hsa04110;Cell cycle
 TTDC00005;hsa04115;p53 signaling pathway
 TTDC00005;hsa05166;HTLV-I infection
