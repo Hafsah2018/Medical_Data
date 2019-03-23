@@ -1,0 +1,4043 @@
+targetID;targetName
+TTDC00001;RNA-dependent RNA polymerase
+TTDC00002;Hemagglutinin
+TTDC00005;Serine/threonine-protein kinase Chk1
+TTDC00006;Aurora kinase A
+TTDC00007;Toll-like receptor 3
+TTDC00009;5-hydroxy-tryptamine 3B receptor
+TTDC00010;Serine/threonine-protein kinase Chk2
+TTDC00012;Fibronectin
+TTDC00013;Plasma kallikrein
+TTDC00014;Glucosylceramidase
+TTDC00015;Protein kinase C gamma type
+TTDC00016;Alpha-galactosidase A
+TTDC00017;Calcitonin gene-related peptide 1
+TTDC00018;Heat shock protein HSP 90
+TTDC00019;Cathepsin G
+TTDC00020;Integrin alpha-5
+TTDC00022;mRNA of Myb proto-oncogene protein
+TTDC00023;Lysosomal alpha-glucosidase
+TTDC00024;Basic fibroblast growth factor receptor 1
+TTDC00025;Phospholipase A2, membrane associated
+TTDC00026;Interleukin-2 receptor subunit beta
+TTDC00027;Histidine decarboxylase
+TTDC00028;Tissue kallikrein
+TTDC00029;Atrial natriuretic peptide receptor B
+TTDC00030;P-glycoprotein
+TTDC00031;Integrin beta-7
+TTDC00032;Tyrosine-protein phosphatase non-receptor type 6
+TTDC00033;Interleukin-12
+TTDC00034;Somatostatin receptor type 4
+TTDC00037;Prostaglandin E2 receptor EP3 subtype
+TTDC00038;Voltage-dependent anion-selective channel protein 2
+TTDC00039;Glycine receptor
+TTDC00040;Neuropeptide Y receptor type 2
+TTDC00041;Parathyroid hormone receptor
+TTDC00042;Matrix metalloproteinase-14
+TTDC00043;Neuropeptide Y receptor type 4
+TTDC00044;MAP kinase p38
+TTDC00045;Ephrin type-B receptor 4
+TTDC00046;Nuclear factor NF-kappa-B
+TTDC00048;Induced myeloid leukemia cell differentiation protein Mcl-1
+TTDC00049;Transient receptor potential cation channel subfamily V member 1
+TTDC00050;Glucose-dependent insulinotropic receptor
+TTDC00051;Gamma-secretase
+TTDC00052;NAD-dependent deacetylase sirtuin-1
+TTDC00053;Carboxypeptidase B2
+TTDC00054;Hypoxia-inducible factor-prolyl hydroxylase
+TTDC00055;Telomerase protein component 1
+TTDC00056;Toll-like receptor 8
+TTDC00057;Sphingomyelin phosphodiesterase 4
+TTDC00058;Sphingosine kinase, Sphingosine kinase 2
+TTDC00059;Serine/threonine-protein kinase 13
+TTDC00060;Heparanase
+TTDC00061;Voltage-dependent anion-selective channel protein 3
+TTDC00062;5-lipoxygenase activating protein
+TTDC00063;Nitric-oxide synthase, brain
+TTDC00064;Centromeric protein E
+TTDC00065;Farnesyltransferase
+TTDC00066;Protein kinase C, epsilon type
+TTDC00067;Cathepsin S
+TTDC00068;Cathepsin K
+TTDC00069;Peroxisome proliferator activated receptor delta
+TTDC00070;Corticosteroid 11-beta-dehydrogenase, isozyme 1
+TTDC00071;Proteinase activated receptor 1
+TTDC00072;Melanocortin-4 receptor
+TTDC00073;Corticotropin releasing factor receptor 1
+TTDC00074;Corticotropin releasing factor receptor 2
+TTDC00075;Thioredoxin
+TTDC00076;92 kDa type IV collagenase
+TTDC00077;Protein kinase C, delta type
+TTDC00078;Coagulation factor IX
+TTDC00079;Histamine H3 receptor
+TTDC00080;Interleukin-6
+TTDC00081;Interleukin-4 receptor alpha chain
+TTDC00082;Cholecystokinin type A receptor
+TTDC00084;Tyrosine-protein kinase JAK3
+TTDC00085;Complement C1s component
+TTDC00086;Thromboxane-A synthase
+TTDC00087;High affinity interleukin-8 receptor B
+TTDC00088;Cell division protein kinase 2
+TTDC00089;Neuropeptide Y receptor type 5
+TTDC00090;Substance-K receptor
+TTDC00091;Purine nucleoside phosphorylase
+TTDC00092;Beta-secretase
+TTDC00093;Calcitonin gene-related peptide type 1 receptor
+TTDC00094;Cell division protein kinase 7
+TTDC00095;Cell division protein kinase 9
+TTDC00096;Interferon gamma
+TTDC00097;Nitric-oxide synthase, endothelial
+TTDC00098;E-selectin
+TTDC00099;Glycogen phosphorylase, muscle form
+TTDC00100;Metabotropic glutamate receptor 5
+TTDC00101;Hypoxia-inducible factor 1 alpha
+TTDC00102;Mitogen-activated protein kinase 8
+TTDC00103;Macrophage migration inhibitory factor
+TTDC00104;72 kDa type IV collagenase
+TTDC00105;Stromelysin-1
+TTDC00106;Farnesyl-diphosphate farnesyltransferase
+TTDC00107;Toll-like receptor 9
+TTDC00108;Von Willebrand factor
+TTDC00110;Hepatocyte growth factor receptor
+TTDC00111;B2 bradykinin receptor
+TTDC00112;Somatostatin receptor type 1
+TTDC00113;STAT-1 transcription factor
+TTDC00114;Receptor protein-tyrosine kinase erbB-4
+TTDC00116;Platelet-activating factor acetylhydrolase
+TTDC00117;Nigral tachykinin NK(3) receptor
+TTDC00118;Cellular tumor antigen p53
+TTDC00119;Transcription factor AP-1
+TTDC00120;Protein-glutamine gamma-glutamyltransferase
+TTDC00121;C-X-C chemokine receptor type 4
+TTDC00122;C-C chemokine receptor type 2
+TTDC00123;Microsomal triglyceride transfer protein, large subunit
+TTDC00124;Cholesteryl ester transfer protein
+TTDC00125;C-X-C chemokine receptor type 3
+TTDC00126;Metabotropic glutamate receptor 3
+TTDC00127;Growth hormone secretagogue receptor type 1
+TTDC00128;Potassium voltage-gated channel subfamily KQT member 3
+TTDC00129;Leukotriene B4 receptor 1
+TTDC00130;Leukotriene A-4 hydrolase
+TTDC00131;Fibroblast growth factor receptor 3
+TTDC00132;RAC-alpha serine/threonine kinase, AkT
+TTDC00133;Melanin-concentrating hormone receptor 1
+TTDC00134;Heme oxygenase 1
+TTDC00135;B-lymphocyte antigen CD19
+TTDC00136;Interleukin-7 receptor alpha chain
+TTDC00137;Neural-cadherin
+TTDC00138;NRH dehydrogenase [quinone] 2
+TTDC00139;Serine/threonine protein kinase 12
+TTDC00140;Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, gamma isoform
+TTDC00141;Hexokinase D
+TTDC00142;mRNA of Clusterin
+TTDC00143;Kinesin-like protein KIF11
+TTDC00144;Neurotensin receptor type 1
+TTDC00145;Ribosomal protein S6 kinase
+TTDC00147;Interstitial collagenase
+TTDC00148;Integrin beta-1
+TTDC00149;Steryl-sulfatase
+TTDC00150;Collagenase 3
+TTDC00151;Prostaglandin E2 receptor, EP4 subtype
+TTDC00152;Fructose-1,6-bisphosphatase
+TTDC00153;Orexin receptor type 1
+TTDC00155;Motilin receptor
+TTDC00156;Tyrosine-protein kinase SYK
+TTDC00157;Macrophage metalloelastase
+TTDC00158;Sodium/glucose cotransporter 2
+TTDC00159;Histone deacetylase 4
+TTDC00160;Serine/threonine-protein kinase PLK1
+TTDC00161;Angiopoietin 1 receptor
+TTDC00162;Glycogen synthase kinase-3 beta
+TTDC00163;Protein kinase C, beta type
+TTDC00164;Dual specificity mitogen-activated protein kinase kinase
+TTDC00165;Cell division protein kinase 4
+TTDC00166;Cell division control protein 2 homolog
+TTDC00168;Antiapoptotic protein BCL-XL
+TTDC00169;Cell division protein kinase 6
+TTDC00170;Phosphodiesterase isozyme 4, PDE4
+TTDC00171;Guanylyl cyclase C
+TTDC00176;Placenta growth factor
+TTDC00177;Interleukin-13
+TTDC00178;Protein kinase C, theta type
+TTDC00179;P2Y purinoceptor 2
+TTDC00180;Amyloid beta A4 protein
+TTDC00181;Protein kinase C
+TTDC00182;Protein kinase C, alpha type
+TTDC00183;Neuropilin-1
+TTDC00184;Beta-3 adrenergic receptor
+TTDC00185;5-hydroxytryptamine 6 receptor
+TTDC00186;Interleukin-9
+TTDC00187;Tyrosine-protein kinase JAK2
+TTDC00188;Tumor necrosis factor receptor superfamily member 5
+TTDC00189;Tumor necrosis factor receptor superfamily member 16
+TTDC00190;High affinity interleukin-8 receptor A
+TTDC00191;mRNA of Protein-tyrosine phosphatase, non-receptor type 1
+TTDC00192;mRNA of Intercellular adhesion molecule-1
+TTDC00193;Neuropeptide Y receptor type 1
+TTDC00194;Hepatocyte growth factor
+TTDC00195;Telomerase
+TTDC00196;Tumor necrosis factor ligand superfamily member 13B
+TTDC00197;P-selectin
+TTDC00198;HCV polymerase
+TTDC00199;Myeloperoxidase
+TTDC00200;NAD(P)H dehydrogenase [quinone] 1
+TTDC00201;Mitogen-activated protein kinase 14
+TTDC00202;Rho-associated protein kinase 1
+TTDC00203;Transforming growth factor-beta
+TTDC00204;Vasoactive intestinal polypeptide receptor 1
+TTDC00205;Glucagon-like peptide 1
+TTDC00206;Ubiquitin-protein ligase E3 Mdm2
+TTDC00207;C-C chemokine receptor type 3
+TTDC00208;T-cell-specific surface glycoprotein CD28
+TTDC00209;Toll-like receptor 4
+TTDC00210;Angiopoietin-2
+TTDC00211;HIV integrase
+TTDC00212;Cyclin-dependent kinase
+TTDC00213;Connective tissue growth factor
+TTDC00214;Interleukin-17
+TTDC00215;C-C chemokine receptor type 1
+TTDC00216;mRNA of C-reactive protein
+TTDC00217;Interleukin-5 receptor
+TTDC00218;P2X purinoceptor 7
+TTDC00219;Tumor necrosis factor receptor superfamily member 4
+TTDC00220;Metabotropic glutamate receptor 1
+TTDC00221;Interleukin-18
+TTDC00222;Inhibitor of nuclear factor kappa-B kinase
+TTDC00224;Tumor necrosis factor ligand superfamily member 11
+TTDC00225;Macrophage inflammatory protein-2-alpha
+TTDC00226;C-C chemokine receptor type 4
+TTDC00227;Sodium- and chloride-dependent glycine transporter 1
+TTDC00228;mRNA of Eukaryotic translation initiation factor 4E
+TTDC00230;Gastrin-releasing peptide receptor
+TTDC00231;G-protein coupled receptor 54
+TTDC00232;Cytochrome P450 26
+TTDC00233;Gamma secretase
+TTDC00234;Interleukin-1 receptor, type II
+TTDC00236;mRNA of ApoB-100
+TTDC00237;Putative G-protein coupled receptor 44
+TTDC00238;EGF-like domain-containing protein 7
+TTDC00239;Neuronal acetylcholine receptor subunit alpha-9
+TTDC00240;Voltage-dependent calcium channel subunit alpha-2/delta-2
+TTDC00241;mRNA of HIF-1 responsive protein RTP801
+TTDC00242;Neuronal acetylcholine receptor subunit alpha-10
+TTDC00243;Solute carrier family 22 member 12
+TTDC00244;Bcl-2-like protein 2
+TTDC00245;NEDD8-activating enzyme E1 catalytic subunit
+TTDC00246;Synaptic vesicle glycoprotein 2A
+TTDC00247;Angiopoietin-1
+TTDC00248;Mucosal addressin cell adhesion molecule 1
+TTDC00249;Puromycin-sensitive aminopeptidase
+TTDC00250;Glutamate receptor 1
+TTDC00251;Interleukin-15
+TTDC00252;Pigment epithelium-derived factor
+TTDC00253;Somatostatin receptor type 5
+TTDC00254;Somatostatin receptor type 3
+TTDC00255;Sodium-dependent serotonin transporter
+TTDC00256;Wee1-like protein kinase
+TTDC00257;Ciliary neurotrophic factor receptor alpha
+TTDC00258;Sphingosine 1-phosphate receptor 1
+TTDC00259;Cytotoxic T-lymphocyte protein 4
+TTDC00260;Sodium/glucose cotransporter 1
+TTDC00263;Macrophage colony-stimulating factor 1
+TTDC00264;Beta-2-glycoprotein 1
+TTDC00265;T-cell surface glycoprotein CD4
+TTDC00266;Tumor necrosis factor receptor superfamily member 10B
+TTDC00267;Tumor necrosis factor receptor superfamily member 10A
+TTDC00268;mRNA of TNF alpha
+TTDC00269;mRNA of Heat shock 27 kDa protein
+TTDC00270;HCV internal ribosome entry site (IRES)
+TTDC00271;Myc proto-oncogene protein
+TTDC00272;Transforming growth factor beta 2
+TTDC00273;Baculoviral IAP repeat-containing protein 5
+TTDC00274;mRNA of HIV Tar and Tat/Rev
+TTDC00275;HCV genome conserved portion (unspecified)
+TTDC00277;mRNA of E1 region of human papillomavirus
+TTDC00278;mRNA of Inflammatory cytokines
+TTDC00279;mRNA of respiratory syncytial virus nucleocapsid protein
+TTDC00280;mRNA of Inhibitor of apoptosis protein
+TTDC00281;MARK3
+TTDC00282;mRNA of Integrin alpha V
+TTDC00283;mRNA of HIV-1 envelope protein
+TTDC00284;mRNA of HIV reverse transcriptase
+TTDC00285;mRNA of Survivin
+TTDC00286;mRNA of Glucagon receptor
+TTDC00287;mRNA of PKC-alpha
+TTDC00288;mRNA of Vascular endothelial growth factor receptor
+TTDC00289;mRNA of Vascular endothelial growth factor A165 isoform
+TTDC00290;Vascular endothelial growth factor receptor 3
+TTDC00291;D(4) dopamine receptor
+TTDC00292;Alpha-1A adrenergic receptor
+TTDC00293;Alpha-2B adrenergic receptor
+TTDC00295;Triacylglycerol lipase, pancreatic
+TTDC00297;Histone deacetylase
+TTDC00298;Vasopressin V1b receptor
+TTDC00299;Glutamate [NMDA] receptor subunit epsilon 2
+TTDC00300;Interleukin-1
+TTDC00301;Neuronal acetylcholine receptor protein, beta-2 chain
+TTDC00303;Potassium voltage-gated channel subfamily A member 5
+TTDC00304;Sodium-dependent noradrenaline transporter
+TTDC00307;FK506-binding protein 1A
+TTDC00308;mRNA of HIV-1 TAR
+TTDC00310;mRNA of RAF proto-oncogene serine/threonine-protein kinase
+TTDC00311;Alpha platelet-derived growth factor receptor
+TTDC00312;Urokinase-type plasminogen activator
+TTDC00313;Acetyl-CoA acetyltransferase, mitochondrial
+TTDC00314;Cannabinoid receptor 2
+TTDC00315;Phosphodiesterase
+TTDC00316;Tyrosine-protein kinase
+TTDC00317;Nicotinic acid receptor
+TTDC00318;High affinity nerve growth factor receptor
+TTDC00319;Apoptosis regulator Bcl-2
+TTDC00320;G protein-coupled receptor 110A niacin receptor
+TTDC00321;HCV NS4B protein
+TTDC00322;HCV NS5A protein, NS5A protein
+TTDC00323;M1 prime segment of membrane IgE
+TTDC00324;MicroRNA miR-122
+TTDC00325;mRNA of copper zinc superoxide dismutase 1
+TTDC00326;Complement factor D
+TTDC00327;Lymphotoxin alpha
+TTDC00328;mRNA of ApoC-III
+TTDC00329;mRNA of transthyretin
+TTDC00330;mRNA of Factor XI
+TTDC00331;Apolipoprotein B-100
+TTDC00332;mRNA of androgen receptor
+TTDC00333;Prolactin receptor
+TTDC00334;mRNA of VEGFR1
+TTDC00335;mRNA of connective tissue growth factor
+TTDC00336;mRNA of sodium-glucose transporter-2
+TTDC00337;CD70
+TTDC00338;Activin receptor-like kinase-1
+TTDC00339;mRNA of kinesin spindle protein
+TTDC00340;Choline transporter-like protein 4
+TTDC00341;Scavenger decapping enzyme DcpS
+TTDC00342;Calcium-release activated calcium channel
+TTDC00343;Nectin-4
+TTDC00344;Smoothened
+TTDC00345;mRNA of growth hormone receptor
+TTDI00319;Purine nucleoside phosphorylase
+TTDI00342;CXCR4 chemokine
+TTDI00350;AKT1 protein kinase
+TTDI00462;Nicotinic acid receptor 1
+TTDI00558;Interleukin-16 ligand
+TTDI00587;GTP cyclohydrolase-I
+TTDI00605;Proliferating cell nuclear antigen
+TTDI00607;12/15-lipoxygenase
+TTDI00641;Protein phosphatase 2A
+TTDI00662;Connecting peptide (C-peptide)
+TTDI00711;Methionine aminopeptidase-2
+TTDI00747;Stearoyl CoA desaturase-1
+TTDI00764;Bacteria chorismate synthase
+TTDI00816;Glutathione reductase
+TTDI00862;Dihydroorotate dehydrogenase
+TTDI00870;DNA topoisomerase I
+TTDI00909;Ryanodine receptor
+TTDI00915;Angiotensin-converting enzyme
+TTDI00931;DHFR
+TTDI00934;RNA polymerase
+TTDI00939;Estrogen receptor alpha
+TTDI00956;Thioredoxin reductase
+TTDI00964;Thymidylate synthase
+TTDI00965;Squalene epoxidase
+TTDI00967;Tubulin beta-1 chain
+TTDI00990;Farnesyl pyrophosphate synthase
+TTDI01008;Voltage-dependent calcium channel subunit alpha-2/delta-1
+TTDI01014;Carnitine palmitoyltransferase-I
+TTDI01022;CD11a
+TTDI01040;Hemoglobin
+TTDI01041;Hemoglobin subunit beta
+TTDI01147;Adenine biosynthesis
+TTDI01148;Virus DNA
+TTDI01149;Beta-hydroxybutyrate
+TTDI01150;Prolonging and increasing the activation of HSF1
+TTDI01151;Inhibiting HIV-1 attachment
+TTDI01152;Nuclear transcription mechanisms that govern and regulate inflammation
+TTDI01153;HIV replication early phase
+TTDI01154;Hydroxyapatite
+TTDI01155;Inhibiting both TNF-alpha and IL-1 beta production
+TTDI01156;Inhibiting IL-1 synthesis and/or release
+TTDI01157;Inhibiting the induction of nitric oxide synthase
+TTDI01158;Micelle
+TTDI01159;Mitochondrial gene transcription
+TTDI01160;Calcium flux
+TTDI01161;Reactive oxygen species
+TTDI01162;Histamine and peptide leukotrienes release
+TTDI01163;Lipid peroxidation
+TTDI01164;IFN-gamma production
+TTDI01166;Inducing a significant increase in cyclic AMP level
+TTDI01167;P-glycoprotein mediated multidrug resistance
+TTDI01168;Release of ACh
+TTDI01169;Histamine release
+TTDI01170;IgE-mediated histamine release
+TTDI01171;Leukotriene biosynthesis
+TTDI01172;Potential penetration
+TTDI01173;Uptake of luminal sterol across the microvillus membrane
+TTDI01174;HBV protein priming reaction and the packaging reaction
+TTDI01175;Potentiating dexamethasone-induced GR transcriptional activity
+TTDI01176;Ca2+ dependent or involving processes
+TTDI01177;Coccidia schizogony and gametogony processes
+TTDI01178;Cyclin D1 synthesis
+TTDI01179;DNA synthesis
+TTDI01180;Downregulating angiotensin II-induced endothelin-1 gene expression
+TTDI01181;Histone synthesis
+TTDI01182;Inhibit the formation of beta-hematin by forming a complex with hemin
+TTDI01183;Progesterone
+TTDI01184;Prostaglandin metabolism
+TTDI01185;Superoxide anion
+TTDI01186;Second phase insulin secretion
+TTDI01187;Plasmodial phospholipid metabolism
+TTDI01188;Bacterial protein synthesis
+TTDI01189;Cell mediated immunity response
+TTDI01190;JAK-2/STAT-1 pathway
+TTDI01192;Phospholipids in bacterial cell membrane
+TTDI01193;Tumour metastasis
+TTDI01195;Cell cycle
+TTDI01197;Signal transduction
+TTDI01198;Intracellular signaling, damage sensing, and DNA repair pathways responsible for DNA damage
+TTDI01199;Tumorigenesis
+TTDI01201;Inhibiting sodium/calcium ion exchange
+TTDI01202;Fungal mitochondrial membrane
+TTDI01203;Ergosterol synthesis
+TTDI01204;Improve mitochondrial function
+TTDI01209;Hydroxy radical
+TTDI01217;Chaperonin
+TTDI01218;Microbial membrane
+TTDI01219;Cytochrome P-450-dependent ergosterol synthesis
+TTDI01220;Free radicals
+TTDI01221;JAK-STAT pathway
+TTDI01222;Cytomegalovirus (CMV) replication
+TTDI01223;Mast cell degranulation
+TTDI01228;Bone metabolism
+TTDI01230;Ganglioside GD2
+TTDI01231;Galactose oligosaccharides and glycolipids
+TTDI01232;Replacing the 17 beta-estradiol and progesterone hormones the body has stopped producing as the result of menopause
+TTDI01234;Viral maturaton
+TTDI01235;Gene thrapy-delivered myostatin
+TTDI01236;AE-H
+TTDI01237;Hormone
+TTDI01238;Cell differentiation
+TTDI01239;Galectin
+TTDI01240;Viral matration
+TTDI01241;HV MAG pDNA
+TTDI01242;mRNA of HBV
+TTDI01243;Pseudomonas aeruginosa Psl exopolysaccharide
+TTDI01244;microbiome
+TTDI01245;meningococcal groups ACWY conjugate
+TTDI01246;Haemophilus influenzae type B CRM 197 conjugate
+TTDI01247;HIV-MAG DNA
+TTDI01248;Glutamatergc system
+TTDI01249;Recombinant tetravalent attenuated live dengue
+TTDI01250;Inhibiting expression of interleukin-1 (IL-1), interleukin-6 (IL-6) and tumor necrosis factor (TNF)
+TTDI01251;Antigen-specific immunotherapeutic
+TTDI01253;Basal lamina
+TTDI01254;Activating key enzymes to regulate glucose metabolism
+TTDI01255;Inhibiting IL-1/TNF alpha synthesis
+TTDI01256;Cholinergic activityy
+TTDI01257;Gastric emptying
+TTDI01258;Hydroxyl radicals and superoxide anions
+TTDI01259;Mediator release
+TTDI01260;Neutrophil adhesion
+TTDI01261;Hantavirus
+TTDI01262;Rotavirus toxin
+TTDI01263;Gram-positive bacteria
+TTDI01264;Secretion of growth hormone
+TTDI01265;Malaria DNA
+TTDI01266;Glycolysis
+TTDI01268;Inhibiting pro-inflammatory cytokines (IL-1b, MCP-1, IL-6 and IL-10)
+TTDI01269;Cationic airway liquid
+TTDI01270;mRNA of lentivirus
+TTDI01271;HIV-1 ribonucleic acid
+TTDI01272;HCV nucleoside
+TTDI01276;Non-retinoid visual cycle
+TTDI01278;Synthetic peptide-based
+TTDI01279;Mistletoe lectin
+TTDI01281;TNF-alpha synthesis
+TTDI01282;Inhibiting the expression of inducible nitric oxide synthase (iNOS)
+TTDI01285;Decreasing the activity of important signaling molecules (pAKT) involved in chemoresistance, inducing the NF-E2 related factor 2 (NRF2) stress response pathway by inducing the the generation of free radicals, and increasing the cellular concentration of superoxide, hydroxyl free radicals and/or hydrogen peroxide
+TTDI01286;Inhibiting expression of pro-inflammatory cytokines (IL-1beta, IL-6, IL-12, TNF-alpha and IL-10)
+TTDI01287;Potassium
+TTDI01288;Reducing beta-glucuronidase level
+TTDI01289;Binding to a specific neuroepithelial receptor
+TTDI01290;Increasing unstimulated AM release of both TNF and IL-10
+TTDI01291;Voltage-gated ion channel
+TTDI01292;Expression of inflammation cytokines including TNF-alpha, IL-1beta and IL-6
+TTDI01295;HIV transmission
+TTDI01302;Gluten
+TTDI01303;Hexim1 kinase
+TTDI01304;Genes involved in the insulin signaling pathway during the differentiation of monocyte-derived stem cells (MDSCs)
+TTDI01305;Poxvirus enzyme
+TTDI01306;Enhancing the inclusion of exon 7 in the splicing of SMN2 pre-messenger RNA (premRNA) and restored normal SMN protein levels
+TTDI01308;Protein synthesis
+TTDI01309;Inhibiting vascular cell adhesion molecule expression
+TTDI01310;Leukocyte
+TTDI01311;Nitric oxide
+TTDI01312;Two specific enzymes that are active in the skin
+TTDI01313;PK modulator
+TTDI01314;Cyclic pyranopterin monophosphate
+TTDI01315;HIV maturation
+TTDI01316;Brain membranes
+TTDI01317;Multidrug-resistance
+TTDI01318;Bile acid
+TTDI01319;Poly-N-acetyl glucosamine
+TTDI01321;Inhibiting platelet activation by cathepsin G released from stimulated polymorphonuclear leukocytes
+TTDI01324;T cell
+TTDI01325;Hypoxic cell
+TTDI01326;T-cells
+TTDI01327;Stem cell
+TTDI01328;Stem or T cell
+TTDI01329;Allogeneic B7.1/HLA-A1 transfected tumor cell
+TTDI01330;Cancer cell
+TTDI01331;Cathelicidin
+TTDI01332;Glycosyltransferase
+TTDI01333;ATM serine protein kinase
+TTDI01334;Exo-alpha sialidase
+TTDI01335;Heterotrimeric G-protein
+TTDI01336;SOS gene
+TTDI01337;Bombesin bb3 receptor
+TTDI01338;DNA binding protein
+TTDI01339;Calcium-calmodulin dependent kinase
+TTDI01340;Phospho MurNAc pentapeptide transferase
+TTDI01341;Ubiquitin ligase
+TTDI01342;Imidazoline I2 receptor
+TTDI01343;RNA polymerase I
+TTDI01345;Diacylglycerol O-acyltransferase
+TTDI01346;Pleckstrin homology domain protein
+TTDI01347;Glycerol-3-phosphate O-acyltransferase
+TTDI01348;Glutamate racemase
+TTDI01349;SGK-1 protein kinase
+TTDI01350;Transient receptor potential channel
+TTDI01351;cAMP
+TTDI01352;Helicase
+TTDI01353;Eukaryotic initiation 2 alpha kinase 1
+TTDI01354;TNF-like receptor-2
+TTDI01355;Hemolysin alpha
+TTDI01356;Itk tyrosine kinase
+TTDI01357;Mycolic acid synthase
+TTDI01358;Uncharacterized KIAA protein
+TTDI01359;Sensor protein qseC
+TTDI01360;LIM kinase-2
+TTDI01361;CDC25 associated kinase-1
+TTDI01362;Malonyl CoA decarboxylase
+TTDI01363;Ttk protein kinase
+TTDI01364;DYRK-1 alpha protein kinase
+TTDI01365;TLR
+TTDI01366;Mixed lineage kinase
+TTDI01367;Calcium dependent protein kinase 1
+TTDI01368;Lysine specific demethylase gene
+TTDI01369;Phosphatonin receptor
+TTDI01370;Nuclear transcription factor Y
+TTDI01371;RAC1 GTPase
+TTDI01372;Shikimate kinase
+TTDI01373;Tyro3 tyrosine kinase receptor
+TTDI01374;Epoxide hydrolase-2
+TTDI01375;Other protein kinase family
+TTDI01376;Succinate dehydrogenase
+TTDI01377;COT protein kinase
+TTDI01378;Gene target
+TTDI01379;Undecaprenyl diphosphate synthetase
+TTDI01380;Vacuolar hydrogen ATPase
+TTDI01381;JAM
+TTDI01382;Anti-mullerian hormone II receptor
+TTDI01383;Urokinase plasminogen receptor
+TTDI01384;Adrenomedullin receptor
+TTDI01385;Opsin GPCR gene
+TTDI01386;Adenylate cyclase 5
+TTDI01387;ADAM
+TTDI01388;Merozoite surface protein
+TTDI01389;AIMP multisynthetase complex protein 2
+TTDI01390;Alpha crystallin
+TTDI01391;Synuclein alpha
+TTDI01392;Lactalbumin alpha
+TTDI01393;Amyloid beta A4 binding protein
+TTDI01394;Complement Factor
+TTDI01395;Immunoglobulin gamma Fc receptor IIB
+TTDI01396;HERV-W 3q26.32 ancestral Gag protein
+TTDI01397;Lin 28 homolog A
+TTDI01398;Staphylococcus enterotoxin B
+TTDI01399;Autophagy protein
+TTDI01400;L-Lysine oxidase
+TTDI01401;Channel rhodopsin gene
+TTDI01402;Ectonucleotide pyrophosphatase-PDE-2
+TTDI01403;AXL tyrosine kinase receptor family
+TTDI01404;Heparan sulfate proteoglycan protein
+TTDI01405;Rho GTPase
+TTDI01406;H19 gene
+TTDI01407;Bcl-6 protein
+TTDI01408;Bacterial quorum sensing protein
+TTDI01409;IGF binding protein
+TTDI01410;Bmx tyrosine kinase
+TTDI01411;Branched amino acid aminotransferase 1
+TTDI01412;Casein kinase I
+TTDI01413;Cation channel sperm protein
+TTDI01414;Chondroitin ABC endolyase 1
+TTDI01415;Heat shock protein
+TTDI01416;ATP-dependent Clp protease
+TTDI01417;Type II TNF receptor
+TTDI01418;Death associated protein kinase
+TTDI01419;Ankyrin
+TTDI01420;K-Ras GTPase
+TTDI01421;Chromosomal replication initiator dnaA
+TTDI01422;TNF receptor 21
+TTDI01423;Sp1 transcription factor
+TTDI01424;Natural cytotoxic triggering receptor 1
+TTDI01425;Transcription factor gene
+TTDI01426;Elongation factor 1 alpha
+TTDI01427;Enoyl ACP reductase
+TTDI01428;Falcipain
+TTDI01429;Albumin
+TTDI01430;Epimerase
+TTDI01431;Gamma glutamyltranspeptidase
+TTDI01432;GATA 3 transcription factor
+TTDI01433;Glycogen synthase kinase
+TTDI01434;Granulin ligand
+TTDI01435;Class A orphan GPCR
+TTDI01436;Class A GPCR
+TTDI01437;Mechanosensitive channel
+TTDI01438;GTPase
+TTDI01439;A-G adenine DNA glycosylase
+TTDI01440;PMS2L gene
+TTDI01441;DNA RNA polymerase II subunit RPB11
+TTDI01442;Chemokine CC22 ligand
+TTDI01443;Chemokine CC23 ligand
+TTDI01444;CXC11 chemokine ligand
+TTDI01445;Thioredoxin domain-contained protein 12
+TTDI01446;NTT4 neurotransmitter transporter
+TTDI01447;TREM receptor 2
+TTDI01448;Hypoxia inducible factor
+TTDI01449;JmjC histone demethylation protein 2C
+TTDI01450;TNFSF14 gene
+TTDI01451;Adrenomedullin ligand
+TTDI01452;Immunoglobulin gamma Fc receptor II
+TTDI01453;Trans acting transcription protein ICP0
+TTDI01454;Type I IL-1 receptor
+TTDI01455;SMAD
+TTDI01456;SREBP transcription factor 2
+TTDI01457;IRAK-4 protein kinase
+TTDI01458;S100 calcium binding protein
+TTDI01459;Isocitrate dehydrogenase
+TTDI01460;Scavenger receptor B1
+TTDI01461;JmjC histone demethylation protein
+TTDI01462;WW domain containing protein
+TTDI01463;Triosephosphate dehydrogenase
+TTDI01464;Leucine rich serine threonine kinase 2
+TTDI01465;Ligase
+TTDI01466;Delta-like protein ligand 1
+TTDI01467;UDP N Acetylglucosamine Acyltransferase
+TTDI01468;Lysine specific demethylase
+TTDI01469;Cathepsin
+TTDI01470;Frizzled receptor
+TTDI01471;PB2 gene
+TTDI01472;Metallothionein
+TTDI01473;IRE1 protein kinase
+TTDI01474;Methylthioadenosine nucleosidase
+TTDI01475;CD24 gene
+TTDI01476;Streptococcus exotoxin
+TTDI01477;Hepatitis virus structural protein
+TTDI01478;Elongation factor kinase 2
+TTDI01479;Mitochondrial NADP transhydrogenase
+TTDI01480;Neuregulin ligand
+TTDI01481;Flavivirus NS3 protease
+TTDI01482;Dengue virus 1 NS3 protease
+TTDI01483;Ligand gated ion channel receptor
+TTDI01484;Galanin ligand
+TTDI01485;Eukaryotic initiation 2 alpha kinase 3
+TTDI01486;PAK protein kinase
+TTDI01487;Thymidine kinase 1
+TTDI01488;Orphan nuclear receptor
+TTDI01489;Pancreas duodenum homeobox 1
+TTDI01490;Stathmin-1
+TTDI01491;Ras related C3 botulinum substrate
+TTDI01492;Plasmodium subtilisin like protease
+TTDI01493;Lysostaphin
+TTDI01494;Plasmepsin V
+TTDI01495;Defensin
+TTDI01496;Bifunctional polynucleotide phosphatase
+TTDI01497;Protein tyrosine phosphatase IVA3
+TTDI01498;Ptk6 tyrosine kinase
+TTDI01499;LIM kinase
+TTDI01500;C-type lectin domain protein
+TTDI01501;Pleiotropic drug resistance transporter
+TTDI01502;Protein recA
+TTDI01503;Melanoma derived growth regulator
+TTDI01504;Zinc alpha-2 glycoprotein precursor
+TTDI01505;Retinoid Z receptor gamma
+TTDI01506;Dengue virus protease
+TTDI01507;Bacterial ribosome recycling factor
+TTDI01508;Ribonuclease HII
+TTDI01509;Retinoid Z receptor
+TTDI01510;Ntrkr1 tyrosine kinase receptor
+TTDI01511;Ros1 tyrosine kinase receptor
+TTDI01512;RPL15 gene
+TTDI01513;ID DNA-binding protein inhibitor
+TTDI01514;Lung surfactant associated protein D
+TTDI01515;STAT
+TTDI01516;CHST15 gene
+TTDI01517;TAP1 gene
+TTDI01518;Annexin
+TTDI01519;NFKB gene
+TTDI01520;Leukocyte Ig-like receptor-3
+TTDI01521;Leukocyte Ig-like receptor-5
+TTDI01522;Toxic shock syndrome toxin 1
+TTDI01523;Immunoglobulin gamma Fc receptor IIA
+TTDI01524;Eukaryotic initiation 2 alpha kinase 2
+TTDI01525;esaT6 gene
+TTDI01526;Tyk2 tyrosine kinase
+TTDI01527;P2X purinoceptor
+TTDI01528;CACNA1H calcium channel subunit
+TTDI01529;Wnk protein kinase
+TTDI01530;Wnk 1 protein kinase
+TTDI01531;WNT gene
+TTDI01532;Heparan sulfate 6 O-sulfotransferase
+TTDI01533;SLC6A gene
+TTDI01535;Regulatory protein gene
+TTDI01536;NADPH oxidase gene
+TTDI01537;Cyclic nucleotide
+TTDI01541;ERK pathway
+TTDI01542;JNK pathway
+TTDI01543;Cyclin D1/E2F pathway
+TTDI01544;Energy metabolism pathway
+TTDI01545;NF-kB pathway
+TTDI01546;Pleiotropic pathway
+TTDI01547;Hedgehog pathway
+TTDI01548;Wnt pathway
+TTDI01549;Wnt signalling pathway
+TTDI01550;Akt-mToR pathway
+TTDI01551;signal transduction pathway
+TTDI01552;Virus capside protein
+TTDI01553;Wnt ligand
+TTDI01554;Immune checkpoint
+TTDI01555;Leukotriene receptor
+TTDI01556;Mucin
+TTDI01557;Class B GPCR
+TTDI01558;Urate transporter
+TTDI01559;Cytokine receptor
+TTDI01560;Protein tyrosine kinase
+TTDI01561;Unspecified enzyme
+TTDI01562;Sodium, potassium transport
+TTDI01563;Purinoceptor
+TTDI01564;Protein prenyltransferase
+TTDI01565;Matrix metalloprotease
+TTDI01566;Actin polymerization
+TTDI01567;Interferon receptor
+TTDI01568;ATPase
+TTDI01569;Endonuclease
+TTDI01570;Phosphodiesterase (PDE)
+TTDI01571;Chloride channel
+TTDI01572;Ribonuclease P
+TTDI01574;FK506 binding protein
+TTDI01575;HCMV terminase
+TTDI01576;HCV replication enzyme
+TTDI01577;Isomerase
+TTDI01578;Transferase
+TTDI01579;Unspecified protein kinase
+TTDI01580;Polymorphonuclear neutrophil adhesion
+TTDI01581;Cell adhesion molecule
+TTDI01582;Ionotropic glutamate receptor
+TTDI01583;Thiol group of protein
+TTDI01584;Polymerase
+TTDI01585;MAP kinase
+TTDI01586;Bacterial enoyl-acyl carrier reductase (PfENR)
+TTDI01587;Unspecified receptor
+TTDI01588;Peptidyltransferase
+TTDI01589;Unspecified GPCR
+TTDI01590;Hydrolase
+TTDI01591;Prostanoid receptor
+TTDI01592;Peptidase
+TTDI01593;Lyase
+TTDI01595;Herpesvirus DNA polymerase
+TTDI01596;Intracellular reductase
+TTDI01597;Lipoxygenase
+TTDI01598;Neutrophil
+TTDI01599;Polyamine
+TTDI01600;Nuclear receptor
+TTDI01601;AdoHcy hydrolase
+TTDI01602;Gap junction protein
+TTDI01603;Glucosidase
+TTDI01604;Rhinovirus protein 1
+TTDI01605;NADPH oxidase
+TTDI01606;Nucleoside transporter
+TTDI01607;Rhinovirus capsid protein
+TTDI01608;Vesicular monoamine transporter
+TTDI01609;Cholesterol transporter
+TTDI01610;IgE-regulated calcium channels
+TTDI01611;Prostaglandin synthetase
+TTDI01612;Ion channel
+TTDI01613;Splicing factor
+TTDI01614;Aminotransferase
+TTDI01615;Plasma protein
+TTDI01616;Fungal enzyme
+TTDI01617;Chemokine ligand
+TTDI01618;Voltage-dependent calcium channel
+TTDI01619;Transcription factor
+TTDI01621;Retinal isomerase
+TTDI01622;58-kDa acetaminophen binding protein
+TTDI01623;Bacterial ribosome
+TTDI01625;Methyltransferase
+TTDI01626;Lysosphingolipid receptor
+TTDI01627;Rhinovirus capsid
+TTDI01628;DNA-directed DNA polymerase
+TTDI01629;Enzyme
+TTDI01630;DNA RNA polymerase
+TTDI01631;Neuropeptide recptor
+TTDI01632;Ribonuclease
+TTDI01633;Immunoglobulin Fc receptor
+TTDI01634;T cell receptor
+TTDI01635;Aminopeptidase
+TTDI01638;Outer membrane protein
+TTDI01639;Hydroxylase
+TTDI01640;Hematopoietic cell phosphatase
+TTDI01641;Cytochrome P450 3
+TTDI01643;HLA antigen
+TTDI01644;T-cell receptor
+TTDI01645;HRV 3C protease
+TTDI01646;LPS receptor
+TTDI01647;Major histocompatibility complex
+TTDI01649;HLA class II antigen
+TTDI01650;Receptor
+TTDI01652;Bone morphogenetic protein ligand
+TTDI01653;Regulatory protein
+TTDI01654;NAD-dehydrogenase
+TTDI01655;HPV antigens
+TTDI01656;Surface antigen preferentially overexpressed on multiple myeloma (MM) cells
+TTDI01657;Zinc-finger proteins (ZFP)
+TTDI01658;G-protein-coupled receptor
+TTDI01660;Antigens on activated T-cells
+TTDI01661;Capsid-SP1 cleavage site in HIV Gag protein
+TTDI01662;Sodium calcium channel
+TTDI01663;Synthetic multi-antigen DNA
+TTDI01664;Interferon ligand
+TTDI01665;Nucleoside DNA polymerase
+TTDI01666;Ubiquitin-activating enzyme
+TTDI01667;Humanized IgG2
+TTDI01668;Immunoglobulin G1 (IgG1)
+TTDI01669;Fibrolase
+TTDI01670;Helicase-primase
+TTDI01671;Unspecified protease
+TTDI01672;Unspecified hormone
+TTDI01673;17-beta-hydroxysteroid dehydrogenase
+TTDI01674;Esterase
+TTDI01675;Glycosidase
+TTDI01676;Viral envelope glycoprotein
+TTDI01677;Carbohydrate antigen Lewis Y
+TTDI01678;Phosphatase
+TTDI01679;Nuclear hormone receptor
+TTDI01680;24-hydroxylase
+TTDI01681;Serum protein
+TTDI01682;Proteoglycanase
+TTDI01683;Tuftsin receptor
+TTDI01684;Oxalate oxidase
+TTDI01685;Anthrax toxin
+TTDI01686;Inhibitor of apoptosis (IAP)
+TTDI01687;Motoneuronotrophic factor
+TTDI01688;Tumor-associated peptide
+TTDI01690;Allergen
+TTDI01691;Phosphoric diester hydrolase
+TTDI01692;Deoxyribonuclease
+TTDI01693;IgG2a
+TTDI01694;Pseudomonas outer membrane protein
+TTDI01695;Major pollen antigen
+TTDI01696;Protein of eimeria protozoan
+TTDI01697;Sphingomyelinase
+TTDI01698;T-cell ligand
+TTDI01699;Thymulin
+TTDI01701;Endopeptidase
+TTDI01702;Major pollen allergen Bet-v-1
+TTDI01703;Birch pollen allergen
+TTDI01705;Pancreatic beta cell growth factor
+TTDI01706;Galactosyltransferase
+TTDI01707;Telomere
+TTDI01708;ATP binding cassette
+TTDI01709;Transporter
+TTDI01710;p40
+TTDI01713;Thrombospondin relate anonymous protein
+TTDI01714;Bothrops atrox serine protease
+TTDI01715;Mite allergen
+TTDI01716;Inducing anti-tumor immune responses by human lymphocyte
+TTDI01717;L-type calcium channel
+TTDI01718;Hepatitis B structural protein
+TTDI01719;Grass pollen allergen
+TTDI01720;Antigens of many solid tumor types
+TTDI01723;GDF
+TTDI01724;Interleukin receptor
+TTDI01725;Unspecified transcription factor
+TTDI01726;Laminin
+TTDI01727;Unspecified transporter protein
+TTDI01728;Mas-related G-protein coupled receptor
+TTDI01729;Aspartic protease
+TTDI01730;EPH family tyrosine kinase
+TTDI01731;rhIgG1k
+TTDI01732;Transaminase
+TTDI01733;Immunoglobulin gamma Fc receptor
+TTDI01734;Alpha-secretase
+TTDI01735;Nuclease
+TTDI01736;Unspecified cell adhesion molecule
+TTDI01737;Unspecified regulatory protein
+TTDI01738;Viral protein
+TTDI01739;Zinc finger protein transcription factor
+TTDI01740;Fibroblast growth factor
+TTDI01741;Folate binding protein-E39
+TTDI01742;Bacteria topoisomerase
+TTDI01743;5-HT 2 receptor
+TTDI01746;Interleukin-12 ligand
+TTDI01747;VEGF ligand
+TTDI01748;JAK tyrosine kinase
+TTDI01749;Muscarinic receptor
+TTDI01750;Alpha 2 adrenoceptor
+TTDI01751;Angiotensin II receptor
+TTDI01752;Nicotinic ACh receptor
+TTDI01753;Acetyl CoA carboxylase
+TTDI01754;Plasminogen activator inhibitor
+TTDI01755;Acetylcholine receptor
+TTDI01756;Beta adrenoceptor
+TTDI01757;Sodium hydrogen exchanger
+TTDI01758;Na+ K+ ATPase
+TTDI01759;NK receptor
+TTDI01760;Gelatinase
+TTDI01761;Phospholipase C
+TTDI01762;Alpha 1 adrenoceptor
+TTDI01763;ACTH releasing factor receptor
+TTDI01764;Alpha adrenoceptor
+TTDI01765;Fibrinogen
+TTDI01766;Melatonin receptor
+TTDI01767;Ras GTPase
+TTDI01768;Integrin alpha-5/beta-1
+TTDI01769;Bradykinin receptor
+TTDI01770;Nitric oxide synthase
+TTDI01771;Inosine monophosphate dehydrogenase
+TTDI01772;CC chemokine receptor
+TTDI01773;Selectin
+TTDI01774;GABA A receptor
+TTDI01775;MEK protein kinase
+TTDI01776;Phosphodiesterase (PDE) 7
+TTDI01777;Aurora protein kinase
+TTDI01778;Bombesin receptor
+TTDI01779;Notch receptor
+TTDI01780;VEGF receptor
+TTDI01781;Integrin alpha-V/beta-5
+TTDI01782;Sarco/endoplasmic reticulum Ca2+-ATPase (SERCA)
+TTDI01783;Luteinizing hormone-releasing hormone
+TTDI01784;Adenosine A2 receptor
+TTDI01785;Leukotriene B4 receptor
+TTDI01786;Integrin alpha-2/beta-1
+TTDI01789;Integrin alpha-5/beta-3
+TTDI01790;Integrin alpha-V/beta-1
+TTDI01791;KCNQ voltage-gated potassium channel
+TTDI01792;Tryptophan 5-hydroxylase
+TTDI01793;Heme oxygenase
+TTDI01794;PIM protein kinase
+TTDI01795;Integrin alpha-5/beta-5
+TTDI01796;Interleukin-17 ligand
+TTDI01797;Integrin alpha-4/beta-1
+TTDI01798;Tankyrase
+TTDI01799;Interferon alpha ligand
+TTDI01800;Interleukin-3 receptor
+TTDI01801;Cyclin D
+TTDI01802;Estrogen related receptor
+TTDI01803;Galanin receptor
+TTDI01804;CXCR chemokine
+TTDI01805;Integrin alpha-1/beta-1
+TTDI01806;Orexin receptor
+TTDI01807;Trk receptor
+TTDI01808;Interleukin-23 ligand
+TTDI01809;Integrin alpha-1/beta-3
+TTDI01810;Tumor suppressor candidate
+TTDI01811;Na-K-Cl symporter
+TTDI01817;Bone morphogenetic protein receptor
+TTDI01818;Relaxin receptor
+TTDI01819;Natriuretic peptide receptor
+TTDI01820;Aggrecanase
+TTDI01821;Amiloride sensitive sodium channel
+TTDI01822;ATP synthase
+TTDI01823;Bacteria ATP synthase
+TTDI01824;Guanylate cyclase receptor
+TTDI01825;Histone acetyltransferase
+TTDI01826;Alkaline phosphatase
+TTDI01827;TRAIL receptor
+TTDI01828;Troponin I
+TTDI01832;The activation of 3 monoaminergic neural systems (serotonin, norepinephrine, and dopamine)
+TTDI01836;Meningococcal group b
+TTDI01843;TNF alpha production
+TTDI01844;Brain concentrations of gamma-aminobutyric acid (GABA)
+TTDI01846;Reduction of cumulative renal toxicity of cisplatin and toxic effects of radiation on normal oral tissues
+TTDI01849;Facilitating dopamine (DA) release, inhibiting monoamine oxidase type B (MAO-B) and DA (re) up-take and stimulating aromatic L-amino acid decarboxylase (AADC)
+TTDI01851;Expression of STAT-3
+TTDI01853;Tromboxane A2 synthesis
+TTDI01856;Synthesis of T(H2) cytokines
+TTDI01858;Lymphoid cell
+TTDI01859;Wnt/beta-catenin signaling pathway
+TTDI01863;H5N1 pandemic influenza virus
+TTDI01869;Colony stimulating factor ligand
+TTDI01872;CD15
+TTDI01874;Subcutaneous fluid administration for achieving hydration
+TTDI01875;Bacteria clostridium tetani
+TTDI01876;Bacteria corynebacterium diphtheriae
+TTDI01879;Acetylcholine release inhibitor and neuromuscular blockor
+TTDI01885;Deamidation of asparagine
+TTDI01893;Proteins on the surface of ulcers including albumin and fibrinogen to form stable insoluble complexes
+TTDI01895;Fructose
+TTDI01898;Glucosaminylmuramyl dipeptide
+TTDI01899;Oxidoreductase
+TTDI01900;Immunoglobulin
+TTDI01901;HBV immunoglobulin
+TTDI01904;CD80
+TTDI01905;Protein kinase C epsilon
+TTDI01906;Trace amine-associated receptor-1
+TTDI01907;Androgen receptor
+TTDI01908;GCSF receptor
+TTDI01909;GABA A receptor delta subunit
+TTDI01910;Iron
+TTDI01911;Human DNA
+TTDI01912;Bacterial cell membrane
+TTDI01913;Bacterial penicillin binding protein
+TTDI01914;Bacterial DNA gyrase
+TTDI01915;Bacteria 50S ribosomal subunit
+TTDI01916;Leukotriene CysLT2 receptor
+TTDI01917;Erythropoietin ligand
+TTDI01918;Folate receptor alpha
+TTDI01919;Respiratory syncytial virus protein F
+TTDI01920;HIV GAG protein
+TTDI01921;Interferon alpha 2 ligand
+TTDI01922;Interferon beta ligand
+TTDI01923;Tubulin receptor
+TTDI01924;HIV envelope glycoprotein gp120
+TTDI01925;Hepatitis C virus serine protease NS3
+TTDI01926;Hepatitis C virus NS5B polymerase
+TTDI01927;Hepatitis C virus protease
+TTDI01928;Leishmania donovani DNA topoisomerase I
+TTDI01929;Schistosoma mansoni purine nucleoside phosphorylase
+TTDI01930;Bacterial 30S ribosomal subunit
+TTDI01931;AP1 transcription factor
+TTDI01932;CD86
+TTDI01933;ICAM-1
+TTDI01934;Protein tyrosine phosphatase-1B
+TTDI01935;Interleukin-1 alpha ligand
+TTDI01936;Carnitine acyltransferase
+TTDI01937;Phosphodiesterase (PDE) 1
+TTDI01938;Immunoglobulin gamma Fc receptor III
+TTDI01939;Coagulation factor XIII
+TTDI01940;Endostatin
+TTDI01941;Diacylglycerol O acyltransferase 1
+TTDI01942;Fungal 1,3-beta-glucan synthase
+TTDI01943;Cytochrome P450 reductase
+TTDI01944;Parathyroid hormone ligand
+TTDI01945;Microtubule-associated protein tau
+TTDI01946;Chymotrypsin
+TTDI01947;Amylin receptor
+TTDI01948;Deoxycytidine kinase
+TTDI01949;Protein kinase C iota
+TTDI01950;Protein kinase C theta
+TTDI01951;Phosphodiesterase (PDE) 7A
+TTDI01952;Phosphodiesterase (PDE) 7B
+TTDI01953;Immunoglobulin G
+TTDI01954;E3 ubiquitin protein ligase COP1
+TTDI01955;Streptokinase
+TTDI01956;Histone deacetylase-3
+TTDI01957;T-cell surface glycoprotein CD8
+TTDI01958;Fungal aureus leucyl-tRNA synthetase
+TTDI01959;HIV env
+TTDI01960;Collagen I
+TTDI01961;Fibroblast growth factor-4
+TTDI01963;Phenylalanine hydroxylase
+TTDI01964;Coagulation factor XI
+TTDI01965;GABA B receptor subunit 2
+TTDI01966;Nuclear factor kappa B p105 subunit
+TTDI01967;Perlecan
+TTDI01969;Tryptophan 5-hydroxylase-1
+TTDI01971;Potassium channel KCa1.1
+TTDI01972;DNA topoisomerase II alpha
+TTDI01973;Interleukin-10 receptor
+TTDI01975;Glutamate receptor 4
+TTDI01976;Phosphate
+TTDI01978;Fungal cell membrane
+TTDI01980;Calcium activated potassium KCNMA1 (maxiK) channel
+TTDI01981;Maxi K potassium channel
+TTDI01982;Asparaginase
+TTDI01983;Bone morphogenetic protein-2 ligand
+TTDI01984;Varicella-zoster virus DNA polymerase
+TTDI01985;Duffy antigen chemokine receptor
+TTDI01986;Epidermal growth factor ligand
+TTDI01987;Endoplasmin
+TTDI01988;Hepatitis B large envelope protein
+TTDI01989;Hyaluronic acid receptor
+TTDI01990;Pattern recognition receptor NOD2
+TTDI01991;Prolyl 4-hydroxylase subunit alpha-1
+TTDI01992;Blood group Rh(D) polypeptide
+TTDI01993;Kit ligand
+TTDI01994;Bifunctional aminoacyl tRNA synthetase
+TTDI01996;Bacterial 23S RNA of 50S ribosomal subunit
+TTDI01997;Influenza matrix protein 2
+TTDI01999;Botulinum toxin A
+TTDI02000;Positive transcription elongation factor B (P-TEFb)
+TTDI02001;GDNF receptor
+TTDI02002;Glutaminase
+TTDI02003;Hyperpolarization-activated cyclic nucleotide-gated (HCN) channel
+TTDI02005;Neural cell adhesion molecule
+TTDI02006;Sphingomyelin synthase
+TTDI02007;Uridine phosphorylase
+TTDI02008;CaM kinase II
+TTDI02010;HLA class II antigen DR10
+TTDI02011;Solute carrier family 3 member 2
+TTDI02012;NADH or NADPH oxidoreductase
+TTDI02013;Aryl hydrocarbon receptor
+TTDI02014;Cytosine deaminase
+TTDI02015;AKT2 protein kinase
+TTDI02016;AKT3 protein kinase
+TTDI02017;Plasmodium apical membrane protein
+TTDI02018;C-type natriuretic peptide ligand
+TTDI02019;Annexin A5
+TTDI02020;Apolipoprotein A-I
+TTDI02021;Arylsulfatase A
+TTDI02023;Serine threonine protein kinase ATR
+TTDI02024;Apoptosis regulator Bcl-X
+TTDI02025;Inhibitor of apoptosis protein 2
+TTDI02026;Inhibitor of apoptosis protein 1
+TTDI02028;Bactericidal permeability-increasing protein
+TTDI02030;Bromodomain-containing protein 2
+TTDI02031;Bromodomain-containing protein 3
+TTDI02032;Bromodomain-containing protein 4
+TTDI02033;Bromodomain testis-specific protein
+TTDI02034;Cadherin-3
+TTDI02035;Catalase
+TTDI02036;Eotaxin ligand
+TTDI02037;RANTES ligand
+TTDI02038;CD34
+TTDI02040;Cytidine deaminase
+TTDI02041;Cyclin-dependent kinase-3
+TTDI02042;Complement Factor H
+TTDI02043;Mitochondrial 10 kDa heat shock protein
+TTDI02044;Candida albicans chitin synthase 3
+TTDI02045;Claudin 18
+TTDI02046;Cytochrome P450 24
+TTDI02047;Cholesterol 24-hydroxylase
+TTDI02048;Thymic stromal lymphoprotein receptor
+TTDI02049;Connective tissue growth factor ligand
+TTDI02050;CD55
+TTDI02051;Retinoic acid-inducible gene-1 (RIG-1)
+TTDI02052;Beta defensin 2
+TTDI02053;Dystrophin
+TTDI02054;Dopamine beta hydroxylase
+TTDI02055;HLA class II antigen DQ-2 alpha
+TTDI02056;E2F transcription factor 1
+TTDI02057;Cholestenol delta-isomerase
+TTDI02058;Bacterial elongation factor Tu
+TTDI02059;EGR-1 transcription factor
+TTDI02061;Epha3 tyrosine kinase receptor
+TTDI02062;Epiregulin (EREG)
+TTDI02063;Enhancer of zeste homolog 2
+TTDI02064;Major envelope protein p37
+TTDI02065;PFKFB3 kinase
+TTDI02066;Escherichia coli NADH-dependent enoyl-ACP reductase
+TTDI02067;Staphylococcus aureus Enoyl ACP reductase
+TTDI02068;Fc-epsilon-RII (CD23)
+TTDI02069;Free fatty acid receptor 2
+TTDI02070;FGF-18 ligand
+TTDI02071;FGF-21 ligand
+TTDI02074;Galactoside 3(4)-L-fucosyltransferase
+TTDI02075;Frizzled-7 receptor
+TTDI02076;Gastrin
+TTDI02077;Human cytomegalovirus glycoprotein B
+TTDI02078;Growth differentiation factor-5
+TTDI02079;Gelsolin
+TTDI02080;N-acetylmannosamine kinase
+TTDI02081;Glioma pathogenesis-related protein 1
+TTDI02082;Glutamate decarboxylase
+TTDI02083;CD42b
+TTDI02084;Glypican-3
+TTDI02085;Platelet glycoprotein VI
+TTDI02086;Mortalin
+TTDI02087;78 kDa glucose-regulated protein
+TTDI02088;Glutathione S-transferase P
+TTDI02089;Histone H1.3
+TTDI02090;Hepcidin
+TTDI02091;CD74
+TTDI02092;Staphylococcus aureus alpha hemolysin
+TTDI02093;Interleukin-15 receptor subunit alpha
+TTDI02094;Isocitrate dehydrogenase [NADP] cytoplasmic
+TTDI02095;Isocitrate dehydrogenase (IDH2)
+TTDI02096;Interferon alpha 5 ligand
+TTDI02097;Interferon omega ligand
+TTDI02098;Kappa myeloma antigen (KMA)
+TTDI02099;Interleukin-21 receptor
+TTDI02100;Interleukin-31 ligand
+TTDI02101;Interleukin-33
+TTDI02103;Staphylococcus aureus iron-regulated surface determinant protein B
+TTDI02104;Lysine specific histone demethylase 1
+TTDI02105;CD158a
+TTDI02106;CD158b1
+TTDI02107;Killer cell immunoglobulin-like receptor 2DL3
+TTDI02109;Kruppel like factor 4
+TTDI02110;Pyruvate kinase M2
+TTDI02111;Lecithin-cholesterol acyltransferase
+TTDI02112;Yersinia pestis virulence associated V antigen
+TTDI02113;Leucine-rich repeat neuronal protein 1
+TTDI02114;Epstein-Barr virus Latent membrane protein 2
+TTDI02116;Lysophosphatidate-3 receptor
+TTDI02118;Lysozyme
+TTDI02119;MAPKAP kinase 2
+TTDI02120;MART-1 melanoma antigen
+TTDI02122;Mannose binding protein
+TTDI02123;Melanocortin MC5 receptor
+TTDI02124;Tyrosine-protein kinase MELK
+TTDI02125;Mycobacterium tuberculosis membrane protein mmpL3
+TTDI02126;CI Man-6-P receptor
+TTDI02127;Mas-related gene 2 (MRGX2)
+TTDI02129;Plasmodium falciparum merozoite surface protein 1
+TTDI02131;Myosin-7
+TTDI02132;Nicotinamide phosphoribosyltransferase
+TTDI02133;Respiratory syncytial virus N protein
+TTDI02134;Notch-2 receptor
+TTDI02135;Notch-3 receptor
+TTDI02136;NADPH oxidase 4
+TTDI02137;Nucleophosmin
+TTDI02140;TrkC receptor
+TTDI02141;Nucleolin
+TTDI02142;Pseudomonas PcrV protein type III
+TTDI02143;Membrane glycoprotein OX2
+TTDI02144;Tumor antigen NGcGM3
+TTDI02145;PAK-4 protein kinase
+TTDI02146;Programmed cell death ligand 2
+TTDI02148;Phosphodiesterase (PDE) 9
+TTDI02149;Platelet-derived growth factor D
+TTDI02150;Opioid receptor sigma 2
+TTDI02151;PIM-3 protein kinase
+TTDI02153;Tumor expressed melanoma antigen
+TTDI02154;Prominin 1
+TTDI02156;Glutaminyl cyclase
+TTDI02157;HIV REV protein
+TTDI02159;Transforming protein RhoA
+TTDI02160;Ribosome-inactivating protein alpha-trichosanthin
+TTDI02161;Ring finger protein
+TTDI02162;Rho associated protein kinase 2
+TTDI02163;Roof plate-specific spondin 1
+TTDI02164;Reticulon 4
+TTDI02166;S100 calcium binding protein A4
+TTDI02167;Sphingosine 1-phosphate receptor 5
+TTDI02168;Zinc transporter ZIP6
+TTDI02171;Semaphorin-4D
+TTDI02172;Sarcoglycan gamma
+TTDI02173;Sphingosine 1 phosphate lyase 1
+TTDI02174;SH2 domain inositol phosphatase
+TTDI02175;SLIT and NTRK-like family member 6 (SLITRK6)
+TTDI02176;Survival motor neuron protein
+TTDI02177;Mitochondrial manganese superoxide dismutase (MnSOD)
+TTDI02179;Sphingosine kinase 1
+TTDI02180;N-sulphoglucosamine sulphohydrolase
+TTDI02181;SPTBN1
+TTDI02182;Sequestosome-1 p62
+TTDI02183;Facilitates chromatin transcription complex (FACT)
+TTDI02184;STAT-3
+TTDI02185;Fungi/Bacteria isoleucyl t-RNA synthetase
+TTDI02186;Alpha-synuclein
+TTDI02187;Valosin-containing protein p97
+TTDI02188;Trefoil factor-1
+TTDI02190;TGF-beta type II receptor
+TTDI02191;Toll-like receptor 5
+TTDI02192;Toll-like receptor 6
+TTDI02193;TNF related apoptosis inducing ligand
+TTDI02194;OX40 ligand
+TTDI02195;Fast skeletal muscle troponin complex
+TTDI02196;TNF superfamily receptor 12A
+TTDI02197;Activation-inducible TNFR family receptor
+TTDI02198;Lymphotoxin beta receptor
+TTDI02199;CD95
+TTDI02200;Tumor susceptibility gene protein 101
+TTDI02201;Thrombospondin-1 ligand
+TTDI02202;Tumor suppressor candidate 2
+TTDI02203;DHICA oxidase
+TTDI02204;Uteroglobin
+TTDI02205;Utrophin
+TTDI02207;Human papillomavirus E7 protein
+TTDI02208;VIP 2 receptor
+TTDI02209;HIV p17 matrix protein
+TTDI02210;Pituitary adenylate cyclase-activating polypeptide 38
+TTDI02211;Pancreatic hormone ligand
+TTDI02212;HIV p24 capsid protein
+TTDI02213;HIV p7 nucleocapsid protein
+TTDI02214;Hepatitis C virus protein NS4B
+TTDI02215;Hepatitis C virus E2 glycoprotein
+TTDI02216;Melanoma-associated antigen C1
+TTDI02217;Melanoma-associated antigen C2
+TTDI02219;Beta-nerve growth factor
+TTDI02220;Sarcoglycan alpha
+TTDI02221;Wiskott-Aldrich syndrome protein
+TTDI02222;ATP-binding cassette sub-family A member 4 (ABCA4)
+TTDI02223;Kinetochore protein Nuf2
+TTDI02224;Quinone oxidoreductase
+TTDI02226;Hedgehog protein
+TTDI02228;Insulin-like growth factor-1 ligand
+TTDI02229;Opioid growth factor receptor
+TTDI02230;Mycobacterium tuberculosis antigen complex 85A
+TTDI02231;Pyruvate dehydrogenase kinase isoform 2 (PDHK2)
+TTDI02233;mRNA of influenza virus Env protein
+TTDI02235;mRNA of VEGF
+TTDI02236;mRNA of CCR5
+TTDI02237;mRNA of SYK
+TTDI02239;mRNA of PLK1
+TTDI02240;mRNA of ANGPTL3
+TTDI02242;mRNA of ebola virus VP35
+TTDI02245;mRNA of Insulin-like growth factor 1 receptor
+TTDI02246;mRNA of ebola virus VP24
+TTDI02248;mRNA of Transferrin
+TTDI02249;mRNA of EGFR
+TTDI02255;mRNA of Caspase-2
+TTDI02256;mRNA of Beta 2 adrenoceptor
+TTDI02257;mRNA of DMPK
+TTDI02258;mRNA of NFkappaB
+TTDI02259;mRNA of Ribonucleotide reductase R2 component
+TTDI02260;mRNA of BCL-2
+TTDI02261;mRNA of Plasma kallikrein
+TTDI02262;mRNA of CYP3A4
+TTDI02263;miR-34
+TTDI02264;HCV MicroRNA-122 (miR-122)
+TTDI02265;mRNA of C-myc binding protein
+TTDI02266;mRNA of Apolipoprotein A
+TTDI02267;mRNA of marburg virus nucleoprotein NP
+TTDI02268;mRNA of Myc proto-oncogene protein
+TTDI02269;mRNA of STMN1
+TTDI02270;mRNA of Keratin 6A
+TTDI02271;ALK tyrosine kinase receptor
+TTDI02272;N-acetylgalactosamine 6 sulfatase
+TTDI02273;Lyn tyrosine kinase
+TTDI02274;MEK-2 protein kinase
+TTDI02275;Hyaluronidase
+TTDI02276;Src tyrosine kinase
+TTDI02277;Fyn tyrosine kinase
+TTDI02278;Lck tyrosine kinase
+TTDI02280;Proto-oncogene c-Met
+TTDI02281;Jak3 tyrosine kinase
+TTDI02282;VEGF-2 receptor
+TTDI02283;Erbb2 tyrosine kinase receptor
+TTDI02284;Proto-oncogene B-Raf
+TTDI02285;FLT3 tyrosine kinase
+TTDI02286;Iduronate 2-sulfatase
+TTDI02287;Proto-oncogene c-RAF
+TTDI02290;Ret tyrosine kinase receptor
+TTDI02291;mRNA of Transthyretin
+TTDI02293;Alpha-mannosidase
+TTDI02294;mRNA of Survival motor neuron protein
+TTDI02295;Retinal pigment epithelium protein
+TTDI02296;Interleukin-29 ligand
+TTDI02297;Phosphoinositide-3 kinase beta
+TTDI02298;mRNA of Nuclear factor kappa B
+TTDI02299;mRNA of Insulin receptor substrate-1
+TTDI02300;mRNA of Dystrophin
+TTDI02301;Mitochondrial complex I
+TTDI02302;CD6
+TTDI02303;Lysosomal acid lipase
+TTDI02304;Bacterial DNA-directed RNA polymerase beta' chain
+TTDI02306;mRNA of TGF beta-2 ligand
+TTDI02308;mRNA of BIRC5
+TTDI02309;Hepatitis C virus non-structural protein 5A
+TTDI02311;mRNA of AKT1
+TTDI02312;Leukocyte proteinase-3
+TTDI02313;Proto-oncogene Mas
+TTDI02315;Cyclin-dependent kinase-4
+TTDI02316;Cyclin-dependent kinase-6
+TTDI02317;PDGF-B ligand
+TTDI02318;Interleukin-5 ligand
+TTDI02320;Glutamate decarboxylase 2
+TTDI02321;Telomerase
+TTDI02322;Aurora kinase B
+TTDI02323;Keratinocyte growth factor 2
+TTDI02324;Myelin basic protein
+TTDI02325;mRNA of p53
+TTDI02326;Chemokine receptor 3
+TTDI02327;ADAM 10
+TTDI02328;mRNA of Hypoxia inducible factor-1 alpha
+TTDI02329;CMV 65kDa lower matrix phosphoprotein
+TTDI02330;Tissue factor pathway inhibitor
+TTDI02331;Melanocytes lineage-specific antigen GP100
+TTDI02332;Picornavirus capsid protein VP1
+TTDI02333;X-linked inhibitor of apoptosis protein
+TTDI02334;Superoxide dismutase 1
+TTDI02335;Interleukin-24 ligand
+TTDI02336;Interleukin-23 receptor
+TTDI02338;Melanoma associated antigen 1
+TTDI02339;MHC class II antigen DR (HLA-DR)
+TTDI02342;Gastric inhibitory polypeptide receptor
+TTDI02344;mRNA of Ribonucleotide reductase R1 component
+TTDI02345;Enterobacteria phage shiga like toxin II B subunit
+TTDI02346;Nucleolin (aptamer)
+TTDI02348;Complement C1q subcomponent
+TTDI02349;Serine palmitoyltransferase
+TTDI02350;Fatty acid binding protein
+TTDI02351;Apolipoprotein A-IV
+TTDI02352;Cadherin-11
+TTDI02353;Cathepsin V
+TTDI02354;Complement Factor B
+TTDI02355;Complement factor I
+TTDI02356;Chitinase
+TTDI02357;Transcriptional repressor CTCFL
+TTDI02358;Glycogen synthase kinase-3
+TTDI02359;Porphobilinogen deaminase
+TTDI02360;Laminin gamma-2 subunit
+TTDI02361;Leukemia inhibitory factor receptor
+TTDI02362;Membrane cofactor protein
+TTDI02363;Neurotrophin-4 ligand
+TTDI02364;D-amino acid oxidase
+TTDI02365;Ras-related C3 botulinum toxin substrate 1
+TTDI02366;Plasma retinol-binding protein
+TTDI02368;Alanine glyoxylate aminotransferase
+TTDI02369;Translationally controlled tumor protein
+TTDI02370;HIV virion infectivity factor
+TTDI02371;Zap70 tyrosine kinase
+TTDI02372;Apoptosis regulator BAK
+TTDI02373;Transferrin
+TTDI02374;Golgi alpha-mannosidase II
+TTDI02375;Complement factor P
+TTDI02376;Feto-acinar pancreatic protein (FAPP)
+TTDI02377;Epha4 tyrosine kinase receptor
+TTDI02379;mRNA of influenza virus neuraminidase
+TTDI02380;mRNA of TNF alpha ligand
+TTDI02382;mRNA of Erbb2 tyrosine kinase receptor
+TTDI02383;mRNA of Protein kinase C alpha
+TTDI02384;mRNA of Antigen KI-67
+TTDI02385;mRNA of Abl
+TTDI02387;mRNA of BORIS
+TTDI02388;mRNA of TGF-alpha
+TTDI02389;Radioactive plutonium, americium, and curium
+TTDI02391;Mycobacterium tuberculosis aminoglycoside 2'-N-acetyltransferase
+TTDI02392;Bcl 2 binding component 3
+TTDI02393;Amphiregulin ligand
+TTDI02394;CD31
+TTDI02395;FGF-14 ligand
+TTDI02396;CD160
+TTDI02397;Killer cell immunoglobulin-like receptor 3DL2
+TTDI02398;CD58
+TTDI02399;Centrosomal protein
+TTDI02400;Anterior gradient protein 2 homolog
+TTDI02401;Bone marrow stromal antigen 2
+TTDI02402;TRP cation channel M5
+TTDI02403;Desmoglein-3
+TTDI02404;Gap junction alpha-8 protein
+TTDI02405;Myosin-2
+TTDI02406;Tubulin beta-3 chain
+TTDI02407;Dysferlin
+TTDI02408;Prostate derived ETS factor
+TTDI02409;Orotate phosphoribosyltransferase
+TTDI02410;Major prion protein
+TTDI02411;Heat shock factor protein 1
+TTDI02412;Thioredoxin reductase 3
+TTDI02413;Runt-related transcription factor 2
+TTDI02414;Runt-related transcription factor 3
+TTDI02415;Tissue transglutaminase
+TTDI02416;Secreted frizzled related protein-4
+TTDI02417;Botulinum toxin B
+TTDI02418;Botulinum toxin
+TTDI02419;E3 ubiquitin protein ligase CBLB
+TTDI02420;Myotubularin
+TTDI02421;Sodium calcium exchanger 1
+TTDI02422;Gastric triacylglycerol lipase
+TTDI02423;CD47
+TTDI02424;Aspartate beta-hydroxylase
+TTDI02425;Interleukin-17 receptor
+TTDI02426;ADAM 30
+TTDI02427;Integrin beta-3
+TTDI02428;Mucin 5A
+TTDI02429;Follistatin
+TTDI02430;Peroxiredoxin 4
+TTDI02431;Protein arginine N-methyltransferase 4
+TTDI02432;Cathelicidin antimicrobial peptide
+TTDI02433;HIF prolyl hydroxylase-2
+TTDI02434;Mannose receptor
+TTDI02435;Proto-oncogene c-Cbl
+TTDI02436;Thyroid peroxidase
+TTDI02437;Cyclophilin D
+TTDI02438;B-type natriuretic peptide (BNP)
+TTDI02439;Adiponectin receptor
+TTDI02440;Rhodopsin
+TTDI02441;CD97
+TTDI02442;Proteoglycan 4
+TTDI02443;LDL receptor related protein-2
+TTDI02444;Low-density lipoprotein receptor
+TTDI02445;Activin type-IIB receptor
+TTDI02446;Ribonuclease L
+TTDI02447;MST-1 protein kinase
+TTDI02448;Apolipoprotein H
+TTDI02449;IGF binding protein-2
+TTDI02450;Integrin alpha-E
+TTDI02451;Protein kinase C binding protein NELL1
+TTDI02452;Estrogen related receptor alpha
+TTDI02453;Insulin receptor substrate-1
+TTDI02454;Phosphodiesterase (PDE) 1B
+TTDI02455;Solute carrier family 12A2
+TTDI02456;Ubiquitin thioesterase-7
+TTDI02457;Ubiquitin thioesterase-8
+TTDI02458;TRP cation channel V4
+TTDI02459;SCN3A sodium channel subunit
+TTDI02460;Potassium channel KCNA1 Kv1.1
+TTDI02461;SCN8A sodium channel subunit
+TTDI02462;Serine protease HTRA1
+TTDI02463;Caspase-8
+TTDI02464;CASP8-FADD-like regulator
+TTDI02465;Histone deacetylase-4
+TTDI02466;Potassium channel KCNJ18 Kir2.6
+TTDI02467;DNA mismatch repair protein PMS1
+TTDI02468;Apolipoprotein B-100
+TTDI02469;NADPH oxidase 2
+TTDI02470;Butyrophilin like protein 3
+TTDI02471;Activated CDC42 kinase 1
+TTDI02472;Focal adhesion kinase-2
+TTDI02473;Retinol dehydrogenase
+TTDI02474;G protein coupled receptor 49
+TTDI02475;VIP 1 receptor
+TTDI02476;GTPase activating protein
+TTDI02477;Bone morphogenetic protein-4 ligand
+TTDI02478;Nodal homolog ligand
+TTDI02479;Collagen VII
+TTDI02480;Roundabout homolog 4
+TTDI02481;Protein kinase D
+TTDI02482;Polo-like kinase 2
+TTDI02483;Hepatocyte growth factor activator
+TTDI02484;Mannan-binding lectin serine protease-2
+TTDI02485;Neurotrypsin
+TTDI02486;Wnt-1 induced signal pathway protein 1
+TTDI02487;Cyclin A2
+TTDI02488;Stabilin 1
+TTDI02489;Histone acetyltransferase p300
+TTDI02490;TRP cation channel C5
+TTDI02491;Potassium channel H-ERG
+TTDI02492;Caspase-2
+TTDI02493;Caspase-9
+TTDI02494;Neuropilin 2
+TTDI02495;Metabotropic glutamate receptor 4
+TTDI02496;Metabotropic glutamate receptor 7
+TTDI02497;NMDA receptor subunit NR1
+TTDI02498;Integrin alpha-11
+TTDI02499;HLA class I antigen A-33 alpha
+TTDI02500;Activated leukocyte cell adhesion molecule
+TTDI02501;Integrin-linked kinase
+TTDI02502;TIE 1 tyrosine kinase receptor
+TTDI02503;CD132
+TTDI02504;Biglycan
+TTDI02505;Decorin
+TTDI02506;CC-chemokine receptor 7
+TTDI02507;CXCR6 chemokine
+TTDI02508;CXCR7 chemokine
+TTDI02509;G-protein coupled receptor 120
+TTDI02510;N-formyl peptide receptor
+TTDI02511;G protein coupled receptor 101
+TTDI02512;G protein coupled receptor 182
+TTDI02513;G-protein coupled receptor-39
+TTDI02514;G-protein coupled receptor 85
+TTDI02515;G protein coupled receptor 87
+TTDI02516;G protein coupled receptor 81
+TTDI02517;Neuropeptide S receptor
+TTDI02518;P2Y1 purinoceptor
+TTDI02519;P2Y8 purinoceptor
+TTDI02520;Protease-activated receptor-2
+TTDI02521;Prokineticin receptor-1
+TTDI02522;Sphingosine-1-phosphate receptor-2
+TTDI02523;Sphingosine-1-phosphate receptor-3
+TTDI02524;ACTH receptor
+TTDI02525;Heat shock protein beta 8
+TTDI02526;GDF-15 ligand
+TTDI02527;Glial cell neurotrophic factor ligand
+TTDI02528;ODF receptor
+TTDI02529;CD59
+TTDI02530;Cyclic nucleotide-gated channel beta-3 (CNGB3)
+TTDI02531;Keratin 19
+TTDI02532;Nestin
+TTDI02533;Homeobox protein Nkx 3.1
+TTDI02534;CD320 antigen
+TTDI02535;CD209 antigen
+TTDI02536;Early activation antigen CD69
+TTDI02537;C-type lectin domain family 9 member A
+TTDI02538;Cellular retinol binding protein III
+TTDI02539;Prostacyclin synthase
+TTDI02540;Cell division cycle 2-like protein kinase 1
+TTDI02541;I-kappa B kinase epsilon
+TTDI02543;Jun N terminal kinase-3
+TTDI02544;Interleukin-1 receptor-associated kinase 4 (IRAK4)
+TTDI02545;Mycobacterium tuberculosis serine/threonine-protein kinase PknB
+TTDI02546;I-kappa B kinase alpha
+TTDI02547;GTPase HRas
+TTDI02548;TAR DNA binding protein 43
+TTDI02549;Serpin I2
+TTDI02550;Granzyme B
+TTDI02551;Kallikrein 2
+TTDI02552;Kallikrein 1
+TTDI02553;Polycomb complex protein BMI-1
+TTDI02554;Placenta specific protein 1
+TTDI02555;Estradiol 17 beta dehydrogenase 1
+TTDI02556;Protein Wnt-5a ligand
+TTDI02557;Protein Wnt-7a ligand
+TTDI02558;Vasoactive intestinal polypeptide
+TTDI02559;Kynurenine oxoglutarate transaminase II
+TTDI02560;Peptide YY ligand
+TTDI02561;Ubiquitin-protein ligase E2
+TTDI02562;Carbonic anhydrase IV
+TTDI02563;Histidine ammonia lyase
+TTDI02564;Tumor necrosis factor 14 ligand
+TTDI02565;Vascular endothelial cell growth inhibitor
+TTDI02566;14-3-3 protein eta
+TTDI02567;Forkhead box protein O1 (FOXO1)
+TTDI02568;L-dopachrome tautomerase
+TTDI02569;Ornithine decarboxylase
+TTDI02570;Ketohexokinase
+TTDI02571;Solute carrier family 12A5
+TTDI02572;Leukocyte antigen MIC3
+TTDI02573;Galectin-1
+TTDI02574;Galectin-2
+TTDI02575;Geranyltranstransferase
+TTDI02576;Microtubule associated protein 4
+TTDI02577;Ubiquitin thioesterase-2
+TTDI02578;Protein phosphatase 1D
+TTDI02579;TRP cation channel M2
+TTDI02580;TRP cation channel A1
+TTDI02581;Hemoglobin scavenger receptor
+TTDI02582;T-cell surface glycoprotein CD5
+TTDI02583;RalA binding protein 1
+TTDI02584;Muscleblind like protein 1
+TTDI02585;Sulfonylurea receptor-1
+TTDI02586;Insulin degrading enzyme
+TTDI02587;dUTP pyrophosphatase
+TTDI02588;Retinoschisin
+TTDI02589;Claudin 4
+TTDI02590;Histone deacetylase-8
+TTDI02591;Amiloride sensitive cation channel 1
+TTDI02592;Amiloride sensitive cation channel 3
+TTDI02593;Potassium channel KCNJ3 Kir3.1
+TTDI02594;Potassium channel KCNJ5 Kir3.4
+TTDI02595;5'-methylthioadenosine phosphorylase
+TTDI02596;Clusterin
+TTDI02597;Lipophilin B
+TTDI02598;DNA mismatch repair protein Mlh1
+TTDI02599;Leukotriene C4 synthase
+TTDI02600;Heme oxygenase 1
+TTDI02601;Prohibitin
+TTDI02602;Caveolin 1
+TTDI02603;Lysyl oxidase
+TTDI02604;CD107
+TTDI02605;Kynurenine 3-hydroxylase
+TTDI02606;Zinc transporter 8
+TTDI02607;Divalent metal transporter 1
+TTDI02608;Sphingosine-1-phosphate phosphatase 1
+TTDI02609;Interleukin-1 receptor accessory protein
+TTDI02610;Interleukin-18 receptor
+TTDI02611;Polyamine oxidase
+TTDI02612;Legumain
+TTDI02613;Von Hippel-Lindau disease tumor suppressor (VHL)
+TTDI02614;Galactocerebrosidase
+TTDI02615;Sirtuin-2 (SIRT2)
+TTDI02616;Cyclin-dependent kinase inhibitor 1B
+TTDI02617;Niemann-Pick C1-like protein-1
+TTDI02618;Periostin
+TTDI02619;Sentrin specific protease-1
+TTDI02620;Somatostatin ligand
+TTDI02621;Ghrelin O acyltransferase
+TTDI02622;Cyclin dependent kinase 5 activator 1
+TTDI02623;mRNA cap guanine N7 methyltransferase
+TTDI02624;Fructosamine 3-kinase
+TTDI02625;IKK complex associated protein
+TTDI02626;MCSF ligand
+TTDI02627;N-acetylgalactosaminyltransferase 2
+TTDI02628;Interleukin-27 ligand
+TTDI02629;Tyrosyl DNA phosphodiesterase 1
+TTDI02630;Fascin
+TTDI02631;Torsin 1A
+TTDI02632;Cardiotrophin-like cytokine factor 1
+TTDI02633;Protein O-GlcNAcase
+TTDI02634;CD83
+TTDI02635;Junctional adhesion molecule A
+TTDI02636;Myelin oligodendrocyte glycoprotein
+TTDI02637;SLAM family member 6
+TTDI02638;Immune costimulatory protein B7H4
+TTDI02639;TGF-beta activated kinase-1
+TTDI02640;FGF4 receptor
+TTDI02641;Protein BTG1
+TTDI02642;B melanoma antigen 1
+TTDI02643;Protein ARMET
+TTDI02644;Angiomotin
+TTDI02645;Huntingtin
+TTDI02646;Monoglyceride lipase
+TTDI02647;Alpha N acetylglucosaminidase
+TTDI02648;Signal transducer CD24
+TTDI02649;Interleukin-28B ligand
+TTDI02650;Kidney associated antigen 1
+TTDI02652;mRNA of GLI2
+TTDI02653;mRNA of HNRNPA2B1
+TTDI02654;mRNA of ID1
+TTDI02655;mRNA of ISG15
+TTDI02656;mRNA of COPS5
+TTDI02657;mRNA of HD
+TTDI02658;mRNA of CD74
+TTDI02659;mRNA of MMP2
+TTDI02660;mRNA of MMP9
+TTDI02661;mRNA of COP1
+TTDI02662;mRNA of SOD1
+TTDI02663;mRNA of SNCA
+TTDI02664;mRNA of TRPV1
+TTDI02665;mRNA of VEGF receptor
+TTDI02666;mRNA of WEE1
+TTDI02667;mRNA of Hepcidin
+TTDI02668;miR-10b
+TTDI02669;miR-122
+TTDI02670;miR-146a
+TTDI02671;miR-182
+TTDI02672;miR-21
+TTDI02673;miR-296
+TTDI02674;miR-33
+TTDI02675;mRNA of IGFBP2
+TTDI02676;mRNA of IGFBP5
+TTDI02677;mRNA of Coagulation factor XII
+TTDI02678;mRNA of TGF beta-1 ligand
+TTDI02679;miR-191
+TTDI02680;mRNA of MTHFR
+TTDI02681;mRNA of CD40LG
+TTDI02682;mRNA of SCN1A
+TTDI02683;mRNA of NPR1
+TTDI02684;mRNA of KRAS
+TTDI02685;mRNA of ERBB3
+TTDI02686;mRNA of IL4R
+TTDNC00348;MEKK-1 kinase
+TTDNC00350;endosialin
+TTDNC00351;Tumor Endothelial Marker 1 (TEM-1)
+TTDNC00352;PK
+TTDNC00356;Inhaled steroid
+TTDNC00358;Afferent nerve
+TTDNC00361;Hedgehog Signaling Pathway
+TTDNC00362;Synthetic, peptide-based erythropoiesis
+TTDNC00364;Influenza vaccine
+TTDNC00366;JAK
+TTDNC00370;DKK1 protein
+TTDNC00371;IL-21
+TTDNC00372;VLA-1
+TTDNC00373;IFN-alphaR
+TTDNC00375;OxLDL
+TTDNC00376;A-7 nicotinic
+TTDNC00377;secretase
+TTDNC00378;Amyloid precursor protein secretase
+TTDNC00380;BET protein
+TTDNC00381;Alpha-4 beta-2 nicotinic   receptor
+TTDNC00385;VEGF-C
+TTDNC00386;catenin
+TTDNC00387;CBP
+TTDNC00388;PI3K alpha
+TTDNC00389;T-type calcium channel
+TTDNC00390;HER
+TTDNC00391;Pim kinase
+TTDNC00392;TORC1
+TTDNC00393;TORC2
+TTDNC00395;NADH oxidase
+TTDNC00397;Delta-like 4
+TTDNC00398;B7-H3
+TTDNC00400;PIK-1
+TTDNC00405;Sonic hedgehog pathway
+TTDNC00406;CD137 antigen
+TTDNC00407;Stathim
+TTDNC00408;MTF-1
+TTDNC00409;Stemness
+TTDNC00410;Fms-like tyrosine kinase 3
+TTDNC00411;E2F1
+TTDNC00412;TYK2
+TTDNC00413;KIR
+TTDNC00414;LAG3
+TTDNC00415;Notch
+TTDNC00418;RON
+TTDNC00419;Angioprotein
+TTDNC00420;HB-EGF
+TTDNC00421;OX40
+TTDNC00422;Toposisomerase-1
+TTDNC00423;DS6
+TTDNC00424;CD38
+TTDNC00425;CK2
+TTDNC00426;a5ï¼? integrin
+TTDNC00427;TRPM8 protein
+TTDNC00429;WNT signaling pathway
+TTDNC00433;PI3K beta
+TTDNC00434;CDK
+TTDNC00435;HIF-1 pathway
+TTDNC00437;CIF
+TTDNC00438;MAP
+TTDNC00439;DR5
+TTDNC00441;SGLT1
+TTDNC00442;Ileal bile acid transfer
+TTDNC00443;Human pro-islet peptide
+TTDNC00444;Lysophosphatidic acid transferase
+TTDNC00446;HPTP
+TTDNC00447;TIE2
+TTDNC00448;Cathepsin A
+TTDNC00449;protease
+TTDNC00451;MAG pDNA
+TTDNC00453;Triple reuptake
+TTDNC00454;Serotonin-1A
+TTDNC00455;Vasopressin-1 receptor
+TTDNC00456;Phosphodiesterase 10A (PDE10A)
+TTDNC00457;Recombinant fusion protein
+TTDNC00460;Thymic stromal lymphopoietin
+TTDNC00461;Sclerostin
+TTDNC00462;Receptor for Calcitonin Gene-Related Peptide (CGRP)
+TTDNC00463;B7RP1
+TTDNC00464;CD32b
+TTDNC00466;BL
+TTDNC00468;Programmed cell deathâ€? ligand 1 (PD-L1)
+TTDNC00470;Murine anti-OX40 Mab
+TTDNC00471;Inhaled TLR7
+TTDNC00472;Inhaled SGRM
+TTDNC00473;C5
+TTDNC00474;C5a
+TTDNC00475;TSLP
+TTDNC00477;Mesothelin-ADC
+TTDNC00479;S-PRAnt
+TTDNC00481;DNAPKi
+TTDNC00483;NY-ESO-1
+TTDNC00484;CD27
+TTDNC00485;GPR119
+TTDNC00486;TAFIa
+TTDNC00488;Second-generation proteasome
+TTDNC00489;PD-1
+TTDNC00490;Proto oncogene protein-c mdm2
+TTDNC00491;Multi-IAP
+TTDNC00492;DOT1L
+TTDNC00493;Cell-cycle
+TTDNC00494;PKC
+TTDNC00497;DKK2 protein
+TTDNC00498;Proto-oncogene pim-1
+TTDNC00499;STEAP1
+TTDNC00500;Nucleotide reverse transcriptase
+TTDNC00501;Tarmogen T cell immunity
+TTDNC00502;Tumour necrosis factor receptor-1 (TNFR1)
+TTDNC00504;CD3
+TTDNC00506;Sodium dependent glucose transport (SGLT1)
+TTDNC00508;Endogenous gut peptide
+TTDNC00510;cephalosporin
+TTDNC00511;Phoshodiesterase 4
+TTDNC00512;Lp-PLA2
+TTDNC00513;Bromodomain
+TTDNC00515;Glucocortoid
+TTDNC00518;C5aR
+TTDNC00520;NKG2A
+TTDNC00521;Colony stimulating factor-1 receptor (CSF-1R)
+TTDNC00522;TWEAK
+TTDNC00524;Coagulation factor VIII
+TTDNC00525;Non-camptothecin topo1
+TTDNC00526;P75 receptor
+TTDNC00527;CXCRS
+TTDNC00528;MTORC1
+TTDNC00529;MTORC2
+TTDNC00531;PDE1
+TTDNC00532;Ferroportin
+TTDNC00533; p70 S6 Kinase
+TTDNC00536;IgG1
+TTDNC00537;Ultra-rapid-acting recombinant human insulin
+TTDNC00539;FGF-3 receptor
+TTDNC00540;CD37
+TTDNC00541;Angiogenesis
+TTDNC00542;HDAC6
+TTDNC00543;ENG protein
+TTDNC00544;DNMT
+TTDNC00546;Folate-binding protein E39
+TTDNC00547;Pan-DAC
+TTDNC00549;Ras
+TTDNC00550;HepB
+TTDNC00553;PKC-Delta
+TTDNC00554;Cholesterol absorption
+TTDNC00560;Neurotransmitter receptor
+TTDNC00561;M1 prime
+TTDNC00567;PSCA
+TTDNC00569;PMSA
+TTDNC00572;Aldosterone synthase
+TTDNC00574;CCR2b
+TTDNC00576;insulin
+TTDNC00577;CD26 antigen
+TTDNC00578;SLGT1
+TTDNC00579;SLGT2
+TTDNC00581;MTP
+TTDNC00582;Intranasal dopamine-receptor
+TTDNC00584;Recombinant human interleukin-7
+TTDNC00585;IL-17 receptor
+TTDNC00586;Cardiac myosin
+TTDNC00587;Oxazolidinone anti-bacterial
+TTDNC00588;MABA
+TTDNC00589;A4b7
+TTDNC00591;TOPKi
+TTDNC00593;GPNMB
+TTDNC00595;a2d ligand
+TTDNC00596;BFGF signaling system
+TTDNC00597;DNMT1
+TTDNC00599;Epidermal growth factor domain-like-7 (EGFL7)
+TTDNC00600;Non-nucleoside NS5B
+TTDNC00602;Recombinant human angiotensin converting enzyme 2
+TTDNC00604;Death receptor 4
+TTDNC00605;Neurite outgrowth inhibitor (NOGO-A)
+TTDNC00606;Oxytocin
+TTDNC00608;CCR1 chemokine receptor
+TTDNC00609;Hepatitis C virus
+TTDNC00610;8-aminoquinoline
+TTDNC00613;MEK2
+TTDNC00616;ApoCIII
+TTDNC00617;Factor XI
+TTDNC00618;SMN2
+TTDNC00621;FGFR4
+TTDNC00623;Aminoglycoside
+TTDNC00625;Activin receptor type II
+TTDNC00628;Bacterial elongation factor Tu (EFTu)
+TTDNC00629;Integrin
+TTDNC00630;Trk kinase
+TTDNC00631;Immune suppressant
+TTDNC00632;Proprietary
+TTDNC00633;Sirtuin
+TTDNC00634;CD79b
+TTDNC00636;Factor D Fab
+TTDNC00645;Neurotrophic factor production
+TTDNC00646;Proteasome
+TTDNC00647;Transforming growth factor
+TTDNC00648;Mitotic kinesin Eg5
+TTDNC00650;APRIL
+TTDNC00651;D-prostanoid receptor
+TTDNC00652;SSKI
+TTDNC00653;GPR40
+TTDNC00655;Proprotein Convertase Subtilisin
+TTDNC00657;Extended spectrum cephalosporin with affinity to penicillin-binding proteins
+TTDNC00658;Peripherally-acting muopioid receptor
+TTDNC00659;LCS 16
+TTDNC00662;Triple angiokinase
+TTDNC00663;Anti-fibrotic kinase
+TTDNC00667;CCR9 chemokine receptor
+TTDNC00668;Dopamine precursor
+TTDNC00670;TTR
+TTDNC00671;Clusterin
+TTDNC00676;CD21
+TTDNC00677;Glucosylceramide synthetase
+TTDNC00678;Non-steroidal androgen synthesis
+TTDNC00679;Potassium-competitive acid
+TTDNC00687;H5N1 inactivated split monovalent (Quebec)
+TTDNC00691;Azole antifungal
+TTDNR00643;Angiotensinogen
+TTDNR00648;Basigin
+TTDNR00649;BDNF/NT-3 growth factors receptor
+TTDNR00652;Cardiotrophin-1
+TTDNR00671;Exportin-1
+TTDNR00685;Heat shock protein 27 
+TTDNR00702;Low-density lipoprotein receptor-related protein 6
+TTDNR00709;Netrin-1
+TTDNR00714;Nuclear factor erythroid 2-related factor 2
+TTDNR00726;Platelet glycoprotein 4
+TTDNR00746;Serine/threonine-protein kinase pim-2
+TTDNR00764;Tyrosine-protein kinase receptor UFO
+TTDNS00535;Nucleotide NS5B
+TTDNS00536;smoothened receptor
+TTDNS00537;prostaglandin F prostanoid receptor 
+TTDNS00538;ostatin receptor 5 
+TTDNS00539;ribosome A site
+TTDNS00541;PIGF
+TTDNS00542;VEGFA
+TTDNS00544;Glucagon-like peptide 2 receptor
+TTDNS00545;anthrax protective antigen 
+TTDNS00552;Kinase
+TTDNS00559;Glutamine receptor
+TTDNS00563;GABA
+TTDNS00564;upregulating cAMP
+TTDNS00566;adrenergic receptor
+TTDNS00570;sodium pump
+TTDNS00575;Na+-K+-ATPase transmembrane protein
+TTDNS00579;taste receptor
+TTDNS00582; muscarinic receptor
+TTDNS00584;RNA synthesis
+TTDNS00588;DNA intercalative bis-alkylating agents
+TTDNS00592;Abl
+TTDNS00593;RET
+TTDNS00596;ALK
+TTDNS00597;ROS1
+TTDNS00605;cystic fibrosis transmembrane conductance regulator
+TTDNS00606; calcium activated channel anoctamin 1
+TTDNS00610;endothelium of blood vessels
+TTDNS00611;JAK1
+TTDNS00612;L-type  calcium channel 
+TTDNS00614;mycobacteria proton pump
+TTDNS00615;PDE5
+TTDNS00628;Multi-kinase
+TTDNS00629;Inactivated split â€?quadrivalent
+TTDNS00630;IV iron
+TTDR00001;Alpha-amylase
+TTDR00003;K(ATP) channels
+TTDR00004;Prokaryotic primase
+TTDR00005;Kallikrein
+TTDR00006;Follicle stimulating hormone
+TTDR00007;Multidrug resistance protein 1
+TTDR00008;Glucose-6-phosphate dehydrogenase
+TTDR00009;Histidine decarboxylase
+TTDR00010;Diamine oxidase
+TTDR00011;FMLP receptor
+TTDR00012;Interleukin 3 receptor
+TTDR00013;1,3-beta-D-glucan-UDP glucosyltransferase
+TTDR00014;Carnitine O-acetyltransferase
+TTDR00015;Prolyl endopeptidase
+TTDR00017;Growth hormone-releasing hormone receptor
+TTDR00018;3-beta-hydroxysterol delta-24-reductase
+TTDR00019;Alcohol dehydrogenase 2
+TTDR00020;Multidrug resistance-associated protein 2
+TTDR00021;Glycerol-3-phosphate oxidase
+TTDR00022;3-Deoxy-D-manno-octulosonate 8-phosphate synthase 
+TTDR00023;DTDP-4-dehydrorhamnose 3,5-epimerase rmlC
+TTDR00024;Probable naphthoate synthase menB
+TTDR00025;Cdc2-related kinase 3
+TTDR00026;Ribonucleoside-diphosphate reductase small chain
+TTDR00027;Possible RNA methyltransferase
+TTDR00028;Cell division control protein 28
+TTDR00029;Matrilysin
+TTDR00030;Glycosyltransferase MurG
+TTDR00031;Synthesis of leukotrienes
+TTDR00032;Ciliary neurotrophic factor
+TTDR00033;Aldo-keto reductase family 1 member C3
+TTDR00034;Prostaglandin E2 receptor, EP3 subtype
+TTDR00035;Sodium/hydrogen exchanger 3
+TTDR00036;Ras-related protein Rab-9A
+TTDR00037;Scytalone dehydratase
+TTDR00038;Manganese ABC transporter substrate-binding lipoprotein
+TTDR00039;Sensor-like histidine kinase senX3
+TTDR00040;Forkhead box protein O1A
+TTDR00041;S-adenosyl-L-methionine-C-24-delta-sterol-methyltransferase
+TTDR00042;Beta-hydroxyacyl-acp dehydratase
+TTDR00043;Class 1 lysyl-tRNA synthetase
+TTDR00044;GDP-mannose pyrophosphorylase
+TTDR00045;Interleukin-1 receptor-associated kinase-4
+TTDR00046;RING-box protein 2
+TTDR00047;Papain-like cysteine protease
+TTDR00048;Voltage-dependent T-type calcium channel alpha-1I subunit
+TTDR00049;5-HT-moduline
+TTDR00050;ATP-independent DNA topoisomerase II
+TTDR00051;CGMP-dependent protein kinase
+TTDR00052;Growth arrest and DNA-damage-inducible protein GADD45
+TTDR00053;HCV polyprotein
+TTDR00054;HIV-1 peptidase
+TTDR00055;HIV-1 Tat protein-TAR RNA
+TTDR00056;Pre-mRNA splicing factor PRP8
+TTDR00057;Melanocortin receptor
+TTDR00058;P16 gene
+TTDR00059;P2X receptor (bacterial)
+TTDR00060;Protease resistant isoform
+TTDR00061;Rnase P protein
+TTDR00062;Voltage-gated calcium channel
+TTDR00063;Wld(S) protein
+TTDR00064;HCMV DNA polymerase
+TTDR00065;Aspartyl protease (Candida albicans secreted)
+TTDR00066;DnaB-like helicase
+TTDR00067;Ribosomal ATPase RbbA
+TTDR00068;DNA helicase/primase complex associated protein
+TTDR00069;Stromelysin
+TTDR00070;Cysteine protease
+TTDR00071;Potassium voltage-gated channel subfamily B member 1
+TTDR00072;Metalloproteinase-4
+TTDR00073;Vascular endothelial growth factor receptor
+TTDR00074;Choline transporter
+TTDR00075;Apicoplast ribosome
+TTDR00076;DNA gyrase
+TTDR00077;Cytochrome c oxidoreductase
+TTDR00079;New permeability pathways
+TTDR00081;P2Y purinoceptor 1
+TTDR00082;Mitochondrial brown fat uncoupling protein 1
+TTDR00083;Mitochondrial uncoupling protein 2
+TTDR00084;Mitochondrial uncoupling protein 3
+TTDR00085;Dual specificity protein phosphatase 1
+TTDR00086;Interleukin-4
+TTDR00088;Interleukin-5
+TTDR00089;D-amino acid aminotransferase
+TTDR00090;mRNA of intercellular adhesion molecule 1
+TTDR00092;mRNA of the major immediate-early region protein
+TTDR00093;Penicillin binding protein 1
+TTDR00094;Transketolase
+TTDR00096;Agouti-related protein
+TTDR00098;Monoamine uptake
+TTDR00099;Proto-oncogene protein c-fos
+TTDR00101;Orotate phosphoribosyltransferase
+TTDR00102;Hepatitis C Virus Serine Protease NS3/4A
+TTDR00103;Nonstructural protein NS3
+TTDR00104;Cystathionine beta-lyase
+TTDR00105;Peroxisome proliferator activated receptor
+TTDR00106;Plasmepsin 2
+TTDR00107;Plasmepsin 1
+TTDR00108;Pleiotrophin
+TTDR00109;Proteinase activated receptor 2
+TTDR00110;Proteinase activated receptor 3
+TTDR00111;Proteinase activated receptor 4
+TTDR00113;Adenylosuccinate synthetase
+TTDR00114;Vasoactive intestinal polypeptide receptor
+TTDR00115;GTP cyclohydrolase I
+TTDR00116;M-phase inducer phosphatase 2
+TTDR00117;Mitogen-activated protein kinase kinase kinase 1
+TTDR00118;Bombesin receptor subtype-3
+TTDR00119;Orexin
+TTDR00120;Dopamine D2-like receptor
+TTDR00122;Cyclophilin
+TTDR00123;mRNA of Protein kinase C, alpha type
+TTDR00124;mRNA of bcl2
+TTDR00128;mRNA of protein kinase C
+TTDR00129;mRNA of Raf
+TTDR00131;Melanin-concentrating hormone receptor
+TTDR00133;L-lactate dehydrogenase
+TTDR00134;P185HER-2
+TTDR00135;Endothelin-converting enzyme 1
+TTDR00136;Endothelin-converting enzyme 2
+TTDR00137;Threonine deaminase
+TTDR00138;Interleukin-10
+TTDR00141;Interleukin-2
+TTDR00142;DNA topoisomerase
+TTDR00145;Prostaglandin E receptor
+TTDR00146;Mitogen-activated protein kinase kinase kinase 4
+TTDR00147;Dual specificity mitogen-activated protein kinase kinase 7
+TTDR00148;Dual specificity mitogen-activated protein kinase kinase 1
+TTDR00149;Dual specificity mitogen-activated protein kinase kinase 5
+TTDR00150;Mitogen-activated protein kinase kinase
+TTDR00151;Coagulation factor X
+TTDR00152;G2/mitotic-specific cyclin B1
+TTDR00154;Lactase-phlorizin hydrolase
+TTDR00155;5-hydroxytryptamine 1 receptor
+TTDR00157;5-hydroxytryptamine 7 receptor
+TTDR00158;Alanine racemase, biosynthetic
+TTDR00159;Isoleucyl-tRNA synthetase, cytoplasmic (human)
+TTDR00161;Platelet activating factor
+TTDR00164;Neuronal acetylcholine receptor protein, beta-4 chain
+TTDR00165;D-alanine--D-alanine ligase
+TTDR00166;Glutamate-1-semialdehyde aminomutase
+TTDR00167;Dihydroorotase
+TTDR00168;Cannabinoid receptor
+TTDR00169;Heat shock protein 70
+TTDR00170;Putative tryptase delta
+TTDR00171;CAD protein
+TTDR00172;Cholinephosphate cytidylyltransferase
+TTDR00173;Adenylate cyclase, type II
+TTDR00174;Potassium channel
+TTDR00175;Integrin beta-3
+TTDR00176;Vasopressin V1 receptor
+TTDR00177;Immunoglobulin A
+TTDR00178;DNA gyrase A subunit
+TTDR00179;V beta 3 T-cell receptor
+TTDR00180;Transforming growth factor receptor b
+TTDR00181;Transforming growth factor alpha
+TTDR00182;T-cell receptor beta chain V region CTL-L17
+TTDR00183;Gamma-aminobutyric acid gated chloride channel
+TTDR00184;Galanin receptor type 1
+TTDR00185;N-myc proto-oncogene protein
+TTDR00186;Soluble guanylate cyclase
+TTDR00188;HIV-2 reverse transcriptase
+TTDR00190;Tumor necrosis factor receptor
+TTDR00192;Tumor necrosis factor receptor superfamily member 8
+TTDR00193;Tumor necrosis factor receptor superfamily member 11B
+TTDR00194;Phosphotransketolase
+TTDR00195;Nicotinic acetylcholine receptor alpha2 / alpha3
+TTDR00196;Synaptosomal-associated protein 25
+TTDR00197;Chymase
+TTDR00198;C-ets-1 protein
+TTDR00199;Voltage-dependent P/Q-type calcium channel alpha-1A subunit
+TTDR00200;Voltage-dependent R-type calcium channel alpha-1E subunit
+TTDR00201;Gamma-aminobutyric acid transporter 4
+TTDR00202;M-phase inducer phosphatase 1
+TTDR00204;Tar rRNA
+TTDR00205;Interleukin-8
+TTDR00207;Neuronal kinesin heavy chain
+TTDR00208;M-phase inducer phosphatase 3
+TTDR00209;Carbonic anhydrase IV
+TTDR00210;Carbonic anhydrase VI
+TTDR00211;Carbonic anhydrase IX
+TTDR00212;Carbonic anhydrase XII
+TTDR00213;Carbonic anhydrase XIV
+TTDR00214;Sodium/potassium-transporting ATPase alpha-2 chain
+TTDR00217;mRNA of VLA-4
+TTDR00218;O-acetylserine sulfhydrylase
+TTDR00219;Hypoxanthine-guanine phosphoribosyltransferase
+TTDR00220;Vasopeptidase
+TTDR00221;Rhodopsin
+TTDR00222;Aspartate aminotransferase, cytoplasmic
+TTDR00223;Omega-amino acid:pyruvate aminotransferase
+TTDR00224;Proliferating cell nuclear antigen, Cyclin-A2
+TTDR00225;Low-density lipoprotein receptor
+TTDR00226;Serine hydroxymethyltransferase, mitochondrial
+TTDR00228;DNA gyrase B subunit
+TTDR00229;Geranylgeranyltransferase I
+TTDR00230;Elastase 1
+TTDR00231;Orotidine 5'-monophosphate decarboxylase
+TTDR00232;Leukotriene C4 synthase
+TTDR00233;Tyrosine-protein kinase BTK
+TTDR00234;Arachidonate 15-lipoxygenase
+TTDR00236;Rhinovirus coat protein, Genome polyprotein
+TTDR00237;PN3 Na+ channel
+TTDR00238;Leptin receptor
+TTDR00239;Arachidonate 12-lipoxygenase, 12S-type
+TTDR00240;Angiogenin
+TTDR00241;2-oxoglutarate decarboxylase
+TTDR00242;Cytochrome P450 1B1
+TTDR00243;Oncogenic GTP-binding protein
+TTDR00244;Integrin alpha V beta 3
+TTDR00247;5-methyltetrahydrofolate--homocysteine methyltransferase
+TTDR00248;V beta 14 T-cell receptor
+TTDR00249;Ornithine aminotransferase, mitochondrial
+TTDR00250;Nuclear factor NF-kappa-B
+TTDR00251;Thymidine phosphorylase
+TTDR00252;Insulin-like growth factor II
+TTDR00253;Ras proteins
+TTDR00254;Aspartate carbamoyltransferase
+TTDR00255;Inhibitor of nuclear factor kappa-B kinase alpha subunit
+TTDR00256;CGMP-dependent 3',5'-cyclic phosphodiesterase
+TTDR00257;Casein kinase II, alpha chain
+TTDR00258;Carbamoyl-phosphate synthase II
+TTDR00260;Protein kinase A
+TTDR00261;Corticotropin-lipotropin
+TTDR00262;Arginine vasopressin
+TTDR00264;HIV envelope protein gp120
+TTDR00265;Superoxide dismutase [Cu-Zn]
+TTDR00266;Vanilloid receptor 1
+TTDR00267;Peptide deformylase
+TTDR00268;Hepatocyte nuclear factor 1-alpha
+TTDR00269;Hepatocyte nuclear factor 4-alpha
+TTDR00270;Steroid hormone receptor ERR1
+TTDR00271;Orphan nuclear receptor DAX-1
+TTDR00272;Thyroid hormone receptor
+TTDR00273;3-phosphoinositide dependent protein kinase-1
+TTDR00274;Liver carboxylesterase
+TTDR00275;Acetyl-CoA carboxylase 1
+TTDR00276;Integrin alpha-2
+TTDR00277;Alpha v beta 3 integrin receptor
+TTDR00278;P2X purinoceptor 3
+TTDR00280;Beta-adrenergic receptor kinase 1
+TTDR00281;CAP-dependent endonuclease
+TTDR00283;Monocyte differentiation antigen CD14
+TTDR00284;Tumor necrosis factor ligand superfamily member 5
+TTDR00285;Large subunit Cp complex Cdc68p
+TTDR00286;Calcitonin gene-related peptide type 2 receptor
+TTDR00287;C-X-C chemokine receptor type 5
+TTDR00288;ATP-binding cassette, sub-family A, member 1
+TTDR00289;C-Jun N-terminal kinase
+TTDR00291;Beta-ketoacyl-ACP synthase I
+TTDR00292;3-oxoacyl-[acyl-carrier-protein] synthase II
+TTDR00293;Gap junction alpha-1 protein
+TTDR00296;Cell division protein kinase 5
+TTDR00298;Cell division protein kinase 8
+TTDR00299;Cyclin-dependent protein kinase PfPK5
+TTDR00300;Cyclin-dependent protein kinase PfPK6
+TTDR00301;Cyclin-dependent protein kinase Pfmrk
+TTDR00302;Cyclosporine receptor
+TTDR00303;Enoyl-[acyl-carrier-protein] reductase [NADH] 1
+TTDR00304;Enoyl-[acyl-carrier-protein] reductase [NADH] 2
+TTDR00306;FemA factor
+TTDR00307;FemB factor
+TTDR00308;FemX factor
+TTDR00309;Fatty acid-binding protein, epidermal
+TTDR00310;Immunoglobulin alpha Fc receptor
+TTDR00311;Fc gamma receptor I
+TTDR00313;Heparin binding protein
+TTDR00314;Fibroblast growth factor receptor
+TTDR00315;Foot-and-mouth disease virus capsid protein VP1
+TTDR00316;Foot-and-mouth disease virus capsid protein VP2
+TTDR00317;Foot-and-mouth disease virus capsid protein VP3
+TTDR00319;Glycoprotein VI
+TTDR00320;Glutathione peroxidase
+TTDR00321;Metabotropic glutamate receptor 2
+TTDR00322;Granulocyte-macrophage colony-stimulating factor
+TTDR00323;HCV helicase
+TTDR00326;Herpes simplex virus helicase-primase
+TTDR00327;Histidine kinase AlgR1
+TTDR00328;Histidine kinase AlgR2
+TTDR00329;Histidine kinase KinA
+TTDR00330;HIV-1 gp160
+TTDR00331;Holo-ACP synthase
+TTDR00332;Interferon alpha
+TTDR00333;Insulin-like growth factor binding protein 1
+TTDR00334;Mitogen-activated protein kinase 9
+TTDR00335;Rhombotin-2
+TTDR00336;Phospholipid transfer protein
+TTDR00337;Mitogen-activated protein kinase kinase kinase 2
+TTDR00338;Matrix metalloproteinase
+TTDR00339;Mitogen-activated protein kinase kinase kinase 9
+TTDR00340;Mitogen-activated protein kinase kinase kinase 10
+TTDR00341;Mitogen-activated protein kinase kinase kinase 11
+TTDR00342;mRNA of adenosine A1 receptor
+TTDR00343;mRNA of EGFR
+TTDR00344;mRNA of protein kinase A Rialpha subunit
+TTDR00347;Sodium/hydrogen exchanger 1
+TTDR00348;Nicotinate-nucleotide adenylyltransferase
+TTDR00349;Reticulon 4 receptor
+TTDR00350;Transient receptor potential channel 6, subfamily V
+TTDR00352;Mitogen-activated protein kinase 11
+TTDR00353;P42/p44 mitogen-activated protein kinase
+TTDR00354;Pantothenate kinase
+TTDR00355;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+TTDR00356;Phosphoinositide 3 kinase
+TTDR00357;Phosphoenolpyruvate transferase
+TTDR00358;Phospholipase D
+TTDR00359;Elongation factor 1-alpha 1
+TTDR00360;5-enopyruvyl shikimate 3-phosphate synthase
+TTDR00361;Beta-ketoacyl-ACP synthase III
+TTDR00362;20S proteasome
+TTDR00363;Serine/threonine protein phosphatase 2A, 56 kDa regulatory subunit, alpha isoform
+TTDR00365;Stress kinase p38
+TTDR00366;Sulfur mustard-stimulated protease
+TTDR00369;Urokinase plasminogen activator surface receptor
+TTDR00370;Vasopressin receptor
+TTDR00372;Mitogen-activated protein kinase 1
+TTDR00373;Mitogen-activated protein kinase 3
+TTDR00374;Phospholipase D1
+TTDR00375;Melanocortin-3 receptor
+TTDR00377;Cholecystokinin
+TTDR00378;mRNA of protein kinase A1
+TTDR00380;3-hydroxysteroid dehydrogenase
+TTDR00381;Hydroxymethylglutaryl-CoA synthase, mitochondrial
+TTDR00382;Low-density lipoprotein
+TTDR00383;Low-density lipoprotein receptor-related protein
+TTDR00384;Scavenger receptor class B member 1
+TTDR00385;Filamin A
+TTDR00386;Corticotropin-releasing factor binding protein
+TTDR00387;Corticoliberin
+TTDR00388;Nuclear receptor coactivator 4
+TTDR00389;Glycoprotein hormones alpha chain
+TTDR00390;Supervillin
+TTDR00391;Nuclear receptor binding SET domain containing protein 1
+TTDR00392;Prostate stem cell antigen
+TTDR00393;3-alpha-hydroxysteroid dehydrogenase
+TTDR00394;High-affinity cationic amino acid transporter-1
+TTDR00395;Thrombomodulin
+TTDR00396;Tissue factor
+TTDR00397;G1/S-specific cyclin D1
+TTDR00399;Trehalose-phosphatase
+TTDR00400;Coagulation factor VIIa
+TTDR00401;Macrophage mannose receptor
+TTDR00402;Outer capsid glycoprotein VP7
+TTDR00403;Serine proteinase alpha-thrombin
+TTDR00404;Midkine
+TTDR00405;B1 bradykinin receptor
+TTDR00406;Kininogen
+TTDR00407;Kinin B1 receptor
+TTDR00408;Kinin B2 receptor
+TTDR00409;Vanilloid receptor
+TTDR00411;Apolipoprotein E
+TTDR00412;Endothelin-1
+TTDR00413;Diphosphomevalonate decarboxylase
+TTDR00414;S-adenosylmethionine decarboxylase proenzyme
+TTDR00415;Lactosylceramide alpha-2,3-sialyltransferase
+TTDR00416;Endothelin converting enzyme
+TTDR00417;Leucine-rich repeat-containing G protein-coupled receptor 5
+TTDR00418;Prolactin
+TTDR00419;CCAAT/enhancer binding protein beta
+TTDR00420;Oxysterols receptor LXR-alpha
+TTDR00421;Oxysterols receptor LXR-beta
+TTDR00422;Leukemia inhibitory factor
+TTDR00423;Eosinophil peroxidase
+TTDR00426;Chemokine receptor
+TTDR00427;Interferon regulatory factor 1
+TTDR00428;Class II cytokine receptor
+TTDR00430;Leukocyte surface antigen CD47
+TTDR00431;Monokine
+TTDR00432;Gastric inhibitory polypeptide
+TTDR00433;Caspase-8
+TTDR00434;Interleukin-1 beta convertase
+TTDR00435;Common lymphatic endothelial and vascular endothelial receptor-1
+TTDR00436;Mitogen-activated protein kinase
+TTDR00437;Cytokine
+TTDR00438;Serum amyloid A-activating factor 1
+TTDR00439;Endotoxin
+TTDR00440;Apopain
+TTDR00441;Apolipoprotein A-II
+TTDR00442;Glycosylphosphatidylinositol-anchored aspartyl protease
+TTDR00443;Cytosolic phospholipase A2
+TTDR00444;Presenilin 1
+TTDR00445;Presenilin 2
+TTDR00446;Serum amyloid P-component
+TTDR00447;Cathepsin D
+TTDR00448;Ribonuclease H
+TTDR00449;Insulin-like growth factor binding protein 3
+TTDR00450;Six-transmembrane epithelial antigen of the prostate 2
+TTDR00451;C-C motif chemokine 2
+TTDR00452;Triggering receptor expressed on myeloid cells 1
+TTDR00453;Vascular cell adhesion protein 1
+TTDR00455;Caspase-11
+TTDR00456;Virion infectivity factor
+TTDR00457;Kallikrein 7
+TTDR00458;Oncostatin M
+TTDR00459;mRNA of Telomerase reverse transcriptase
+TTDR00460;Oligophrenin 1
+TTDR00461;Neuropsin
+TTDR00462;Tumor necrosis factor ligand superfamily member 6
+TTDR00464;Paired box protein Pax-5
+TTDR00465;Guanine nucleotide-binding protein G(I)/G(S)/G(O) gamma-7 subunit
+TTDR00466;CAMP-specific 3',5'-cyclic phosphodiesterase 4B
+TTDR00468;Leptin
+TTDR00469;Insulin receptor substrate-1
+TTDR00470;Proto-oncogene C-crk
+TTDR00471;Fetuin
+TTDR00473;Integrin alpha-V
+TTDR00474;Glucose-6-phosphatase
+TTDR00475;Cyclin-dependent kinase inhibitor 1C
+TTDR00476;Fatty acid-binding protein, adipocyte
+TTDR00477;Ectonucleotide pyrophosphatase/phosphodiesterase 1
+TTDR00478;Neurotrophin-3
+TTDR00479;I1-imidazoline receptor
+TTDR00480;T-box transcription factor TBX21
+TTDR00481;Sigma receptor
+TTDR00482;IgG receptor FcRN large subunit P51
+TTDR00483;L523S
+TTDR00484;Osteopontin
+TTDR00485;Integrin-linked protein kinase 1
+TTDR00486;Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase PTEN
+TTDR00487;Plasminogen activator
+TTDR00488;Transcription factor GATA-4
+TTDR00489;Nuclear receptor coactivator 3
+TTDR00490;Sodium/calcium exchanger
+TTDR00491;DNA replication licensing factor MCM6
+TTDR00492;DNA replication licensing factor MCM7
+TTDR00493;Suppressor of cytokine signaling 1
+TTDR00494;Hexamethylene bisacetamide-inducible protein 1
+TTDR00495;Calcium-dependent chloride channel-1
+TTDR00496;4-aminopyridine sensitive K(+) channels
+TTDR00497;ETS-domain transcription factor ERF
+TTDR00498;Small inducible cytokine B10
+TTDR00499;Zinc finger protein A20
+TTDR00500;Thymidine kinase
+TTDR00503;Prostate specific antigen
+TTDR00504;Osteonectin
+TTDR00505;Calpain
+TTDR00506;Phosphatidylethanolamine N-methyltransferase
+TTDR00507;Cytochrome B-245 heavy chain
+TTDR00508;Lymphotoxin-beta
+TTDR00509;Transforming protein p21
+TTDR00510;Serine protease hepsin
+TTDR00511;Transforming growth factor beta 1
+TTDR00512;Protein-lysine 6-oxidase
+TTDR00513;Sarcoplasmic/endoplasmic reticulum calcium ATPase 2
+TTDR00514;Stathmin
+TTDR00515;Latent membrane protein 2A
+TTDR00516;Voltage-gated potassium channel
+TTDR00517;Cyclic-AMP-dependent transcription factor ATF-3
+TTDR00518;High mobility group protein 1
+TTDR00519;Interleukin-11
+TTDR00521;Cell adhesion molecules
+TTDR00524;Fractalkine
+TTDR00525;CD44 antigen
+TTDR00526;Cystathionine beta-synthase
+TTDR00527;Caveolin-1
+TTDR00529;Adenosine kinase
+TTDR00530;Melanocyte stimulating hormone receptor
+TTDR00531;Glutamyl aminopeptidase
+TTDR00532;CAMP response element binding protein
+TTDR00533;Intestinal GlcNAc-6-sulfotransferase
+TTDR00534;C-X-C chemokine receptor type 6
+TTDR00535;Intrinsic factor-B12 receptor
+TTDR00536;Cyclophilin receptor
+TTDR00537;Ectonucleoside triphosphate diphosphohydrolase 1
+TTDR00538;Epidermal growth factor receptor III
+TTDR00539;Folylpolyglutamate synthase, mitochondrial
+TTDR00540;FMLP-related receptor I
+TTDR00541;HCV nucleoside triphosphatase
+TTDR00542;Interleukin-13 receptor
+TTDR00543;Solute carrier family 12 member
+TTDR00544;Potassium voltage-gated channel subfamily KQT member 2
+TTDR00545;Leukotriene B4 receptor 2
+TTDR00546;Low-density lipoprotein receptor-related protein 2
+TTDR00547;mRNA of 3-phosphoinositide-dependent kinase-1
+TTDR00548;mRNA of Htert
+TTDR00549;mRNA of H-ras
+TTDR00550;mRNA of Ki-ras
+TTDR00551;mRNA of telomerase
+TTDR00552;mRNA of protein kinase A alpha subunit
+TTDR00553;Nerve growth factor
+TTDR00554;Orphan nuclear receptor NURR1
+TTDR00555;Acid phosphatase surE
+TTDR00556;Plasminogen activator inhibitor-1
+TTDR00557;Protein kinase C, zeta type
+TTDR00558;RNA endonuclease
+TTDR00559;Sortase
+TTDR00560;Trypsin-like serine protease
+TTDR00561;UDP-glucuronosyltransferase
+TTDR00562;Urotensin II receptor
+TTDR00563;Vacuolar-type (H+)-ATPase
+TTDR00564;5-hydroxytryptamine 1E receptor
+TTDR00565;5-hydroxytryptamine 5A receptor
+TTDR00566;CCK receptor
+TTDR00567;Heparin-binding growth factor 2
+TTDR00568;Phosphatidylinositol 3-kinase
+TTDR00570;Ketol-acid reductoisomerase
+TTDR00571;Dipeptidyl-peptidase I
+TTDR00572;Gamma-glutamyl hydrolase
+TTDR00573;Endothelin
+TTDR00574;Urotensin II
+TTDR00575;Nucleolin
+TTDR00576;Epidermal growth factor receptor deltaEGFR
+TTDR00577;Vang-like protein 1
+TTDR00578;14-3-3 proteins
+TTDR00579;EPAS-1/HIF-2alpha mRNA
+TTDR00580;Lysophosphatidic acid receptor Edg-2
+TTDR00582;Endocytic receptor Endo180
+TTDR00583;Ghrelin
+TTDR00584;Small inducible cytokine A22
+TTDR00585;Trypanothione reductase
+TTDR00586;Insulin-like growth factor binding protein 6
+TTDR00587;Estradiol 17 beta-dehydrogenase 1
+TTDR00588;Tubulin associated unit Tau
+TTDR00589;Ganciclovir kinase
+TTDR00590;Human cytomegalovirus protease
+TTDR00591;MTA/SAH nucleosidase
+TTDR00592;Glycylpeptide N-tetradecanoyltransferase
+TTDR00593;Nuclear receptor ROR-alpha
+TTDR00594;Immunogenic protein MPT63/MPB63
+TTDR00595;Kgp protease
+TTDR00596;Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial
+TTDR00597;N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+TTDR00598;Hexose transporter 1
+TTDR00599;Histidine-rich protein II
+TTDR00600;Delta-aminolevulinic acid synthetase
+TTDR00601;S-adenosyl-L-methionine:C-24 sterol methyl transferase
+TTDR00602;Haemophilus influenzae NadR protein
+TTDR00603;CAMP-specific 3',5'-cyclic phosphodiesterase 2C
+TTDR00604;Cyclin-dependent kinase 4 inhibitor A
+TTDR00605;Protein HP59
+TTDR00606;Cysteine protease falcipain-2
+TTDR00607;Falcipain-3
+TTDR00608;Alpha-endosulfine
+TTDR00609;RNA triphosphatase
+TTDR00610;Methionine gamma-lyase
+TTDR00611;Leukocyte common antigen
+TTDR00612;Melanin-concentrating hormone receptor 2
+TTDR00613;Mycobacterium tuberculosis 30 kDa major secretory protein
+TTDR00614;Elongation factor 3
+TTDR00615;Glutamate--cysteine ligase regulatory subunit
+TTDR00617;Xanthine phosphoribosyltransferase
+TTDR00618;Hypoxanthine-guanine-xanthine phosphoribosyltransferase
+TTDR00619;Isocitrate lyase
+TTDR00620;Voltage-dependent L-type calcium channel alpha-1D subunit
+TTDR00621;Synapsin
+TTDR00622;CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+TTDR00623;Glycerol-3-phosphate dehydrogenase [NAD+], cytoplasmic
+TTDR00624;Methylated-DNA--protein-cysteine methyltransferase
+TTDR00625;Homoserine dehydrogenase
+TTDR00626;Large neutral amino acids transporter small subunit 1
+TTDR00627;Cardiac phospholamban
+TTDR00628;MNN9 protein
+TTDR00629;CX3C chemokine receptor 1
+TTDR00630;Prostaglandin E synthase
+TTDR00631;Metal-transporter protein PsaA
+TTDR00632;Beta-ketoacyl-ACP synthase
+TTDR00633;Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+TTDR00634;Fatty acid-binding protein, liver
+TTDR00635;Pyrophosphate-dependent phosphofructokinase
+TTDR00636;Laccase
+TTDR00637;Triosephosphate isomerase (bacterial)
+TTDR00638;DNA polymerase processivity factor
+TTDR00640;Fructose-bisphosphate aldolase
+TTDR00641;SH2 containing inositol-5-phosphatase
+TTDR00642;Endoglin
+TTDR00644;Suppressor of tumorigenicity 14
+TTDR00646;Beta 1, 2-Xylosyltransferase
+TTDR00647;Phospholipase C gamma
+TTDR00648;CoA-independent transacylase
+TTDR00650;Alpha 4 beta 7 integrin receptor
+TTDR00651;Integrin alpha-6
+TTDR00653;Monocarboxylate transporter 1
+TTDR00654;Protein phosphatase 2C delta isoform
+TTDR00655;Pyridoxal phosphate biosynthetic protein pdxJ
+TTDR00656;Myelin-oligodendrocyte glycoprotein
+TTDR00657;3-oxoacyl-[acyl-carrier protein] reductase
+TTDR00658;Actin
+TTDR00659;Bis(5'-adenosyl)-triphosphatase
+TTDR00660;Ly-6K antigen
+TTDR00661;Aconitate hydratase, mitochondrial
+TTDR00662;UDP-glucose 4-epimerase
+TTDR00663;60 kDa heat shock protein, mitochondrial
+TTDR00665;520 kDa MYC-binding protein
+TTDR00666;Penicillin-binding protein 1B
+TTDR00667;Cyclin-dependent kinase inhibitor 1
+TTDR00668;Pro-neuregulin-1
+TTDR00669;Focal adhesion kinase
+TTDR00670;Troponin I, cardiac muscle
+TTDR00673;Prostaglandin E2 receptor, EP1 subtype
+TTDR00674;Beta crystallin B1
+TTDR00675;Opioid-insensitive Ca2+ channel
+TTDR00676;3-deoxy-manno-octulosonate cytidylyltransferase
+TTDR00677;Interleukin-13 receptor alpha-2 chain
+TTDR00678;Glycoprotein coupled receptor
+TTDR00679;Alpha-fetoprotein
+TTDR00680;2',3'-cyclic nucleotide 3'-phosphodiesterase
+TTDR00681;Carcinoembryonic antigen-related cell adhesion molecule 5
+TTDR00682;Lactadherin
+TTDR00683;Tenascin
+TTDR00684;Serum paraoxonase/arylesterase 1
+TTDR00685;Hepatocellular carcinoma-associated protein
+TTDR00686;CAMP-dependent protein kinase A type I
+TTDR00687;Folate receptor beta
+TTDR00688;Wilms' tumor protein
+TTDR00689;Troponin T, cardiac muscle isoforms
+TTDR00690;Dihydroneopterin aldolase
+TTDR00691;Dickkopf related protein-1
+TTDR00692;Bile-salt-activated lipase
+TTDR00693;Annexin A10
+TTDR00694;Tumor-associated carbohydrate antigen KH-1
+TTDR00695;Rab geranylgeranyltransferase
+TTDR00696;ADAMTS-4
+TTDR00697;ADAMTS-5
+TTDR00698;Platelet endothelial cell adhesion molecule
+TTDR00699;Integrin alpha-M
+TTDR00700;DNA fragmentation factor 40 kDa subunit
+TTDR00701;Immunoglobulin A1 protease
+TTDR00702;Alkylhydroperoxidase AhpD
+TTDR00703;Bacitracin transport ATP-binding protein bcrA
+TTDR00704;Plasmepsin 4
+TTDR00705;Dystroglycan
+TTDR00706;40S ribosomal protein S12
+TTDR00707;Choriogonadotropin beta chain
+TTDR00708;65 kD membrane-associated NADH-fumarate reductase
+TTDR00709;Inositol polyphosphate 1-phosphatase
+TTDR00710;Diphosphoinositol polyphosphate phosphohydrolase 2
+TTDR00711;Gene A1
+TTDR00712;Membrane-bound transcription factor site-1 protease
+TTDR00713;Beta-catenin
+TTDR00714;5T4 ONCOFETAL antigen
+TTDR00715;Glycosylphosphatidylinositol phosphoethanolamine transferase
+TTDR00716;Farnesyl-protein transferase
+TTDR00717;Serine/threonine protein phosphatase PP1-alpha 1 catalytic subunit
+TTDR00718;HPIV-1 hemagglutinin-neuraminidase glycoprotein
+TTDR00720;UPF0090 protein SP0552
+TTDR00721;Methionine aminopeptidase 2
+TTDR00722;L-selectin
+TTDR00723;2C-Methyl-D-erythritol 2,4-cyclodiphosphate synthase
+TTDR00725;DNA: NF2 gene promoter
+TTDR00726;Signal peptidase I
+TTDR00727;Perilipin
+TTDR00728;Contactin 2
+TTDR00729;DNA: squamous cell carcinoma antigen SCCA1 promoter
+TTDR00730;Mucin 1
+TTDR00731;P2Y purinoceptor 6
+TTDR00732;Arginase II, mitochondrial
+TTDR00733;Transmembrane protease, serine 2
+TTDR00734;Complement receptor type 1
+TTDR00735;Phosphatidylinositol 3-kinase CaVps34p
+TTDR00736;Macrophage scavenger receptor class B type I
+TTDR00737;6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2
+TTDR00738;Human T-cell leukemia virus type-1 proteinase
+TTDR00739;Superoxide dismutase [Mn]
+TTDR00740;Acylamino-acid-releasing enzyme
+TTDR00741;Signal transduction protein CBL
+TTDR00742;Membrane copper amine oxidase
+TTDR00743;Cytokine growth-related oncogene-alpha
+TTDR00744;Trans-acting T-cell specific transcription factor GATA-3
+TTDR00745;Advanced glycosylation end product-specific receptor
+TTDR00746;Phosphomannomutase/phosphoglucomutase
+TTDR00747;Flavohemoglobin
+TTDR00748;2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+TTDR00749;G-quadruplex DNA
+TTDR00750;Melanoma-associated antigen 3
+TTDR00751;CD9 antigen
+TTDR00752;Myelin-associated/oligodendrocyte basic protein
+TTDR00753;Glucosamine-6-phosphate synthase
+TTDR00754;Mitotic checkpoint protein
+TTDR00755;Metabotropic glutamate receptor 8
+TTDR00756;Homeobox protein Hox-B13
+TTDR00757;Fatty-acyl-CoA synthase
+TTDR00758;Pyruvate:ferredoxin oxidoreductase
+TTDR00759;Xaa-Pro dipeptidase
+TTDR00761;Subtilisin-like protease
+TTDR00762;3-dehydroquinate synthase
+TTDR00763;C-C chemokine receptor type 8
+TTDR00764;Haemagglutinin
+TTDR00765;Tumor-associated calcium signal transducer 1
+TTDR00766;Iron-transporter ferric ion-binding protein
+TTDR00767;Tryparedoxin
+TTDR00769;Cysteine proteinase
+TTDR00771;Glycine receptor alpha-1 chain
+TTDR00773;Melanoma-associated antigen 4
+TTDR00774;GMP synthase [glutamine-hydrolyzing]
+TTDR00775;Gamma crystallin M2
+TTDR00776;Solute carrier family 2, facilitated glucose transporter, member 4
+TTDR00777;Neuropeptide Y
+TTDR00778;Negative factor
+TTDR00779;69 kDa islet cell autoantigen
+TTDR00780;Interleukin-8 receptor
+TTDR00781;Guanosine phosphotransferase
+TTDR00783;Deoxyribonucleoside phosphotransferase
+TTDR00784;Aminopeptidase N
+TTDR00785;3,4-dihydroxy-2-butanone-4-phosphate synthase
+TTDR00786;G1/S-specific cyclin E1
+TTDR00787;Endothelium-derived hyperpolarizing factor
+TTDR00788;Fibroblast-specific protein-1
+TTDR00789;Calgranulin A
+TTDR00790;Calgranulin B
+TTDR00792;Growth arrest and DNA-damage-inducible protein GADD45 beta
+TTDR00793;Zinc finger protein OZF
+TTDR00794;Myosin light chain kinase, smooth muscle and non-muscle isozymes
+TTDR00795;Angiopoietin-related protein 4
+TTDR00796;VDUP1 protein
+TTDR00797;Trypanothione synthetase
+TTDR00798;Calprotectin
+TTDR00799;Adiponectin
+TTDR00800;Polyphosphate kinase
+TTDR00801;Glycine receptor
+TTDR00802;Prostaglandin D2 receptor
+TTDR00803;Calgranulin D
+TTDR00804;Galectin-3
+TTDR00805;Choline kinase
+TTDR00806;Presynaptic density protein 95
+TTDR00807;Cell surface glycoprotein MUC18
+TTDR00808;Stromal cell-derived factor 1
+TTDR00809;DNA mismatch repair protein MSH2
+TTDR00810;DNA-binding protein inhibitor ID-2
+TTDR00811;Estradiol 17 beta-dehydrogenase 4
+TTDR00812;Myotubularin-related protein 1
+TTDR00813;Toll-like receptor 2
+TTDR00814;S-phase kinase-associated protein 2
+TTDR00815;Growth/differentiation factor 15
+TTDR00816;Protease II
+TTDR00817;Orphan nuclear receptor SHP
+TTDR00818;Nucleocapsid protein, NCP7, NC71
+TTDR00819;Mothers against decapentaplegic homolog 3
+TTDR00820;WNT1 inducible signaling pathway protein 3 variant
+TTDR00821;Metabotropic glutamate receptor 7
+TTDR00822;Cyclin-dependent kinase 6 inhibitor
+TTDR00823;Growth/differentiation factor 8
+TTDR00824;Neuroendocrine convertase 1
+TTDR00825;Neuroendocrine convertase 2
+TTDR00826;Histidine kinase
+TTDR00827;Phosphoribosylaminoimidazole carboxylase
+TTDR00828;Deoxyribonuclease I
+TTDR00829;Fascin
+TTDR00830;Vascular endothelial-cadherin
+TTDR00831;Apolipoprotein(a)
+TTDR00832;Olfactory receptor 51E2
+TTDR00833;U6 snRNA-associated Sm-like protein LSm1
+TTDR00834;ADM
+TTDR00838;Fatty acid transport protein
+TTDR00839;Kexin-like serine endoprotease
+TTDR00840;Fos-related antigen 1
+TTDR00841;Elav-like protein 1
+TTDR00842;Ets-domain protein elk-3
+TTDR00843;Elongation factor 2
+TTDR00844;Leukosialin
+TTDR00845;Protein tyrosine phosphatase
+TTDR00846;Beta-chimaerin
+TTDR00847;ADAM 17
+TTDR00848;Deoxyhypusine synthase
+TTDR00849;Lantibiotic mersacidin
+TTDR00850;Cd28 receptor
+TTDR00851;Angiotensin converting enzyme-like protein
+TTDR00852;Sterol regulatory element binding protein-1
+TTDR00853;Biphenyl hydrolase-related protein
+TTDR00854;Membrane-associated lectin type-C
+TTDR00855;Interleukin-20
+TTDR00856;Follistatin-related protein 3
+TTDR00857;Coronavirus main proteinase
+TTDR00858;Tyrosine-protein kinase itk/tsk
+TTDR00859;Protective antigen
+TTDR00860;Mammaglobin A
+TTDR00861;Lectin-like oxidized ldl receptor
+TTDR00862;Aspartate-semialdehyde dehydrogenase
+TTDR00863;Organic cation transporter 6
+TTDR00864;Glutathionylspermidine synthase
+TTDR00865;UDP-3-O-[3-hydroxymyristoyl] n-acetylglucosamine deacetylase
+TTDR00866;Lanosterol synthase
+TTDR00867;Galanin
+TTDR00868;Neurogenic locus notch homolog protein 1
+TTDR00869;ORF74 protein
+TTDR00870;GDP-mannose transporter
+TTDR00871;Cystathionine gamma-synthase
+TTDR00872;Riboflavin synthase
+TTDR00873;DNA-repair protein complementing xp-a cells
+TTDR00874;Dopachrome tautomerase
+TTDR00875;Hepatoma derived growth factor
+TTDR00876;Airway trypsin-like protease
+TTDR00877;Peroxysome proliferator-activated receptor gamma 2
+TTDR00878;Makorin 1
+TTDR00879;Sorbitol dehydrogenase
+TTDR00880;Acyl-CoA desaturase 1
+TTDR00883;1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase beta 1
+TTDR00884;Tyrosine-protein kinase 6
+TTDR00885;Transcription factor E2F2
+TTDR00886;Cathepsin B
+TTDR00887;CASP8 and FADD-like apoptosis regulator
+TTDR00888;Gremlin
+TTDR00889;ADAM 33
+TTDR00890;Early activation antigen CD69
+TTDR00891;Kinase suppressor of ras-1
+TTDR00892;Cell surface A33 antigen
+TTDR00893;Suppressor of cytokine signaling 3
+TTDR00894;Poly(ADP-ribose) glycohydrolase
+TTDR00895;NH(3)-dependent NAD(+) synthetase
+TTDR00897;DNA-directed RNA polymerase II 19 kDa polypeptide
+TTDR00898;DNA ligase
+TTDR00899;Na+-coupled citrate transporter protein
+TTDR00900;Serine/threonine protein phosphatase 1
+TTDR00901;JUN activation domain binding protein
+TTDR00902;Short transient receptor potential channel 3
+TTDR00903;Potassium voltage-gated channel subfamily A member 3
+TTDR00905;Ubiquitin-protein ligase E3A
+TTDR00906;Munc13
+TTDR00907;40 kDa peptidyl-prolyl cis-trans isomerase
+TTDR00908;Gamma-aminobutyric acid C receptor
+TTDR00909;Endoprotease bli-4
+TTDR00910;6-phosphogluconate dehydrogenase, decarboxylating
+TTDR00911;Oxysterols receptor LXR
+TTDR00912;Gamma-synuclein
+TTDR00913;Adipocyte-derived leucine aminopeptidase
+TTDR00914;Human leukocyte antigen class II
+TTDR00915;Bax inhibitor-1
+TTDR00916;M1-family aminopeptidase
+TTDR00917;Hormone sensitive lipase
+TTDR00918;Islet-specific glucose-6-phosphatase catalytic subunit-related protein
+TTDR00919;Latent membrane protein 1
+TTDR00920;ADAM 8
+TTDR00921;Small inducible cytokine A3
+TTDR00922;DNA repair protein RAD51 homolog 1
+TTDR00924;1-acyl-sn-glycerol-3-phosphate acyltransferase beta
+TTDR00925;Heparin-binding growth factor 1
+TTDR00926;Vascular endothelial growth factor B
+TTDR00927;Lymphocyte antigen 96
+TTDR00928;Mitogen-activated protein kinase 10
+TTDR00929;Thymidine monophosphate kinase
+TTDR00930;Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, delta isoform
+TTDR00931;Putative NTPase/helicase protein
+TTDR00932;YihA
+TTDR00933;TNF receptor associated factor
+TTDR00934;Tumor necrosis factor receptor superfamily member 17
+TTDR00935;Tumor necrosis factor receptor superfamily member 13B
+TTDR00936;Tumor necrosis factor receptor superfamily member 13C
+TTDR00937;F-box and WD-40 domain protein 7
+TTDR00938;Neutrophil cytosol factor 1
+TTDR00939;Toll-like receptor
+TTDR00940;Fc receptor
+TTDR00941;SLC38
+TTDR00943;Peptide YY
+TTDR00944;High density lipoprotein
+TTDR00945;Phosphoribosylaminoimidazolecarboxamide formyltransferase
+TTDR00946;Glycoprotein Ib-IX-V receptor
+TTDR00947;Coagulation factor VII
+TTDR00948;Protein phosphatase 1
+TTDR00949;Elongation factor 1-alpha
+TTDR00950;Kynureninase
+TTDR00951;CAMP-specific 3',5'-cyclic phosphodiesterase 4
+TTDR00952;Penicillin-binding protein 1A
+TTDR00953;DNA fragmentation factor alpha subunit
+TTDR00955;Dihydrolipoamide dehydrogenase, mitochondrial
+TTDR00956;CTP synthase
+TTDR00957;Adenosylhomocysteinase
+TTDR00958;Purine nucleoside kinase
+TTDR00959;5'-methylthioadenosine phosphorylase
+TTDR00960;Caspase
+TTDR00961;Calcitonin gene-related peptide receptor
+TTDR00962;Cytochrome c oxidase copper chaperone
+TTDR00963;Solute carrier family 2, facilitated glucose transporter, member 1
+TTDR00964;Transforming protein RhoB
+TTDR00965;Metabotropic glutamate receptor 4
+TTDR00966;Keratin, type I cytoskeletal 19
+TTDR00967;DNA-(apurinic or apyrimidinic site) lyase
+TTDR00968;Mitogen-activated protein kinase kinase kinase 5
+TTDR00969;Cell division protein FtsZ
+TTDR00970;DNA polymerase/reverse transcriptase
+TTDR00971;Similar to dipeptidyl aminopeptidase-like protein
+TTDR00972;Cytidylate kinase
+TTDR00973;Neuropeptide Y receptor
+TTDR00975;Glandular kallikrein 1
+TTDR00976;CAMP-dependent protein kinase, catalytic subunit
+TTDR00977;CAMP-dependent protein kinase type I-alpha regulatory chain
+TTDR00978;CAMP-dependent protein kinase type II-beta regulatory chain
+TTDR00979;Adenylate cyclase
+TTDR00980;28-kDa cysteine proteinase
+TTDR00981;Lymphocyte antigen Ly-6D
+TTDR00982;Cruzipain
+TTDR00983;Maspin
+TTDR00984;Phosphatidylcholine-specific phospholipase C
+TTDR00985;Guanine nucleotide-binding protein G(q), alpha subunit
+TTDR00986;Heat shock protein 40
+TTDR00987;Long transient receptor potential channel 2
+TTDR00988;Short transient receptor potential channel 6
+TTDR00989;mRNA of Methylenetetrahydrofolate reductase
+TTDR00990;T cell receptor beta chain
+TTDR00991;Interferon consensus sequence binding protein
+TTDR00992;Chorismate synthase
+TTDR00993;Fructosamine-3-kinase
+TTDR00994;Herstatin
+TTDR00995;Glyceraldehyde 3-phosphate dehydrogenase, muscle
+TTDR00996;Transmembrane 4 superfamily, member 2
+TTDR00997;Guanine nucleotide-binding protein beta subunit-like protein
+TTDR00998;TGF-beta receptor type I
+TTDR00999;T-cell leukemia/lymphoma protein 1A
+TTDR01000;CFP32
+TTDR01001;Sodium/iodide cotransporter
+TTDR01002;Borna disease virus envelope glycoprotein
+TTDR01003;Insulin-like growth factor IA
+TTDR01004;ATP-citrate synthase
+TTDR01005;Mitogen-activated protein kinase kinase kinase 3
+TTDR01006;Caspase-9
+TTDR01007;Junction plakoglobin
+TTDR01008;Epithelial-cadherin
+TTDR01010;Malignant melanoma metastasis-suppressor KiSS-1
+TTDR01011;CatSper
+TTDR01012;Polyketide synthase
+TTDR01013;PDZ domain containing-protein
+TTDR01014;Ileal sodium/bile acid cotransporter
+TTDR01015;Arginine deiminase
+TTDR01016;Subtilisin-like protease 2
+TTDR01017;Development and differentiation enhancing factor-like 1
+TTDR01018;Phosphopantetheine adenylyltransferase
+TTDR01019;3-phosphoshikimate 1-carboxyvinyltransferase
+TTDR01020;27 kDa antigen Cfp30B
+TTDR01021;88 kDa glycoprotein growth factor
+TTDR01022;AMP deaminase
+TTDR01023;Alpha v beta 5 integrin receptor
+TTDR01024;Anandamide amidase
+TTDR01025;Islet amyloid polypeptide
+TTDR01026;Angiotensin-(1-7) receptor
+TTDR01027;Lethal factor
+TTDR01028;Branched chain amino acid-dependent aminotransferase
+TTDR01029;CAMP-specific 3',5'-cyclic phosphodiesterase 7
+TTDR01030;Carboxypeptidase H
+TTDR01031;Cathepsin L
+TTDR01032;Cathepsin F
+TTDR01033;Tripeptidyl-peptidase II
+TTDR01034;Chlorine/potassium channel receptor
+TTDR01035;Bone morphogenetic protein 1
+TTDR01036;Creatine kinase
+TTDR01038;Amiloride-sensitive sodium channel
+TTDR01039;FK506-binding protein 4
+TTDR01041;Fructosamine oxidase
+TTDR01042;Gamma-aminobutyric-acid receptor alpha-5 subunit
+TTDR01044;Galanin receptor type 2
+TTDR01045;Galanin receptor type 3
+TTDR01048;Somatotropin
+TTDR01049;HIV-2 Protease
+TTDR01050;HNEAA81 receptor
+TTDR01051;Human rhinovirus 3C protease
+TTDR01052;Homocitrate synthase
+TTDR01053;Insulin receptor kinase
+TTDR01054;Integrin receptor
+TTDR01056;Orexin receptor type 2
+TTDR01057;Laminin beta-3 chain
+TTDR01059;Macrophage scavenger receptor types I and II
+TTDR01061;Metabotropic glutamate receptor
+TTDR01062;Membrane-associated kinase
+TTDR01063;Methionyl-tRNA synthetase
+TTDR01064;Multidrug transporter
+TTDR01065;N-acetylated-alpha-linked acidic dipeptidase II
+TTDR01066;Myelin-associated glycoprotein
+TTDR01067;Sphingomyelin phosphodiesterase 2
+TTDR01068;mRNA of PAI-1
+TTDR01069;Prostaglandin receptor
+TTDR01070;Geranylgeranyl transferase type I beta subunit
+TTDR01072;Sterol regulatory element binding protein cleavage-activating protein
+TTDR01073;Retinoic acid receptor RXR-alpha
+TTDR01074;Retinoic acid receptor RXR-beta
+TTDR01075;Retinoic acid receptor RXR-gamma
+TTDR01076;Protein farnesyltransferase beta subunit
+TTDR01077;Retinoic acid receptor gamma-1
+TTDR01078;Retinoic acid receptor gamma-2
+TTDR01079;Pyruvate kinase
+TTDR01080;Serine/threonine protein kinase
+TTDR01081;Protein kinase
+TTDR01082;Phenyl-protein transferase
+TTDR01083;Pyridoxin biosynthesis protein pyroA
+TTDR01084;Pyridoxin biosynthesis protein SNZ1
+TTDR01085;2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+TTDR01086;Phosphoenolpyruvate synthase
+TTDR01087;Lysyl-tRNA synthetase
+TTDR01088;ATP/ADP translocase
+TTDR01089;Orotidine 5'-phosphate decarboxylase
+TTDR01090;Probable dihydroneopterin aldolase
+TTDR01091;ATP/ADP translocase
+TTDR01092;ATP/ADP translocase
+TTDR01093;mRNA of beta-arrestin
+TTDR01094;mRNA of c-fos
+TTDR01095;mRNA of CIRL-1
+TTDR01096;mRNA of CIRL-3
+TTDR01097;mRNA of Connexin 32
+TTDR01098;mRNA of APP
+TTDR01100;DNA (cytosine-5)-methyltransferase 3B
+TTDR01101;Interleukin-2 receptor alpha chain
+TTDR01102;UDP-N-acetylenolpyruvylglucosamine reductase
+TTDR01104;Interleukin-12 receptor beta-2 chain
+TTDR01105;Fibroblast growth factor-8
+TTDR01106;Breast cancer type 2 susceptibility protein
+TTDR01107;Fanconi anemia group F protein
+TTDR01108;Myeloid differentiation primary response protein MyD88
+TTDR01109;Lipopolysaccharide-binding protein
+TTDR01110;Dual specificity protein kinase TTK
+TTDR01111;Abeta-binding alcohol dehydrogenase
+TTDR01112;P-selectin glycoprotein ligand 1
+TTDR01113;Diablo homolog, mitochondrial
+TTDR01114;Stanniocalcin 1
+TTDR01115;Cyclin E/cdk2
+TTDR01116;Ubiquitin carboxyl-terminal hydrolase 2
+TTDR01117;Geminin
+TTDR01118;Transcription factor 7-like 2
+TTDR01119;GPI transamidase component PIG-U
+TTDR01120;Kallikrein 6
+TTDR01121;Zinc finger protein 202
+TTDR01122;Mothers against decapentaplegic homolog 9
+TTDR01123;Activation-inducible lymphocyte IMMUNOMEDIATORY molecule AILIM
+TTDR01124;Claudin-4
+TTDR01125;Granulins
+TTDR01126;C-Rel proto-oncogene protein
+TTDR01127;KSHV G protein-couple receptor
+TTDR01128;Carcinoembryonic antigen-related cell adhesion molecule 6
+TTDR01129;Protein tyrosine phosphatase short form
+TTDR01130;Forkhead box protein M1
+TTDR01131;Fibroleukin
+TTDR01132;Glucose 6-phosphate translocase
+TTDR01133;Ephrin type-B receptor 2
+TTDR01134;Interferon regulatory factor 3
+TTDR01135;NGEP
+TTDR01136;26S proteasome non-ATPase regulatory subunit 10
+TTDR01137;17-beta-hydroxysteroid dehydrogenase 5
+TTDR01138;Recoverin
+TTDR01139;Phosphoethanolamine N-methyltransferase
+TTDR01140;HIV-1 RNA
+TTDR01141;Ubiquitin carboxyl-terminal hydrolase isozyme L1
+TTDR01142;DNA-dependent protein kinase catalytic subunit
+TTDR01143;Undecaprenyl pyrophosphate synthetase
+TTDR01144;Interleukin 11 receptor
+TTDR01145;TRNA-dependent amidotransferase
+TTDR01147;Transferrin receptor protein 1
+TTDR01148;Lactotransferrin
+TTDR01149;Receptor-type protein-tyrosine phosphatase zeta
+TTDR01150;Regenerating gene type IV 
+TTDR01151;Heat shock protein 20
+TTDR01152;Epstein-Barr virus (Strain FF41) nuclear antigen gene
+TTDR01153;Complement C3
+TTDR01154;Seprase
+TTDR01155;Teratocarcinoma-derived growth factor 1
+TTDR01156;Histone deacetylase 2
+TTDR01157;Probable nicotinate-nucleotide adenylyltransferase
+TTDR01158;Homeobox protein Hox-A7
+TTDR01159;Low-density lipoprotein receptor-related protein 1
+TTDR01160;Transient receptor potential cation channel subfamily V member 4
+TTDR01161;Toxopain-1
+TTDR01162;mRNA of platelet-derived growth factor receptor beta subunit
+TTDR01163;GABA transporter-3
+TTDR01164;Proprotein convertase subtilisin/kexin type 9
+TTDR01165;Platelet-activating factor receptor
+TTDR01166;Chitin synthase 1
+TTDR01167;Histone deacetylase 6
+TTDR01168;3-phosphoshikimate 1-carboxyvinyltransferase
+TTDR01169;DNA topoisomerase 4 subunit A
+TTDR01170;Integrin beta-2
+TTDR01171;Hypoxia-inducible gene DDIT4
+TTDR01172;mRNA of thymidylate synthase
+TTDR01173;mRNA of MCL-1
+TTDR01174;mRNA of Tumour protein p53
+TTDR01175;mRNA of HIV-1 Gag
+TTDR01176;Respiratory syncytial virus genomic RNA
+TTDR01177;Gamma-aminobutyric-acid receptor alpha-2 subunit
+TTDR01178;Gamma-aminobutyric-acid receptor alpha-3 subunit
+TTDR01179;Sodium- and chloride-dependent GABA transporter 1
+TTDR01180;Alpha-2C adrenergic receptor
+TTDR01181;Plasma membrane H(+)-ATPase
+TTDR01182;3-oxo-5-alpha-steroid 4-dehydrogenase 1
+TTDR01183;3-oxo-5-alpha-steroid 4-dehydrogenase 2
+TTDR01184;Acetaldehyde dehydrogenase
+TTDR01185;Aldehyde dehydrogenase, mitochondrial
+TTDR01186;Betaine aldehyde dehydrogenase
+TTDR01187;Dihydropyrimidine dehydrogenase [NADP+]
+TTDR01188;Corticosteroid receptor
+TTDR01189;Corticosteroid receptor type I
+TTDR01190;Corticosteroid receptor type II
+TTDR01191;Retinoic acid receptor beta
+TTDR01192;DNA topoisomerase II, beta isozyme
+TTDR01193;Histamine H4 receptor
+TTDR01194;5-hydroxytryptamine 1F receptor
+TTDR01195;Serotonin transporter
+TTDR01196;P2Y purinoceptor
+TTDR01197;Thyrotropin-releasing hormone receptor
+TTDR01198;Potassium channel subfamily K member 9
+TTDR01199;K-Cl cotransporter 3
+TTDR01200;Cystine/glutamate transporter
+TTDR01201;Pyridoxal kinase
+TTDR01202;Inositol-1(or 4)-monophosphatase
+TTDR01203;Soluble epoxide hydrolase
+TTDR01204;Carboxypeptidase A
+TTDR01205;Leukotriene E4 receptor
+TTDR01206;Inhibitor of nuclear factor kappa B kinase beta subunit
+TTDR01207;Endothelin receptor
+TTDR01208;RNase P RNA
+TTDR01209;Probable arabinosyltransferase A
+TTDR01210;Probable arabinosyltransferase B
+TTDR01211;Arylamine N-acetyltransferase
+TTDR01212;Malonyl-CoA:acyl carrier protein transacylase
+TTDR01213;DNA helicase
+TTDR01214;Ephrin type-A receptor 2
+TTDR01215;Microtubular protein
+TTDR01216;Platelet-derived growth factor
+TTDR01217;Beta platelet-derived growth factor receptor
+TTDR01218;BCR/ABL protein
+TTDR01219;FIP1L1-PDGFRalpha kinase
+TTDR01220;D1 dopamine receptor-interacting protein calcyon
+TTDR01221;Growth-arrest-specific protein 6
+TTDR01222;Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
+TTDR01223;Preadipocyte factor
+TTDR01224;Carbonic anhydrase I
+TTDR01225;HIV aspartyl protease
+TTDR01226;DNA-dependent DNA polymerase
+TTDR01227;Thyroid hormone receptor beta-1
+TTDR01228;Sulfonylurea receptor 2B 
+TTDR01229;5'-Nucleotidase
+TTDR01230;Cytochrome B
+TTDR01231;Haem polymerase
+TTDR01232;Glutathione reductase, mitochondrial
+TTDR01233;Tissue-type plasminogen activator
+TTDR01234;Granulocyte colony-stimulating factor
+TTDR01235;Catecholamine uptake
+TTDR01236;Sulfonylurea receptor 1
+TTDR01237;Major prion protein
+TTDR01238;Tumor necrosis factor receptor superfamily member 1B
+TTDR01239;Cholinergic receptor
+TTDR01240;Glycinamide ribonucleotide formyltransferase
+TTDR01241;Tyrosine kinase
+TTDR01242;Fibrin
+TTDR01243;Cytochrome p450 121
+TTDR01244;24:1 cis-5 elongase 
+TTDR01245;3-oxoacyl-[acyl-carrier-protein] synthase 1
+TTDR01246;Lactoylglutathione lyase
+TTDR01247;Nociceptin receptor
+TTDR01248;N-acylglucosamine 2-epimerase
+TTDR01249;Pyridoxal phosphate phosphatase
+TTDR01250;Serine/threonine-protein kinase Sgk1
+TTDR01251;Vascular endothelial growth factor D
+TTDR01252;Stromelysin-3
+TTDR01253;Voltage-dependent calcium channel subunit alpha-2/delta-3
+TTDR01254;Voltage-gated sodium channel subunit alpha Nav1.9
+TTDR01255;Voltage-gated sodium channel subunit alpha Nav1.3
+TTDR01256;Acid-sensing ion channel ASIC1a/ASIC1b
+TTDR01257;Acid-sensing ion channel ASIC3
+TTDR01258;Transient receptor potential cation channel subfamily V member 3
+TTDR01259;Glutamate [NMDA] receptor subunit zeta-1
+TTDR01260;Neuronal acetylcholine receptor subunit alpha-5
+TTDR01261;P2X purinoceptor 4
+TTDR01262;Cyclooxygenase-3
+TTDR01263;Protein-tyrosine phosphatase, non-receptor type 11
+TTDR01264;Interleukin-13 receptor alpha-1 chain
+TTDR01265;Receptor protein-tyrosine kinase erbB-3
+TTDR01266;Neutrophil collagenase
+TTDR01267;Beta-lactoglobulin-1
+TTDR01268;mRNA of Huntingtin protein
+TTDR01269;Corticosteroid 11-beta-dehydrogenase, isozyme 2
+TTDR01270;ATP-sensitive inward rectifier potassium channel 11
+TTDR01271;Serine protease
+TTDR01272;Hepatitis C Virus RNA-dependent RNA Polymerase
+TTDR01273;Pregnane X receptor
+TTDR01274;Acid-sensing ion channel
+TTDR01275;Activin
+TTDR01276;AP endonuclease APE1
+TTDR01278;Aquaporin 3 
+TTDR01280;Beta2-microglobulin 
+TTDR01281;CCCH tandem zinc finger protein ZFP36L1
+TTDR01282;CCN1 
+TTDR01283;CD147
+TTDR01284;CD248
+TTDR01285;Cell division cycle 7 kinase
+TTDR01286;Chondroitin sulfate proteoglycan 4
+TTDR01287;Dickkopf-1
+TTDR01288;Dynactin-Associated Protein
+TTDR01290;Elongation factor 1A 
+TTDR01291;Entamoeba histolytica cysteine proteinase EhCP4
+TTDR01292;Eukaryotic translation initiation factor 5A-1
+TTDR01293;Ferritin
+TTDR01294;Forkhead box O
+TTDR01295;G protein-coupled estrogen receptor 1
+TTDR01296;G Protein-Coupled Receptor 87
+TTDR01297;GlgE
+TTDR01298;Gli1
+TTDR01299;Heat shock protein 47
+TTDR01300;Helicobacter pylori  Heat-shock protein A
+TTDR01301;Histone H2A 
+TTDR01302;Interleukin-2-inducible T cell kinase
+TTDR01303;Liver receptor homologue-1
+TTDR01304;MicroRNA miR-191
+TTDR01305;Mitochondrial Na+/Ca2+ exchanger
+TTDR01306;Mitochondrial/Cell-Surface Protein p32/gC1qR
+TTDR01307;Olfactomedin 4
+TTDR01308;Orphan G protein-coupled receptor Gpr88
+TTDR01309;Periostin
+TTDR01310;Phosphodiesterase 8
+TTDR01311;Pituitary adenylate cyclase-activating polypeptide type I receptor 
+TTDR01312;Plasmodium Dihydroorotate Dehydrogenase
+TTDR01313;Plasmodium falciparum plasmepsin V
+TTDR01314;Prolyl hydroxylase domain 2
+TTDR01315;Prostaglandin E receptor EP4
+TTDR01316;Prostate apoptosis response-4
+TTDR01317;Protein kinase D
+TTDR01318;Pseudomonas aeruginosa  KerV
+TTDR01319;Rabl3 
+TTDR01320;Receptor protein tyrosine kinase TYRO3
+TTDR01321;Roundabout homolog 1
+TTDR01322;Salmonella enterica 27-kDa outer membrane protein T2544
+TTDR01323;Salt inducible kinase 2
+TTDR01324;Serine Racemase
+TTDR01325;Serine/threonine-protein kinase Nek6
+TTDR01326;Small conductance calcium-activated potassium channel
+TTDR01327;Sprouty 1
+TTDR01328;Ste20-Related Proline/Alanine-Rich Kinase 
+TTDR01330;TRESK background K(+) channel
+TTDR01331;Tryptophan hydroxylase
+TTDR01332;Tyrosine kinase non-receptor 2
+TTDR01333;Ubiquitin-activating enzyme E1
+TTDR01334;Ubiquitin-activating enzyme E2
+TTDR01335;Western equine encephalitis virus envelope protein E1
+TTDR01336;WNT1-inducible-signaling pathway protein 1
+TTDR01337;Histone Deacetylase 8
+TTDR01338;Histone Deacetylase 10
+TTDR01340;mRNA of Ubiquitin Protein Ligase WWP2
+TTDR01341;mRNA of human E2F transcription factor 3
+TTDR01342;mRNA of Human ADAM10
+TTDR01343;mRNA of Smad7
+TTDR01344;mRNA of Inhibitor-kappa B Kinase-alpha
+TTDR01345;mRNA of PDK-1
+TTDR01346;mRNA of human RIP2
+TTDR01347;mRNA of MADH6
+TTDR01348;mRNA of influenza A hemagglutinin
+TTDR01349;mRNA of Influenza polymerase 3
+TTDR01350;mRNA of influenza A matrix protein
+TTDR01351;mRNA of human zinc finger protein-217
+TTDR01352;mRNA of mouse diacylglycerol acyltransferase 1
+TTDR01353;mRNA of human acyl CoA cholesterol acyl-transferase-2
+TTDR01354;mRNA of influenza A nucleoprotein
+TTDR01355;mRNA of human superoxide dismutase 1
+TTDR01356;mRNA of H-ras
+TTDR01357;mRNA of human apolipoprotein A
+TTDR01358;mRNA of human C-reactive protein
+TTDR01359;mRNA of BPV-1 E2
+TTDR01360;mRNA of human apolipoprotein B
+TTDR01361;mRNA of HER2
+TTDR01362;mRNA of integrin beta 3
+TTDR01363;mRNA of c-jun
+TTDR01364;mRNA of HPV-18 E6 (start codon regions)
+TTDR01365;mRNA of HPV-18 E7 (start codon regions)
+TTDR01366;mRNA of HPV E2 transactivator protein
+TTDR01367;mRNA of HCMV DNA polymerase
+TTDR01368;mRNA of hnRNP A1
+TTDR01369;mRNA of human 5-lipoxygenase
+TTDR01370;mRNA of A-Raf
+TTDR01371;mRNA of integrin alpha-4
+TTDR01372;mRNA of human Macrophage migration inhibitory factor
+TTDR01373;mRNA of B-Raf
+TTDR01374;mRNA of E-selectin
+TTDR01375;mRNA of PKA Catalytic Subunit C-alpha
+TTDR01376;mRNA of human C/EBP beta
+TTDR01377;mRNA of human VCAM-1
+TTDR01378;mRNA of Nucleolin
+TTDR01379;mRNA of human PKC-eta
+TTDR01380;mRNA of Human Fas
+TTDR01381;mRNA of CD40
+TTDR01382;mRNA of HCV core protein
+TTDR01383;mRNA of G-alpha-11
+TTDR01384;mRNA of B7 protein (translation initiation codon region)
+TTDR01385;mRNA of MEK2
+TTDR01386;mRNA of PPAR-gamma
+TTDR01387;mRNA of STAT3
+TTDR01388;mRNA of human cot oncogene
+TTDR01389;mRNA of CD86
+TTDR01390;mRNA of PI3K p110 beta
+TTDR01391;mRNA of human Jun-N-terminal kinase-2 (JNK2)
+TTDR01392;mRNA of P120
+TTDR01393;mRNA of Human FasL
+TTDR01394;mRNA of human glycogen synthase kinase 3 alpha
+TTDR01395;mRNA of kinesin-like 1
+TTDR01396;mRNA of human caspase 6
+TTDR01397;mRNA of PTEN
+TTDR01398;mRNA of RhoA
+TTDR01399;mRNA of Human mdm2
+TTDR01400;mRNA of human E2F transcription factor 1
+TTDR01401;mRNA of PKC-epsilon
+TTDR01402;mRNA of Protein kinase C-theta
+TTDR01403;mRNA of PKC-zeta
+TTDR01404;mRNA of PKC-delta
+TTDR01405;mRNA of Bcl-x
+TTDR01406;mRNA of human forkhead box O1A
+TTDR01407;mRNA of Human FAP-1
+TTDR01408;mRNA of Dual specific phosphatase 8
+TTDR01409;mRNA of MEKK1
+TTDR01410;mRNA of Apoptosis-2
+TTDR01411;mRNA of eIF4E-BP2
+TTDR01412;mRNA of human ARA70
+TTDR01413;mRNA of Caspase 8
+TTDR01414;mRNA of HER4
+TTDR01415;mRNA of Smad
+TTDR01416;mRNA of HIF1-alpha
+TTDR01417;mRNA of human dual specific phosphatase 5
+TTDR01418;mRNA of Human Syntaxin 4 Interacting Protein
+TTDR01419;mRNA of human E2A-Pbx1
+TTDR01420;mRNA of Aurora B
+TTDR01421;mRNA of cytohesin-2
+TTDR01422;mRNA of human MEKK3
+TTDR01423;mRNA of HIF2-alpha
+TTDR01424;mRNA of Dual specific phosphatase 9
+TTDR01425;mRNA of Ubiquitin Protein Ligase WWP1
+TTDR01426;mRNA of human IL-1 receptor-associated kinase-4
+TTDR01427;mRNA of human helicase-moi
+TTDR01428;mRNA of influenza A neuraminidase
+TTDR01429;mRNA of influenza A polymerase 1
+TTDR01430;mRNA of human Jagged2
+TTDR01431;mRNA of AkT-3
+TTDR01432;mRNA of human MEKK2
+TTDR01433;mRNA of Talin
+TTDR01434;mRNA of RANK
+TTDR01435;Sigma 2-type opioid receptor
+TTDR01436;mRNA of glucocorticoid receptor
+TTDR01437;mRNA of Protein tyrosine phosphatase-1B
+TTDR01438;mRNA of FGFR4
+TTDR01439;mRNA of proprotein convertase subtilisin/kexin type 9
+TTDR01440;TGR5
+TTDR01441;Staphylococcus aureus Quinolone resistance protein norA
+TTDR01442;Cytochrome P450 2B2
+TTDR01443;Cytochrome P450 2A6
+TTDR01444;Cytochrome P450 2B6
+TTDR01445;Cytochrome P450 2A5
+TTDR01446;Clostridium histolyticum Collagenase
+TTDS00001;Muscarinic acetylcholine receptor
+TTDS00002;Muscarinic acetylcholine receptor M1
+TTDS00003;Muscarinic acetylcholine receptor M2
+TTDS00004;Muscarinic acetylcholine receptor M3
+TTDS00005;Muscarinic acetylcholine receptor M4
+TTDS00006;Muscarinic acetylcholine receptor M5
+TTDS00007;Vascular endothelial growth factor receptor 1
+TTDS00008;Vascular endothelial growth factor receptor 2
+TTDS00010;Dopamine receptor
+TTDS00011;Dopamine D1 receptor
+TTDS00012;D(2) dopamine receptor
+TTDS00013;D(3) dopamine receptor
+TTDS00015;D(1B) dopamine receptor
+TTDS00016;Dopamine reuptake
+TTDS00017;Sodium-dependent dopamine transporter
+TTDS00018;Gamma-aminobutyric acid receptor
+TTDS00019;Gamma-aminobutyric acid A receptor
+TTDS00022;Gamma-aminobutyric acid B receptor
+TTDS00023;Gamma-aminobutyric acid uptake
+TTDS00024;4-aminobutyrate aminotransferase, mitochondrial
+TTDS00026;Alpha adrenergic receptor
+TTDS00027;Alpha-1 adrenergic receptor
+TTDS00029;Alpha-1B adrenergic receptor
+TTDS00030;Alpha-1D adrenergic receptor
+TTDS00031;Alpha-2 adrenergic receptor
+TTDS00032;Alpha-2A adrenergic receptor
+TTDS00035;Beta adrenergic receptor
+TTDS00036;Beta-1 adrenergic receptor
+TTDS00037;Beta-2 adrenergic receptor
+TTDS00038;Noradrenergic re-uptake
+TTDS00039;Cyclooxygenase
+TTDS00040;Prostaglandin G/H synthase 1
+TTDS00041;Prostaglandin G/H synthase 2
+TTDS00043;Gastrin/cholecystokinin type B receptor
+TTDS00044;Potassium-transporting ATPase alpha chain 1
+TTDS00045;Sodium/potassium-transporting ATPase alpha-1 chain
+TTDS00046;Sodium/potassium-transporting ATPase
+TTDS00053;Aldehyde dehydrogenase
+TTDS00054;Succinate semialdehyde dehydrogenase, mitochondrial
+TTDS00055;3-beta-hydroxysteroid dehydrogenase
+TTDS00056;Xanthine dehydrogenase/oxidase
+TTDS00058;Glutamate dehydrogenase
+TTDS00059;Dihydroorotate dehydrogenase, mitochondrial
+TTDS00060;Alcohol dehydrogenase
+TTDS00062;Inosine-5'-monophosphate dehydrogenase
+TTDS00063;Inosine-5'-monophosphate dehydrogenase 2
+TTDS00064;Lipase
+TTDS00065;Phospholipase A2
+TTDS00066;Lipoprotein lipase
+TTDS00068;Corticosteroid-binding globulin
+TTDS00072;Retinoic acid receptor
+TTDS00073;Retinoic acid receptor alpha
+TTDS00075;Retinoic acid receptor gamma
+TTDS00076;Growth hormone receptor
+TTDS00077;Glycoprotein IIb/IIIa receptor
+TTDS00078;Aldehyde oxidase
+TTDS00079;DNA topoisomerase I
+TTDS00080;DNA topoisomerase II
+TTDS00083;Topoisomerase IV
+TTDS00084;Topoisomerase IV subunit A
+TTDS00085;Histamine receptor
+TTDS00086;Histamine H1 receptor
+TTDS00087;Histamine H2 receptor
+TTDS00089;Histamine N-methyltransferase
+TTDS00090;FL cytokine receptor
+TTDS00091;Myeloid cell surface antigen CD33
+TTDS00092;Adenosine deaminase
+TTDS00093;Dipeptidyl peptidase IV
+TTDS00095;Histone deacetylase 1
+TTDS00096;CAMPATH-1 antigen
+TTDS00097;5-hydroxytryptamine receptor
+TTDS00098;5-hydroxytryptamine 1A receptor
+TTDS00099;5-hydroxytryptamine 1B receptor
+TTDS00100;5-hydroxytryptamine 1D receptor
+TTDS00102;5-hydroxytryptamine 2 receptor
+TTDS00103;5-hydroxytryptamine 2A receptor
+TTDS00104;5-hydroxytryptamine 2B receptor
+TTDS00105;5-hydroxytryptamine 2C receptor
+TTDS00106;5-hydroxytryptamine 3 receptor
+TTDS00107;5-hydroxytryptamine 4 receptor
+TTDS00109;Vasopressin V1a receptor
+TTDS00111;Vasopressin V2 receptor
+TTDS00112;Arachidonate 5-lipoxygenase
+TTDS00113;P2Y purinoceptor 12
+TTDS00115;Aldose reductase
+TTDS00116;Solute carrier family 12 member 1
+TTDS00117;Solute carrier family 12 member 3
+TTDS00118;Synaptic vesicle amine transporter
+TTDS00120;Glutamate-gated chloride channel
+TTDS00121;Glutamate receptor AMPA subtype
+TTDS00122;Glutamate receptor, ionotropic kainate 1
+TTDS00123;Glutamate [NMDA] receptor subunit epsilon 1
+TTDS00125;Opioid receptor
+TTDS00126;Mu-type opioid receptor
+TTDS00127;Kappa-type opioid receptor
+TTDS00128;Delta-type opioid receptor
+TTDS00129;Sigma(1)-type opioid receptor
+TTDS00130;Tryptase
+TTDS00131;Tumor necrosis factor
+TTDS00132;Immunoglobulin E
+TTDS00133;Lyso-PAF: acetyl-CoA acetyltransferase 
+TTDS00134;Insulin-degrading Enzyme
+TTDS00135;NMDA receptor
+TTDS00136;Glycogen synthase kinase-3
+TTDS00138;Interleukin 1 receptor
+TTDS00139;Interleukin-2 receptor
+TTDS00140;Acetylcholinesterase
+TTDS00141;Neuronal acetylcholine receptor protein, alpha-4 chain
+TTDS00143;Cholinesterase
+TTDS00144;Erythropoietin Receptor
+TTDS00145;Calcium-activated potassium channel
+TTDS00147;Potassium voltage-gated channel subfamily H member 2
+TTDS00148;Potassium voltage-gated channel subfamily KQT member 1
+TTDS00149;Potassium voltage-gated channel subfamily KQT member 4
+TTDS00150;ATP-sensitive K+ channel
+TTDS00153;Na-K-2Cl cotransporter
+TTDS00155;Sodium channel
+TTDS00156;Voltage-gated sodium channel
+TTDS00157;Voltage-gated sodium channel subunit alpha Nav1.8
+TTDS00158;Amiloride-sensitive sodium channel alpha-subunit
+TTDS00160;Voltage-dependent L-type calcium channel
+TTDS00161;Voltage-dependent T-type calcium channel alpha-1G subunit
+TTDS00163;Calcium channel
+TTDS00164;Extracellular calcium-sensing receptor
+TTDS00165;Ryanodine receptor
+TTDS00167;Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1
+TTDS00168;Prostaglandin E2 receptor, EP2 subtype
+TTDS00169;Prostaglandin F2-alpha receptor
+TTDS00170;Prostacyclin receptor
+TTDS00171;Fibroblast growth factor receptor 2
+TTDS00172;Serotonin re-uptake
+TTDS00174;Neuraminidase
+TTDS00175;Influenza A virus M2 protein
+TTDS00177;Fatty-acid amide hydrolase
+TTDS00179;Prolyl 4-hydroxylase alpha subunit
+TTDS00181;Angiotensin-converting enzyme
+TTDS00182;D-alanyl-D-alanine carboxypeptidase
+TTDS00183;Cysteinyl leukotriene receptor 1
+TTDS00185;Adenosine receptor
+TTDS00186;Adenosine A1 receptor
+TTDS00187;Adenosine A2a receptor
+TTDS00188;Adenosine A2b receptor
+TTDS00189;Adenosine A3 receptor
+TTDS00191;Poly [ADP-ribose] polymerase-1
+TTDS00192;Glutathione S-transferase
+TTDS00194;Substance-P receptor
+TTDS00195;3-hydroxy-3-methylglutaryl-coenzyme A reductase
+TTDS00196;Aldosterone receptor
+TTDS00198;Endothelin-1 receptor
+TTDS00199;Endothelin B receptor
+TTDS00200;CGMP-inhibited 3',5'-cyclic phosphodiesterase
+TTDS00201;CAMP-phosphodiesterase
+TTDS00202;Thrombin
+TTDS00203;Coagulation factor Xa
+TTDS00204;Coagulation Factor Va
+TTDS00205;Coagulation Factor VIIIa
+TTDS00206;Mineralocorticoid receptor
+TTDS00208;Dihydrofolate reductase
+TTDS00209;AMP-activated protein kinase
+TTDS00210;Penicillin binding protein
+TTDS00211;Penicillin binding protein 2
+TTDS00212;Penicillin binding protein 3
+TTDS00213;DNA
+TTDS00216;16S rRNA
+TTDS00217;23S rRNA
+TTDS00219;30S ribosomal subunit
+TTDS00220;50S ribosomal subunit
+TTDS00221;70S prokaryotic ribosome
+TTDS00222;DNA-dependent RNA polymerase at the beta subunit
+TTDS00223;Isoleucyl-tRNA synthetase (bacterial)
+TTDS00225;DNA-dependent RNA polymerase
+TTDS00226;Plastid RNA polymerase beta-subunit
+TTDS00227;RNA polymerase, bacterial RNA polymerase switch region
+TTDS00228;Beta-lactamase
+TTDS00229;Peptidyl tranferase
+TTDS00230;Dehydropeptidase I
+TTDS00233;UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+TTDS00234;73-kDa molecular chaperone HSP73
+TTDS00235;Enoyl-ACP reductase
+TTDS00236;1-deoxy-D-xylulose-5-phosphate reductoisomerase
+TTDS00237;Dihydropteroate synthetase
+TTDS00240;5-alpha reductase
+TTDS00241;17 alpha-hydroxylase-C17, 20-lyase 
+TTDS00242;Estrogen receptor
+TTDS00244;Leutinizing-hormone-releasing hormone
+TTDS00245;Progesterone receptor
+TTDS00246;Ribonucleoside-diphosphate reductase
+TTDS00247;Proto-oncogene tyrosine-protein kinase SRC
+TTDS00249;Receptor protein-tyrosine kinase erbB-2
+TTDS00250;Estrogen receptor beta
+TTDS00251;Vitamin D receptor
+TTDS00252;Cytochrome P450 19
+TTDS00253;Gonadotropin-releasing hormone
+TTDS00254;Lutropin-choriogonadotropic hormone receptor
+TTDS00255;Multidrug resistance protein
+TTDS00256;Alkaline phosphatase, tissue-nonspecific
+TTDS00258;Parathyroid hormone/parathyroid hormone-related peptide receptor
+TTDS00261;Platelet-derived growth factor receptor
+TTDS00264;Oxytocin receptor
+TTDS00265;Serine/threonine-protein kinase mTOR
+TTDS00267;Type-1 angiotensin II receptor
+TTDS00268;B-lymphocyte antigen CD20
+TTDS00269;Insulin-like growth factor I receptor
+TTDS00270;Mast/stem cell growth factor receptor
+TTDS00271;Tubulin
+TTDS00272;Bile acid receptor
+TTDS00273;Gonadotropin-releasing hormone receptor
+TTDS00274;Heat shock protein 90
+TTDS00275;Signal transducer and activator of transcription 3
+TTDS00276;Thioredoxin reductase, cytoplasmic
+TTDS00278;Bile salt export pump
+TTDS00280;CAMP-specific 3',5'-cyclic phosphodiesterase 4A
+TTDS00282;Trypsin
+TTDS00283;Glucocorticoid receptor
+TTDS00285;Alpha-1-antitrypsin
+TTDS00286;Adrenocorticotropic hormone receptor
+TTDS00287;Chloride channel protein 2
+TTDS00288;Multidrug resistance-associated protein 1
+TTDS00289;Amine oxidase [flavin-containing] A
+TTDS00291;Maltase-glucoamylase, intestinal
+TTDS00292;Insulin receptor
+TTDS00293;Omega 1 Benzodiazepine receptor
+TTDS00295;Fatty acid synthase
+TTDS00296;CGMP-specific 3',5'-cyclic phosphodiesterase
+TTDS00299;1,3-Beta-Glucan synthase
+TTDS00300;Human keratin
+TTDS00301;Thymidylate synthase
+TTDS00302;Squalene monooxygenase
+TTDS00303;Nicotinic acetylcholine receptor
+TTDS00304;Carbonic anhydrase
+TTDS00306;Carbonic anhydrase II
+TTDS00307;Fumarate reductase flavoprotein subunit
+TTDS00308;Tubulin beta
+TTDS00309;HBV polymerase
+TTDS00310;DNA polymerase
+TTDS00311;Toll-like receptor 7
+TTDS00312;DNA (cytosine-5)-methyltransferase
+TTDS00313;Ornithine decarboxylase
+TTDS00314;4-hydroxyphenylpyruvate dioxygenase
+TTDS00315;DNA polymerase (HSV)
+TTDS00316;DNA polymerase (HSV-2)
+TTDS00317;HIV-1 reverse transcriptase
+TTDS00318;HIV reverse transcriptase
+TTDS00319;HIV-1 protease
+TTDS00320;HIV protease
+TTDS00322;HIV-1 Tat protein
+TTDS00323;Peptidyl-prolyl cis-trans isomerase A
+TTDS00325;Transmembrane glycoprotein gp41
+TTDS00326;C-C chemokine receptor type 5
+TTDS00328;Niemann-Pick C1-like protein 1
+TTDS00331;SUR1-type K(ATP) channel
+TTDS00332;SUR2-type K(ATP) channel
+TTDS00334;Cannabinoid receptor 1
+TTDS00336;Serum albumin
+TTDS00337;Nitric oxide synthase, inducible
+TTDS00338;Peroxisome proliferator activated receptor gamma
+TTDS00339;Vascular endothelial growth factor
+TTDS00340;Peroxisome proliferator activated receptor alpha
+TTDS00341;Amine oxidase [flavin-containing] B
+TTDS00342;Delta-aminolevulinic acid dehydratase
+TTDS00346;B-Raf proto-oncogene serine/threonine-protein kinase
+TTDS00347;Fusion glycoprotein
+TTDS00348;Proto-oncogene tyrosine-protein kinase receptor ret
+TTDS00349;Nicotinic acetylcholine receptor alpha subunit
+TTDS00350;Proto-oncogene tyrosine-protein kinase ABL1
+TTDS00351;Orphan nuclear receptor NR1I3
+TTDS00354;Retinoid X receptor
+TTDS00355;Epidermal growth factor receptor
+TTDS00357;Acetyl-CoA carboxylase 2
+TTDS00359;Fungal Cytochrome P450 51
+TTDS00360;Receptor-type protein-tyrosine phosphatase S
+TTDS00361;Aromatic-L-amino-acid decarboxylase
+TTDS00362;Catechol-O-methyl-transferase
+TTDS00363;Calcineurin
+TTDS00364;Collagenase
+TTDS00365;Tyrosine 3-monooxygenase
+TTDS00367;Androgen receptor
+TTDS00368;T-cell surface antigen CD2
+TTDS00372;Farnesyl pyrophosphate synthetase
+TTDS00373;Tyrosine oxidase
+TTDS00374;Benzodiazepine receptor
+TTDS00377;Ceramide glucosyltransferase
+TTDS00378;Heparin cofactor II
+TTDS00380;Thyroid peroxidase
+TTDS00381;Thyroid hormone receptor alpha
+TTDS00383;Probable arabinosyltransferase
+TTDS00384;Enoyl-[acyl-carrier-protein] reductase [NADH]
+TTDS00386;Fatty acid synthase subunit beta
+TTDS00389;Tubulin beta-2 chain
+TTDS00390;CGMP-inhibited 3',5'-cyclic phosphodiesterase A
+TTDS00392;Plasminogen
+TTDS00393;Melatonin receptor type 1A
+TTDS00394;Somatostatin receptor type 2
+TTDS00395;Thromboxane A2 receptor
+TTDS00397;Pancreatic alpha-amylase
+TTDS00398;Vitamin K epoxide reductase complex subunit 1
+TTDS00399;5-hydroxytryptamine receptor 3A
+TTDS00400;Neuronal acetylcholine receptor subunit alpha-2
+TTDS00401;Inosine-5'-monophosphate dehydrogenase 1
+TTDS00402;Sodium channel protein type 5 subunit alpha
+TTDS00403;Gamma-aminobutyric acid receptor subunit alpha-1
+TTDS00404;Sodium channel protein type 1 subunit alpha
+TTDS00405;Adenine nucleotide translocator 1
+TTDS00406;Proto-oncogene tyrosine-protein kinase Fyn
+TTDS00407;Proto-oncogene tyrosine-protein kinase LCK
+TTDS00408;Proto-oncogene tyrosine-protein kinase Yes
+TTDS00409;Troponin C
+TTDS00410;Gamma-aminobutyric acid receptor subunit beta-2
+TTDS00411;Macrophage colony-stimulating factor receptor
+TTDS00412;Potassium voltage-gated channel subfamily D member 3
+TTDS00413;Voltage-dependent T-type calcium channel subunit alpha-1H
+TTDS00414;Voltage-dependent L-type calcium channel subunit alpha-1C
+TTDS00415;Voltage-dependent calcium channel subunit alpha-2/delta-1
+TTDS00416;Sodium channel protein type 4 subunit alpha
+TTDS00417;Peptidyl-prolyl cis-trans isomerase B
+TTDS00418;Cytochrome P450 3A4
+TTDS00419;Cytochrome P450 11A1, mitochondrial
+TTDS00420;Cytochrome P450 11B1, mitochondrial
+TTDS00421;Ribonucleoside-diphosphate reductase subunit M2
+TTDS00422;Melatonin receptor type 1B
+TTDS00423;3-beta-HSD
+TTDS00424;Guanylate cyclase soluble subunit beta-1
+TTDS00426;Type I iodothyronine deiodinase
+TTDS00427;Vacuolar ATP synthase catalytic subunit A
+TTDS00428;Gamma-aminobutyric acid receptor subunit gamma-2
+TTDS00429;Gastric triacylglycerol lipase
+TTDS00430;Equilibrative nucleoside transporter 1
+TTDS00431;ATP-sensitive inward rectifier potassium channel 10
+TTDS00432;Calmodulin
+TTDS00433;Carnitine O-palmitoyltransferase I
+TTDS00434;Collagen
+TTDS00435;Complement C5
+TTDS00436;Elongation factor G
+TTDS00437;Ferrochelatase
+TTDS00438;Follicle stimulating hormone receptor
+TTDS00439;Glucagon receptor
+TTDS00440;Glucagon-like peptide 1 receptor
+TTDS00441;Glutamate carboxypeptidase II
+TTDS00442;Granulocyte-macrophage colony-stimulating factor receptor alpha chain
+TTDS00443;Guanylate cyclase
+TTDS00444;Lymphocyte function-associated antigen 1
+TTDS00445;Integrin alpha-4
+TTDS00446;Growth hormone-releasing hormone receptor
+TTDS00447;Interleukin-1 beta
+TTDS00448;Leukocyte elastase
+TTDS00449;Neprilysin
+TTDS00450;Mannose-6-phosphate isomerase
+TTDS00451;Renin, renal
+TTDS00452;Thyrotropin receptor
+TTDS00453;T-lymphocyte activation antigen CD80
+TTDS00454;Peripheral-type benzodiazepine receptor
+TTDS00455;Parasitic pyruvate:ferredoxin oxidoreductase
+TTDS00456;Peptidyl-transferase domain of the bacterial ribosome
+TTDS00457;Peripheral carotid chemoreceptor
+TTDS00458;TAG-72 antigen
+TTDS00459;Estramustine binding protein
+TTDS00460;Food vacuoles
+TTDS00461;26S proteasome
+TTDS00462;Bacterial outer membrane
+TTDS00463;Fungal outer membrane
+TTDS00464;Malignant cancer cells
+TTDS00465;Transient receptor potential cation channel subfamily A member 1
+TTDS00466;Diglyceride acyltransferase
+TTDS00467;Antithrombin-III
+TTDS00469;NADH dehydrogenase
+TTDS00470;Vitamin K-dependent protein C
+TTDS00471;HLA class II histocompatibility antigen, DRB1-1
+TTDS00472;T-cell surface glycoprotein CD1a
+TTDS00473;T-cell surface glycoprotein CD3 epsilon chain
+TTDS00474;D-alanine-D-alanine ligase A
+TTDS00475;Cytochrome P450 2D6
+TTDS00476;Indoleamine 2,3-dioxygenase
+TTDS00477;Interferon-gamma receptor
+TTDS00478;Atrial natriuretic peptide receptor A
+TTDS00479;Urease
+TTDS00480;B-cell receptor CD22
+TTDS00481;Mannose-6-phosphate receptor
+TTDS00482;Methylmalonyl-CoA mutase
+TTDS00483;Vesicle-associated membrane protein
+TTDS00484;High affinity immunoglobulin epsilon receptor
+TTDS00485;Calcitonin receptor
+TTDS00486;Vitamin K-dependent gamma-carboxylase
+TTDS00487;Carcinoembryonic antigen
+TTDS00489;Folate receptor
+TTDS00490;T-lymphocyte activation antigen CD86
+TTDS00491;Secretin receptor
+TTDS00492;Interferon-alpha/beta receptor
+TTDS00494;Biliverdin reductase A
+TTDS00495;Alpha-N-acetylglucosaminidase
+TTDS00496;Synaptosomal-associated protein 25
+TTDS00497;Somatostatin
+TTDS00498;Hemoglobin
+TTDS00499;Type IV phosphodiesterase
+TTDS00500;Adenylate cyclase type 1
+TTDS00501;Interleukin-11 receptor alpha chain
+TTDS00502;Inositol 1,4,5-trisphosphate receptor
+TTDS00503;Voltage-gated sodium channel subunit alpha Nav1.7
+TTDS00504;Organic anion transporter 1
+TTDS00505;Mannitol 2-dehydrogenase 
+TTDS00506;Mannitol-1-phosphate 5-dehydrogenase
+TTDS00507;Transient receptor potential cation channel subfamily M member 8
+TTDS00510;Integral membrane protein LmrP
+TTDS00511;Cycloinulo-oligosaccharide fructanotransferase
+TTDS00512;Gamma-hydroxybutyrate receptor
+TTDS00513;Sodium-dependent vitamin C transporter 2
+TTDS00514;Sodium channel protein type 10 subunit alpha
+TTDS00515;Low affinity immunoglobulin gamma Fc region receptor II-A
+TTDS00516;Acyl-CoA desaturase
+TTDS00517;Sarcoplasmic/endoplasmic reticulum calcium ATPase
+TTDS00518;Fc gamma receptor III
+TTDS00519;HIV-1 integrase
+TTDS00520;Neuronal acetylcholine receptor protein, alpha-7 chain
+TTDS00521;Interleukin-6 receptor
+TTDS00522;Noradrenaline uptake
+TTDS00524;Thrombopoietin Receptor
+TTDS00525;Type-2 angiotensin II receptor
+TTDS00526;mRNA of IE2 region of cytomegalovirus
+TTDS00527;Adrenergic neuron
+TTDS00528;5-aminoimidazole-4-carboxamidoribonucleotide (AICAR) transformylase
+TTDS00529;Voltage-dependent N-type calcium channel
+TTDS00530;Pyruvate decarboxylase
+TTDS00531;Diacylglycerol O-acyltransferase 2
+TTDS00532;Corynebacterium diphtheriae CRM197 protein
+TTDS00533;Carbamoyl-phosphate synthetase I
+TTDS00534;Interleukin-23
+TTDC00058;"Sphingosine kinase; Sphingosine kinase 2"
+TTDC00132;"RAC-alpha serine/threonine kinase; AkT"
+TTDC00322;"HCV NS5A protein; NS5A protein"
+TTDI00001;Granulin
+TTDI00002;Linear ubiquitin chain assembly complex
+TTDI00003;C-X-C motif chemokine 13
+TTDI00004;Collagen VI
+TTDI00005;Sgt1
+TTDI00006;Lactate dehydrogenase A
+TTDI00007;Metastasis associated gene-1
+TTDI00008;FHL1
+TTDI00010;C-X-C motif ligand 13
+TTDI00011;Monocarboxylate transporter 4
+TTDI00012;Mertk
+TTDI00013;Ras gtpase-activating protein SH3 domain-binding protein 1
+TTDI00017;Acylglycerol kinase
+TTDI00019;Adenomatous polyposis coli 2
+TTDI00021;Forkhead box Q1
+TTDI00022;Dnaj-1
+TTDI00023;Contactin-1
+TTDI00024;Liver receptor homolog-1
+TTDI00026;Astrocyte Elevated Gene-1
+TTDI00028;Regulators of G protein signaling 12
+TTDI00029;Heat shock protein A12B
+TTDI00030;L-type amino acid transporter 1
+TTDI00031;Polypyrimidine tract-binding protein
+TTDI00033;Zeb2
+TTDI00034;ABCG5
+TTDI00037;Cytokine signaling 1
+TTDI00038;Cyclin-dependent kinase inhibitor 1A
+TTDI00040;HOXA13
+TTDI00041;Methyl cpg binding protein 2
+TTDI00042;Gamma-Glutamyl transferase 7
+TTDI00043;CCL20
+TTDI00045;Src-associated in mitosis of 68 kda
+TTDI00046;Charged multivesicular body protein 4B
+TTDI00047;Matriptase
+TTDI00050;SOX2 
+TTDI00052;FBXO11
+TTDI00053;Phosphorylation of H2AX
+TTDI00054;Kallikrein-related-peptidase-4
+TTDI00057;Cyclin E2
+TTDI00058;SKP2
+TTDI00061;ATF4
+TTDI00064;Mixed-lineage leukemia protein (MLL) complex
+TTDI00065;Mitochondrial Cyclophilin D
+TTDI00066;Insulin-like growth factor-binding proteins 7
+TTDI00069;CCL22
+TTDI00072;ITCH
+TTDI00074;Eukaryotic translation initiation factor 4E
+TTDI00075;G protein-coupled receptor 35
+TTDI00076;Discoidin domain receptor 2
+TTDI00077;PTPN14
+TTDI00078;PTEN
+TTDI00079;MAP4K4
+TTDI00080;S100 calcium-binding protein A6
+TTDI00081;Ku80
+TTDI00082;Eukaryotic translation initiation factor 5A2
+TTDI00083;LATS2
+TTDI00084;PLEKHA5
+TTDI00086;Id (DNA binding and/or differentiation) protein 2
+TTDI00087;SLC26A9
+TTDI00088;HAX-1
+TTDI00089;Grainyhead-like 2
+TTDI00090;Histidine-rich calcium binding protein
+TTDI00091;Transforming acidic coiled-coil protein 3
+TTDI00092;Daam2
+TTDI00094;MTOR complex 2
+TTDI00095;Herpesvirus entry mediator
+TTDI00096;YOD1
+TTDI00100;PLP2
+TTDI00101;BCAM-AKT2 fusion gene
+TTDI00102;Telomeric repeat-binding factor 1
+TTDI00103;Telomeric repeat-binding factor 2
+TTDI00104;Surfactant protein D
+TTDI00105;Osteoclast-associated receptor
+TTDI00106;Non-catalytic region of tyrosine kinase adaptor protein 1
+TTDI00108;Beclin-1
+TTDI00109;Cullin7
+TTDI00111;SYVN1 
+TTDI00112;Peroxisome proliferator-activated receptor gamma coactivator 1beta
+TTDI00114;Stomatin-like protein 2
+TTDI00115;Apelin
+TTDI00116;HOXA5
+TTDI00119;Signal peptide-CUB-epidermal growth factor-like domain-containing protein 2
+TTDI00120;Activating enhancer-binding protein-2 alpha
+TTDI00121;Musashi2
+TTDI00122;Lymphocyte adaptor protein LNK
+TTDI00123;Thioredoxin-interacting protein
+TTDI00126;T lymphoma invasion and metastasis 1
+TTDI00127;High-mobility group protein 2
+TTDI00128;Kinesin family member 26B
+TTDI00130;FAM83D
+TTDI00132;Shugoshin-like protein 1
+TTDI00133;Annexin II receptor
+TTDI00134;Homeobox (HOX) A11
+TTDI00137;KDM5B
+TTDI00139;WW domain containing E3 ubiquitin protein ligase 2
+TTDI00140;ADP-ribosylation factor-like protein 2
+TTDI00142;Src homology region 2 domain-containing phosphatase 1
+TTDI00144;Stathmin 1
+TTDI00146;CXXC5
+TTDI00148;CBX7
+TTDI00149;Srrp35
+TTDI00151;JAG2
+TTDI00152;High mobility group protein HMGI-C
+TTDI00153;PNPLA6
+TTDI00154;Uncoupling protein-2
+TTDI00155;Phosphoglycerate dehydrogenase
+TTDI00156;Transcription factor sex determining region Y-box protein 5
+TTDI00157;Allograft inflammatory factor-1
+TTDI00158;GLUT12
+TTDI00159;Thyroid hormone receptor-interacting protein 12
+TTDI00160;Optic atrophy protein 1
+TTDI00161;Thioredoxin-like protein 2b
+TTDI00165;DEK
+TTDI00166;Citrate synthase
+TTDI00168;Gamma-H2AX
+TTDI00169;Cytoplasmic DRAK1
+TTDI00170;ATG7 
+TTDI00173;Septin-6
+TTDI00174;P300/CBP-associated factor
+TTDI00176;Interleukin (IL)-35
+TTDI00178;RECK 
+TTDI00181;Rab22a 
+TTDI00182;Sialic acid-binding immunoglobulin-like lectin 15
+TTDI00183;Beta-Arrestin1
+TTDI00184;C-terminal tensin-like (Cten) protein
+TTDI00185;CX3CL1
+TTDI00188;Endoplasmic reticulum aminopeptidase 1
+TTDI00189;Calpain 2
+TTDI00190;Lysosome-associated protein transmembrane 4b-35 protein
+TTDI00192;G protein-coupled estrogen receptor 30
+TTDI00193;SPAG6
+TTDI00194;STK33
+TTDI00195;N-acylethanolamine-hydrolyzing acid amidase
+TTDI00196;Forkhead box protein C2
+TTDI00197;Activating transcription factor 4
+TTDI00198;Fos-related antigen 2
+TTDI00200;E-cadherin
+TTDI00202;Musashi RNA-binding protein 1
+TTDI00204;Beta-Arrestin 2
+TTDI00205;Proprotein Convertase 5/6A
+TTDI00207;Glyoxalase I
+TTDI00208;Transducin (beta)-like 1 X-linked receptor 1
+TTDI00210;Metadherin
+TTDI00212;Autophagy-related 2B
+TTDI00213;SET and MYND domain-containing protein 2
+TTDI00214;Resistance to inhibitors of cholinesterase (Ric-8)A
+TTDI00215;Resistance to inhibitors of cholinesterase (Ric-8)B
+TTDI00217;TAGLN
+TTDI00222;Multidrug resistance protein 4
+TTDI00223;Hippo-Yes-associated protein 1
+TTDI00224;Ubiquitin-specific protease 37
+TTDI00226;NM23-H1
+TTDI00227;HS-1-associated protein X-1
+TTDI00228;MPHOSPH1
+TTDI00229;Annexin A8
+TTDI00230;Borealin/Dasra B
+TTDI00232;TNF receptor-associated factor 6
+TTDI00233;ATP-binding cassette G1 transporter
+TTDI00236;PSMD10
+TTDI00240;PRL-1
+TTDI00242;PRL-2
+TTDI00244;PRL-3
+TTDI00245;Cdc2-like kinase 1
+TTDI00246;Cullin 3
+TTDI00290;Sphingosine kinase 2
+TTDI01745;Integrin alpha-4/beta-4
+TTDI01787;Integrin alpha-M/beta-2
+TTDI01813;Integrin alpha-V/beta-6
+TTDI01814;Nerve growth factor ligand
+TTDI01815;Activin type-II receptor
+TTDI01816;Alpha-4/beta-2 nicotinic receptor
+TTDI01868;ATP sensitive potassium channel
+TTDI01962;Dihydropyrimidinase related protein 2
+TTDI01968;Sodium channel protein type 2 subunit alpha
+TTDI01970;Glutamate receptor 2
+TTDI01974;Glutamate receptor 3
+TTDI01995;Bacterial penicillin-binding protein 2X (PBP2x)
+TTDI02022;Na+ K+ ATPase alpha subunit 3
+TTDI02027;Bone morphogenetic protein-10 ligand
+TTDI02029;Brachyury protein
+TTDI02039;CDC7 protein kinase
+TTDI02060;Tumor-associated hydroquinone oxidase (tNOX)
+TTDI02072;FGF-23 ligand
+TTDI02073;Folate receptor gamma
+TTDI02102;Importin beta
+TTDI02108;Antigen KI-67
+TTDI02115;Lysyl oxidase homolog 2
+TTDI02117;Lymphocyte antigen 75
+TTDI02121;MARCKS protein
+TTDI02128;Beta microseminoprotein
+TTDI02130;Mucin 15
+TTDI02138;Solute carrier family 34 member 2
+TTDI02139;Neuronal pentraxin-2
+TTDI02147;Phosphodiesterase (PDE) 3B
+TTDI02152;Porcupine (PORCN)
+TTDI02155;Protein tyrosine phosphatase beta
+TTDI02158;AGS-16
+TTDI02165;S100 calcium-binding protein B
+TTDI02169;Ganglioside GM2 activator
+TTDI02170;Syndecan-1
+TTDI02178;Transcription factor Sp1
+TTDI02189;TGF beta-3 ligand
+TTDI02206;Human papillomavirus E6 protein
+TTDI02218;Bone morphogenetic protein-9 ligand
+TTDI02227;Dibasic-processing enzyme (Furin)
+TTDI02232;S-nitrosoglutathione reductase
+TTDI02234;mRNA of Heat shock protein 27
+TTDI02238;mRNA of glucocorticoid receptor
+TTDI02241;mRNA of glucagon receptor
+TTDI02243;mRNA of KIF11
+TTDI02244;mRNA of Growth hormone receptor
+TTDI02247;mRNA of GRB2
+TTDI02250;mRNA of Sodium glucose transporter-2
+TTDI02251;mRNA of PCSK9
+TTDI02252;mRNA of Colony stimulating factor-1 receptor
+TTDI02253;mRNA of CCR3 chemokine
+TTDI02254;mRNA of GM-CSF/IL-3/IL-5 receptor common beta chain
+TTDI02279;Interleukin-12 subunit p40
+TTDI02288;Arylsulfatase B
+TTDI02289;C1 esterase inhibitor
+TTDI02292;mRNA of Apolipoprotein C3
+TTDI02305;SLAM family member 7 (SLAMF7) (CS1)
+TTDI02307;Relaxin receptor 1
+TTDI02310;Zonulin
+TTDI02314;Human cytomegalovirus terminase subunit UL56
+TTDI02319;Mucin 16
+TTDI02337;HLA class I antigen B-7
+TTDI02341;Interleukin-22 ligand
+TTDI02343;NKG2 D activating NK receptor
+TTDI02347;mRNA of CD49d
+TTDI02367;Glycine transporter-2
+TTDI02378;mRNA of protein kinase A Rialpha regulatory subunit
+TTDI02381;mRNA of Adenosine A1 receptor
+TTDI02386;mRNA of HIV GAG
+TTDI02390;VEGF 165 isoform (aptamer)
+TTDI02542;MAPKAPK5
+TTDI02651;mRNA of HRas
+TTDNC00426;a5?ª? integrin
+TTDNC00468;Programmed cell deathŸ?? ligand 1 (PD-L1)
+TTDNR00633;[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 3, mitochondrial
+TTDNR00634;Acidic mammalian chitinase
+TTDNR00635;ADM2
+TTDNR00636;ADP-ribosylation factor 1
+TTDNR00637;Afadin- and alpha-actinin-binding protein
+TTDNR00639;Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+TTDNR00640;Alpha-crystallin A chain
+TTDNR00641;AN1-type zinc finger protein 5
+TTDNR00642;Angiopoietin-related protein 3
+TTDNR00644;Annexin A2
+TTDNR00645;ATP-dependent Clp protease proteolytic subunit
+TTDNR00650;Beta-klotho
+TTDNR00651;Cancer/Testis Antigen MAGE-C1/CT7
+TTDNR00653;C-C chemokine receptor type 7
+TTDNR00654;C-C motif chemokine 21
+TTDNR00656;CMP-N-acetylneuraminate-poly-alpha-2,8-sialyltransferase
+TTDNR00657;CMRF35-like molecule 8
+TTDNR00660;Cytosolic phospholipase A2 gamma
+TTDNR00661;Discoidin domain-containing receptor 2
+TTDNR00662;Dual specificity protein phosphatase 10
+TTDNR00663;E3 ubiquitin-protein ligase Itchy homolog
+TTDNR00664;Endoplasmic reticulum-resident calcium binding protein
+TTDNR00665;Endoribonuclease YbeY
+TTDNR00666;Enhancer of filamentation 1
+TTDNR00667;Enteropeptidase
+TTDNR00668;Epidermal growth factor-like protein 6
+TTDNR00669;Eukaryotic translation initiation factor 4E-binding protein 1
+TTDNR00670;Excitatory amino acid transporter 2
+TTDNR00672;Exportin-2
+TTDNR00674;Fatty acid desaturase 2
+TTDNR00675;Fatty-acid amide hydrolase 2
+TTDNR00677;Forkhead box protein C1
+TTDNR00679;Ghrelin O-acyltransferase
+TTDNR00680;Glucose-6-phosphate isomerase
+TTDNR00681;glycine receptor chloride channel
+TTDNR00682;G-protein coupled estrogen receptor 1
+TTDNR00683;G-protein coupled receptor 55
+TTDNR00684;HCLS1-associated protein X-1
+TTDNR00686;Hepatitis A virus cellular receptor 2
+TTDNR00688;High mobility group protein HMG-I/HMG-Y
+TTDNR00690;Indole-3-glycerol phosphate synthase
+TTDNR00692;Integrin alpha-8
+TTDNR00693;Integrin beta-8
+TTDNR00694;Interferon-induced, double-stranded RNA-activated protein kinase
+TTDNR00695;Interleukin-16
+TTDNR00696;Interleukin-19
+TTDNR00697;Isocitrate lyase
+TTDNR00698;Junctional adhesion molecule A
+TTDNR00699;Keratin, type I cytoskeletal 17
+TTDNR00701;Lon protease homolog, mitochondrial
+TTDNR00703;Lysine-specific demethylase 5A
+TTDNR00706;Mitogen-activated protein kinase kinase kinase 7
+TTDNR00707;Mitogen-activated protein kinase kinase kinase kinase 1
+TTDNR00710;Neuritin
+TTDNR00711;Neutrophil gelatinase-associated lipocalin
+TTDNR00712;Nischarin
+TTDNR00715;Nuclear receptor subfamily 4 group A member 1
+TTDNR00716;Nucleus accumbens-associated protein 1
+TTDNR00717;Oncostatin-M-specific receptor subunit beta
+TTDNR00718;P antigen family member 5
+TTDNR00721;Pendrin
+TTDNR00722;Peptidyl-prolyl cis-trans isomerase FKBP5
+TTDNR00723;Phosphoglucosamine mutase
+TTDNR00724;Phosphopantetheinyl transferase
+TTDNR00725;PIN2/TERF1-interacting telomerase inhibitor 1
+TTDNR00727;Plexin domain-containing protein 1
+TTDNR00728;Polycomb complex protein BMI-1
+TTDNR00730;Pre-glycoprotein polyprotein GP complex
+TTDNR00731;Protein CYR61
+TTDNR00732;Protein delta homolog 1
+TTDNR00733;Protein FAM83B
+TTDNR00734;Protein LYRIC
+TTDNR00735;Protein P16
+TTDNR00736;Protein-cysteine N-palmitoyltransferase HHAT
+TTDNR00737;Putative pyrroline carboxylate reductase
+TTDNR00739;RalA-binding protein 1
+TTDNR00740;Ras-related protein Rab-7a
+TTDNR00741;Recombining binding protein suppressor of hairless
+TTDNR00742;Regulator of G-protein signaling 2
+TTDNR00743;Regulator of G-protein signaling 6
+TTDNR00744;Replicase polyprotein 1ab
+TTDNR00748;Short transient receptor potential channel 1
+TTDNR00749;Signal peptidase I
+TTDNR00750;Signal transducer and activator of transcription 6
+TTDNR00753;Stabilin-2
+TTDNR00754;Stanniocalcin-2
+TTDNR00756;Structural maintenance of chromosomes protein 2
+TTDNR00757;Syndecan-2
+TTDNR00758;Testican-1
+TTDNR00759;Thioredoxin glutathione reductase
+TTDNR00760;Thymosin beta-4
+TTDNR00761;T-lymphocyte surface antigen Ly-9
+TTDNR00762;Transcription factor SOX-2
+TTDNR00763;Tumor suppressor p53-binding protein 1
+TTDNR00765;Tyrosyl-DNA phosphodiesterase 2
+TTDNR00766;V-type proton ATPase 116 kDa subunit a isoform 3
+TTDNR00767;WNT1-inducible-signaling pathway protein 1
+TTDR00224;"Proliferating cell nuclear antigen; Cyclin-A2"
+TTDR00236;"Rhinovirus coat protein; Genome polyprotein"
+TTDR01103;Heat shock factor protein 1
